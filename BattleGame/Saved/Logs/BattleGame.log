@@ -10644,3 +10644,1366 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.01.14-21.20.08:895][787]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 39800.417969
 [2026.01.14-21.20.09:897][790]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.01.14-21.20.09:897][790]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 39801.082031, Update Interval: 319.754028
+[2026.01.14-21.26.01:317][843]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 40152.554688
+[2026.01.14-21.26.02:320][847]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.14-21.26.02:320][847]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 40153.222656, Update Interval: 308.866241
+[2026.01.14-21.32.00:775][922]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 40511.765625
+[2026.01.14-21.32.01:769][924]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-21.32.01:778][925]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.14-21.32.01:778][925]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 40512.437500, Update Interval: 337.131256
+[2026.01.14-21.32.03:575][929]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:64164'.
+[2026.01.14-21.32.03:578][929]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-21.32.03:578][929]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-21.32.03:585][929]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-21.38.35:585][105]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 40906.277344
+[2026.01.14-21.38.36:583][108]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.14-21.38.36:583][109]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 40906.941406, Update Interval: 324.546051
+[2026.01.14-21.44.38:338][193]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 41268.644531
+[2026.01.14-21.44.39:336][197]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.14-21.44.39:337][197]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 41269.312500, Update Interval: 359.842529
+[2026.01.14-21.45.03:169][270]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.14-21.45.03:175][270]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.14-21.45.03:176][270]LogPlayLevel: Creating play world package: /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.14-21.45.03:222][270]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046750s)
+[2026.01.14-21.45.03:222][270]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Project/00_Maps/Map_Game.Map_Game to /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game (0.046810s)
+[2026.01.14-21.45.03:271][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2026.01.14-21.45.03:276][270]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Game
+[2026.01.14-21.45.03:278][270]LogPlayLevel: PIE: World Init took: (0.002068s)
+[2026.01.14-21.45.03:278][270]LogAudio: Display: Creating Audio Device:                 Id: 83, Scope: Unique, Realtime: True
+[2026.01.14-21.45.03:278][270]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.14-21.45.03:278][270]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.14-21.45.03:278][270]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.14-21.45.03:278][270]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.14-21.45.03:278][270]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.14-21.45.03:278][270]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.14-21.45.03:278][270]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.14-21.45.03:278][270]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.14-21.45.03:278][270]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.14-21.45.03:278][270]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.14-21.45.03:278][270]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.14-21.45.03:282][270]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.14-21.45.03:325][270]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2026.01.14-21.45.03:325][270]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.14-21.45.03:325][270]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.14-21.45.03:325][270]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.14-21.45.03:326][270]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=83
+[2026.01.14-21.45.03:326][270]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=83
+[2026.01.14-21.45.03:329][270]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=83
+[2026.01.14-21.45.03:329][270]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=83
+[2026.01.14-21.45.03:329][270]LogInit: FAudioDevice initialized with ID 83.
+[2026.01.14-21.45.03:329][270]LogAudio: Display: Audio Device (ID: 83) registered with world 'Map_Game'.
+[2026.01.14-21.45.03:329][270]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 83
+[2026.01.14-21.45.03:335][270]LogLoad: Game class is 'BP_GM_Game_C'
+[2026.01.14-21.45.03:337][270]LogWorld: Bringing World /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game up for play (max tick rate 60) at 2026.01.14-22.45.03
+[2026.01.14-21.45.03:337][270]LogWorld: Bringing up level for play took: 0.002679
+[2026.01.14-21.45.03:340][270]LogOnline: OSS: Created online subsystem instance for: :Context_120
+[2026.01.14-21.45.03:346][270]PIE: Server logged in
+[2026.01.14-21.45.03:348][270]PIE: Play in editor total start time 0,173 seconds.
+[2026.01.14-21.45.03:385][271]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.14-21.45.06:730][466]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_0)
+[2026.01.14-21.45.06:731][466]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_1)
+[2026.01.14-21.45.06:732][466]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_2)
+[2026.01.14-21.45.06:733][466]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_3)
+[2026.01.14-21.45.06:733][466]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_4)
+[2026.01.14-21.45.06:733][466]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_5)
+[2026.01.14-21.45.14:817][951]LogBlueprintUserMessages: [BP_EnemyDummy_C_0] Damage 25.0
+[2026.01.14-21.45.14:817][951]LogBlueprintUserMessages: [BP_EnemyDummy_C_0] HP 5.0
+[2026.01.14-21.45.18:019][143]LogBlueprintUserMessages: [BP_EnemyDummy_C_0] Damage 25.0
+[2026.01.14-21.45.18:019][143]LogBlueprintUserMessages: [BP_EnemyDummy_C_0] HP -20.0
+[2026.01.14-21.45.19:186][210]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.14-21.45.19:186][210]LogWorld: BeginTearingDown for /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.14-21.45.19:187][210]LogWorld: UWorld::CleanupWorld for Map_Game, bSessionEnded=true, bCleanupResources=true
+[2026.01.14-21.45.19:187][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-21.45.19:190][210]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.14-21.45.19:195][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-21.45.19:244][210]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.14-21.45.19:244][210]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 83
+[2026.01.14-21.45.19:244][210]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=83, StreamState=4
+[2026.01.14-21.45.19:246][210]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=83, StreamState=2
+[2026.01.14-21.45.19:258][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2026.01.14-21.45.19:297][211]LogPlayLevel: Display: Destroying online subsystem :Context_120
+[2026.01.14-21.46.20:571][567]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.01.14-21.46.20:573][567]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.01.14-21.46.46:578][884]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2026.01.14-21.46.46:590][884]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2026.01.14-21.46.46:603][884]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2026.01.14-21.46.46:631][885]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2026.01.14-21.46.52:222][214]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_HUD
+[2026.01.14-21.46.52:231][214]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2026.01.14-21.46.54:949][376]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/_Project/02_UI/Widgets/WBP_HUD.WBP_HUD
+[2026.01.14-21.46.54:949][376]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_46
+[2026.01.14-21.46.54:956][376]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_47
+[2026.01.14-21.46.57:599][498]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.01.14-21.46.57:599][498]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2026.01.14-21.46.57:599][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-21.46.57:734][498]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2026.01.14-21.46.57:915][505]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.01.14-21.46.57:915][505]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2026.01.14-21.46.57:915][505]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-21.46.58:015][505]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.01.14-21.48.41:371][476]LogSlate: Took 0.010155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2026.01.14-21.49.22:434][911]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2026.01.14-21.49.33:389][523]LogSlate: Window 'Color Picker' being destroyed
+[2026.01.14-21.49.47:881][358]LogSlate: Window 'Color Picker' being destroyed
+[2026.01.14-21.49.53:667][680]LogSlate: Window 'Color Picker' being destroyed
+[2026.01.14-21.51.34:535][515]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 41677.113281
+[2026.01.14-21.51.34:687][524]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.14-21.51.34:687][524]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 41677.250000, Update Interval: 335.089569
+[2026.01.14-21.51.53:299][595]LogSlate: Window 'Color Picker' being destroyed
+[2026.01.14-21.52.04:306][221]LogSlate: Window 'Color Picker' being destroyed
+[2026.01.14-21.52.17:283][964]LogSlate: Window 'Color Picker' being destroyed
+[2026.01.14-21.52.50:017][856]LogWindows: LaunchURL https://docs.unrealengine.com/5.6/en/Engine/Blueprints?utm_source=editor&utm_medium=docs&utm_campaign=help_menu_asset
+[2026.01.14-21.53.25:283][245]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-21.53.27:389][357]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:56400'.
+[2026.01.14-21.53.27:392][357]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-21.53.27:392][357]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-21.53.27:397][357]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-21.53.29:093][455]LogSlate: Window 'Color Picker' being destroyed
+[2026.01.14-21.53.41:715][185]LogSlate: Window 'Color Picker' being destroyed
+[2026.01.14-21.54.48:668][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2026.01.14-21.55.45:333][155]LogDerivedDataCache: C:/Users/2004i/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.01.14-21.55.48:480][188]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-21.55.50:580][300]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:55741'.
+[2026.01.14-21.55.50:583][300]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-21.55.50:583][300]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-21.55.50:588][300]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-21.55.50:799][305]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.01.14-21.55.50:806][305]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/_Project/00_Maps/Map_Game' took 0.042
+[2026.01.14-21.55.50:807][305]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Project/02_UI/Widgets/WBP_HUD] ([2] browsable assets)...
+[2026.01.14-21.55.50:809][305]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Project/02_UI/Widgets/WBP_HUD.WBP_HUD]
+[2026.01.14-21.55.50:810][305]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/02_UI/Widgets/WBP_HUD]
+[2026.01.14-21.55.50:822][305]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Project/02_UI/Widgets/WBP_HUD_Auto2
+[2026.01.14-21.55.50:822][305]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/WBP_HUD_Auto271F50A394E2344452F29B7A208B77473.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/Autosaves/Game/_Project/02_UI/Widgets/WBP_HUD_Auto2.uasset'
+[2026.01.14-21.55.50:823][305]LogFileHelpers: Auto-saving content packages took 0.018
+[2026.01.14-21.55.52:596][407]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-21.55.54:801][519]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:59037'.
+[2026.01.14-21.55.54:804][519]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-21.55.54:804][519]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-21.55.54:809][519]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-21.55.56:815][624]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-21.55.58:920][723]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:59038'.
+[2026.01.14-21.55.58:924][723]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-21.55.58:924][723]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-21.55.58:928][723]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-21.56.04:940][ 63]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-21.56.07:142][176]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:62655'.
+[2026.01.14-21.56.07:146][176]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-21.56.07:146][176]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-21.56.07:150][176]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-21.56.07:153][177]LogWindows: LaunchURL https://docs.unrealengine.com/5.6/en/Engine/Blueprints?utm_source=editor&utm_medium=docs&utm_campaign=help_menu_asset
+[2026.01.14-21.57.08:187][347]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-21.57.10:390][448]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:57498'.
+[2026.01.14-21.57.10:394][448]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-21.57.10:394][448]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-21.57.10:398][448]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-21.57.12:410][551]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-21.57.14:611][665]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:49844'.
+[2026.01.14-21.57.14:614][665]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-21.57.14:614][665]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-21.57.14:618][665]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-21.57.16:631][779]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-21.57.18:730][893]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:49845'.
+[2026.01.14-21.57.18:733][893]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-21.57.18:733][893]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-21.57.18:738][893]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-21.57.24:741][234]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-21.57.25:847][292]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:60229'.
+[2026.01.14-21.57.25:850][292]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-21.57.25:850][292]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-21.57.25:854][292]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-21.57.47:286][518]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 42040.960938
+[2026.01.14-21.57.47:483][528]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.14-21.57.47:483][528]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 42041.136719, Update Interval: 304.821320
+[2026.01.14-21.58.27:887][877]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-21.58.30:000][994]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:57081'.
+[2026.01.14-21.58.30:003][994]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-21.58.30:003][994]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-21.58.30:009][994]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-21.58.33:013][168]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-21.58.34:420][222]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:64964'.
+[2026.01.14-21.58.34:423][222]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-21.58.34:423][222]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-21.58.34:428][222]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-21.58.36:566][229]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-21.58.38:442][234]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:64366'.
+[2026.01.14-21.58.38:445][234]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-21.58.38:445][234]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-21.58.38:450][234]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-21.58.44:467][340]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-21.58.46:666][458]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:54219'.
+[2026.01.14-21.58.46:669][458]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-21.58.46:669][458]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-21.58.46:673][458]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-21.59.48:861][921]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-21.59.50:716][926]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:55059'.
+[2026.01.14-21.59.50:719][926]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-21.59.50:719][926]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-21.59.50:724][926]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-21.59.55:988][942]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2026.01.14-21.59.57:724][ 16]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-21.59.59:842][127]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:64268'.
+[2026.01.14-21.59.59:842][127]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-21.59.59:842][127]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-21.59.59:847][127]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.00.05:852][463]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.00.07:962][568]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:60807'.
+[2026.01.14-22.00.07:965][568]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.00.07:965][568]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.00.07:970][568]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.00.21:388][275]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.01.14-22.00.27:016][585]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-22.00.27:088][585]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Project/02_UI/Widgets/WBP_HUD] ([2] browsable assets)...
+[2026.01.14-22.00.27:092][585]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Project/02_UI/Widgets/WBP_HUD.WBP_HUD]
+[2026.01.14-22.00.27:092][585]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/02_UI/Widgets/WBP_HUD]
+[2026.01.14-22.00.27:109][585]LogSavePackage: Moving output files for package: /Game/_Project/02_UI/Widgets/WBP_HUD
+[2026.01.14-22.00.27:109][585]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/WBP_HUD4B36B5E64E57651C4375A1B73607E481.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Content/_Project/02_UI/Widgets/WBP_HUD.uasset'
+[2026.01.14-22.00.27:128][585]LogFileHelpers: InternalPromptForCheckoutAndSave took 111.902 ms (total: 10.5 sec)
+[2026.01.14-22.00.27:200][585]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.14-22.00.27:200][585]LogContentValidation: Enabled validators:
+[2026.01.14-22.00.27:200][585]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-22.00.27:200][585]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-22.00.27:200][585]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-22.00.27:200][585]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-22.00.27:200][585]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-22.00.27:200][585]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-22.00.27:201][585]AssetCheck: /Game/_Project/02_UI/Widgets/WBP_HUD Validating asset
+[2026.01.14-22.00.27:239][585]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.14-22.01.08:003][874]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.01.08:481][897]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2026.01.14-22.01.08:481][897]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_53
+[2026.01.14-22.01.09:406][898]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:59190'.
+[2026.01.14-22.01.09:410][898]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.01.09:410][898]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.01.09:414][898]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.01.13:427][107]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.01.15:630][218]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:57477'.
+[2026.01.14-22.01.15:633][218]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.01.15:633][218]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.01.15:637][218]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.01.17:649][331]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.01.19:850][443]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:57478'.
+[2026.01.14-22.01.19:853][443]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.01.19:853][443]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.01.19:857][443]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.01.25:872][767]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.01.27:972][877]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:53392'.
+[2026.01.14-22.01.27:975][877]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.01.27:975][877]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.01.27:979][877]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.01.41:328][529]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Project/01_Blueprints/Core/BP_GM_Game.BP_GM_Game
+[2026.01.14-22.01.41:328][529]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_54
+[2026.01.14-22.01.43:365][624]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2026.01.14-22.01.43:365][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-22.01.43:459][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.01.14-22.02.29:021][184]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.02.31:122][301]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:53484'.
+[2026.01.14-22.02.31:125][301]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.02.31:125][301]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.02.31:129][301]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.02.33:132][419]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.02.35:241][538]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:53485'.
+[2026.01.14-22.02.35:245][538]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.02.35:245][538]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.02.35:250][538]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.02.37:247][657]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.02.39:362][766]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:60193'.
+[2026.01.14-22.02.39:365][766]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.02.39:365][766]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.02.39:370][766]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.02.45:381][ 79]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.02.47:585][185]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:63836'.
+[2026.01.14-22.02.47:588][185]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.02.47:588][185]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.02.47:592][185]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.03.18:854][889]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2026.01.14-22.03.29:519][471]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 42377.964844
+[2026.01.14-22.03.29:710][481]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.14-22.03.29:710][481]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 42378.136719, Update Interval: 330.621674
+[2026.01.14-22.03.48:627][481]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.03.50:832][581]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:58571'.
+[2026.01.14-22.03.50:835][581]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.03.50:835][581]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.03.50:839][581]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.03.53:842][748]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.03.55:955][865]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:63224'.
+[2026.01.14-22.03.55:958][865]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.03.55:958][865]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.03.55:962][865]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.03.56:972][923]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.03.59:175][ 40]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:63225'.
+[2026.01.14-22.03.59:178][ 40]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.03.59:178][ 40]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.03.59:182][ 40]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.04.05:193][389]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.04.07:398][504]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:64126'.
+[2026.01.14-22.04.07:401][504]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.04.07:401][504]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.04.07:406][504]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.04.43:341][502]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2026.01.14-22.05.08:454][839]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.05.10:555][958]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:59193'.
+[2026.01.14-22.05.10:558][958]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.05.10:558][958]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.05.10:564][958]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.05.13:562][133]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.05.14:670][190]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:59194'.
+[2026.01.14-22.05.14:673][190]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.05.14:673][190]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.05.14:679][190]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.05.17:682][340]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.05.19:892][451]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:54743'.
+[2026.01.14-22.05.19:896][451]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.05.19:896][451]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.05.19:900][451]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.05.24:906][738]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.05.27:013][856]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:51194'.
+[2026.01.14-22.05.27:017][856]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.05.27:017][856]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.05.27:022][856]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.06.29:060][453]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.06.31:266][568]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:54363'.
+[2026.01.14-22.06.31:269][568]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.06.31:269][568]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.06.31:274][568]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.06.33:277][675]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.06.34:381][734]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:54364'.
+[2026.01.14-22.06.34:385][734]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.06.34:385][734]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.06.34:390][734]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.06.37:408][905]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.06.39:505][  2]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:54365'.
+[2026.01.14-22.06.39:508][  2]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.06.39:508][  2]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.06.39:513][  2]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.06.45:517][353]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.06.47:628][471]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:53107'.
+[2026.01.14-22.06.47:631][471]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.06.47:631][471]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.06.47:636][471]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.07.48:792][108]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.07.50:675][113]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:62663'.
+[2026.01.14-22.07.50:679][113]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.07.50:679][113]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.07.50:683][113]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.07.53:793][123]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.07.55:596][128]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:59166'.
+[2026.01.14-22.07.55:600][128]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.07.55:600][128]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.07.55:605][128]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.07.57:794][135]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.07.58:919][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2026.01.14-22.07.58:925][138]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/_Project/00_Maps/Map_Game' took 0.049
+[2026.01.14-22.07.58:925][138]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.01.14-22.07.59:145][138]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.01.14-22.07.59:145][138]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.01.14-22.07.59:175][138]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto3
+[2026.01.14-22.07.59:175][138]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/BP_ThirdPersonCharacter_Auto3030929E944C9A8B804D481BC6DB83A2E.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto3.uasset'
+[2026.01.14-22.07.59:176][138]LogFileHelpers: Auto-saving content packages took 0.251
+[2026.01.14-22.07.59:716][140]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:58040'.
+[2026.01.14-22.07.59:719][140]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.07.59:719][140]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.07.59:724][140]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.08.05:883][159]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.08.07:740][164]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:58945'.
+[2026.01.14-22.08.07:743][164]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.08.07:743][164]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.08.07:749][164]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.08.22:213][208]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.01.14-22.08.22:213][208]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.01.14-22.08.32:644][769]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.01.14-22.08.32:644][769]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.01.14-22.09.39:111][280]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 42742.160156
+[2026.01.14-22.09.39:263][289]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.14-22.09.39:263][289]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 42742.292969, Update Interval: 310.611298
+[2026.01.14-22.10.12:242][399]LogSlate: Window 'Delete Variable' being destroyed
+[2026.01.14-22.11.48:867][778]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.11.50:970][897]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:53515'.
+[2026.01.14-22.11.50:973][897]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.11.50:973][897]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.11.50:977][897]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.11.52:980][  8]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.11.55:089][127]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:53516'.
+[2026.01.14-22.11.55:092][127]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.11.55:092][127]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.11.55:097][127]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.11.57:095][246]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.11.58:303][302]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:51949'.
+[2026.01.14-22.11.58:307][302]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.11.58:307][302]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.11.58:312][302]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.12.05:322][693]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.12.07:430][810]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:50891'.
+[2026.01.14-22.12.07:433][810]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.12.07:433][810]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.12.07:438][810]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.12.52:462][ 80]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.12.53:571][124]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:55861'.
+[2026.01.14-22.12.53:574][124]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.12.53:574][124]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.12.53:579][124]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.13.01:583][572]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.13.03:694][649]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:55841'.
+[2026.01.14-22.13.03:697][649]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.13.03:697][649]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.13.03:703][649]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.13.08:704][888]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.13.10:817][  5]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:62419'.
+[2026.01.14-22.13.10:820][  5]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.13.10:820][  5]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.13.10:825][  5]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.13.13:822][175]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.13.16:035][243]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:59337'.
+[2026.01.14-22.13.16:038][243]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.13.16:038][243]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.13.16:042][243]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.13.17:055][300]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.13.19:155][405]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:50950'.
+[2026.01.14-22.13.19:158][405]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.13.19:158][405]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.13.19:162][405]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.13.25:167][736]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.13.27:277][845]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:53215'.
+[2026.01.14-22.13.27:280][845]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.13.27:280][845]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.13.27:285][845]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.15.39:774][665]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 43097.437500
+[2026.01.14-22.15.39:942][675]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.14-22.15.39:942][675]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 43097.582031, Update Interval: 356.489746
+[2026.01.14-22.16.01:924][803]LogEditorTransaction: Undo Delete current selection
+[2026.01.14-22.16.02:587][821]LogEditorTransaction: Undo Add Node
+[2026.01.14-22.16.03:176][847]LogEditorTransaction: Undo Delete current selection
+[2026.01.14-22.16.46:798][ 33]LogEditorTransaction: Undo Move Nodes
+[2026.01.14-22.16.47:914][ 76]LogEditorTransaction: Undo Move Nodes
+[2026.01.14-22.16.48:490][100]LogEditorTransaction: Undo Add Node
+[2026.01.14-22.18.59:704][309]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-22.18.59:775][309]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Project/02_UI/Widgets/WBP_HUD] ([2] browsable assets)...
+[2026.01.14-22.18.59:779][309]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Project/02_UI/Widgets/WBP_HUD.WBP_HUD]
+[2026.01.14-22.18.59:779][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/02_UI/Widgets/WBP_HUD]
+[2026.01.14-22.18.59:793][309]LogSavePackage: Moving output files for package: /Game/_Project/02_UI/Widgets/WBP_HUD
+[2026.01.14-22.18.59:794][309]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/WBP_HUDD2AB195842F46FCFAE8E5980204942CD.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Content/_Project/02_UI/Widgets/WBP_HUD.uasset'
+[2026.01.14-22.18.59:810][309]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.653 ms (total: 10.6 sec)
+[2026.01.14-22.18.59:880][309]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.14-22.18.59:880][309]LogContentValidation: Enabled validators:
+[2026.01.14-22.18.59:880][309]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-22.18.59:880][309]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-22.18.59:880][309]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-22.18.59:880][309]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-22.18.59:880][309]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-22.18.59:880][309]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-22.18.59:881][309]AssetCheck: /Game/_Project/02_UI/Widgets/WBP_HUD Validating asset
+[2026.01.14-22.19.00:441][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2026.01.14-22.19.27:471][898]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2026.01.14-22.19.27:479][898]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/_Project/00_Maps/Map_Game' took 0.043
+[2026.01.14-22.19.27:480][898]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.01.14-22.19.27:587][898]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.01.14-22.19.27:587][898]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.01.14-22.19.27:627][898]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto4
+[2026.01.14-22.19.27:627][898]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/BP_ThirdPersonCharacter_Auto4E226F8D54B7F61D88A3D02B7884BB1BF.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto4.uasset'
+[2026.01.14-22.19.27:633][898]LogFileHelpers: Auto-saving content packages took 0.154
+[2026.01.14-22.19.53:774][892]LogBlueprint: Error: [AssetLog] C:\Users\2004i\Desktop\studia - GiTI PP\semestr 2\Programowanie Gier\UNREAL MY GAME\Unreal5_Game\BattleGame\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] This blueprint (self) is not a TextRenderComponent, therefore ' Target ' must have a connection.
+[2026.01.14-22.19.53:774][892]LogBlueprint: Error: [AssetLog] C:\Users\2004i\Desktop\studia - GiTI PP\semestr 2\Programowanie Gier\UNREAL MY GAME\Unreal5_Game\BattleGame\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] This blueprint (self) is not a TextRenderComponent, therefore ' Target ' must have a connection.
+[2026.01.14-22.19.53:774][892]LogBlueprint: Error: [AssetLog] C:\Users\2004i\Desktop\studia - GiTI PP\semestr 2\Programowanie Gier\UNREAL MY GAME\Unreal5_Game\BattleGame\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] This blueprint (self) is not a WBP_HUD_C, therefore ' Target ' must have a connection.
+[2026.01.14-22.19.53:774][892]LogBlueprint: Error: [AssetLog] C:\Users\2004i\Desktop\studia - GiTI PP\semestr 2\Programowanie Gier\UNREAL MY GAME\Unreal5_Game\BattleGame\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] This blueprint (self) is not a WBP_HUD_C, therefore ' Target ' must have a connection.
+[2026.01.14-22.19.53:774][892]LogBlueprint: Error: [AssetLog] C:\Users\2004i\Desktop\studia - GiTI PP\semestr 2\Programowanie Gier\UNREAL MY GAME\Unreal5_Game\BattleGame\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] This blueprint (self) is not a WBP_HUD_C, therefore ' Target ' must have a connection.
+[2026.01.14-22.19.53:774][892]LogBlueprint: Error: [AssetLog] C:\Users\2004i\Desktop\studia - GiTI PP\semestr 2\Programowanie Gier\UNREAL MY GAME\Unreal5_Game\BattleGame\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] This blueprint (self) is not a WBP_HUD_C, therefore ' Target ' must have a connection.
+[2026.01.14-22.19.53:775][892]LogBlueprint: Error: [AssetLog] C:\Users\2004i\Desktop\studia - GiTI PP\semestr 2\Programowanie Gier\UNREAL MY GAME\Unreal5_Game\BattleGame\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] Variable node  Get PB_HP  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2026.01.14-22.19.53:775][892]LogBlueprint: Error: [AssetLog] C:\Users\2004i\Desktop\studia - GiTI PP\semestr 2\Programowanie Gier\UNREAL MY GAME\Unreal5_Game\BattleGame\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] Variable node  Get PB_Stamina  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2026.01.14-22.19.53:775][892]LogBlueprint: Error: [AssetLog] C:\Users\2004i\Desktop\studia - GiTI PP\semestr 2\Programowanie Gier\UNREAL MY GAME\Unreal5_Game\BattleGame\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] Variable node  Get TXT_Damage  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2026.01.14-22.19.53:775][892]LogBlueprint: Error: [AssetLog] C:\Users\2004i\Desktop\studia - GiTI PP\semestr 2\Programowanie Gier\UNREAL MY GAME\Unreal5_Game\BattleGame\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] Variable node  Get TXT_Potions  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2026.01.14-22.19.53:947][892]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2026.01.14-22.20.20:606][278]LogBlueprint: Error: [AssetLog] C:\Users\2004i\Desktop\studia - GiTI PP\semestr 2\Programowanie Gier\UNREAL MY GAME\Unreal5_Game\BattleGame\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] This blueprint (self) is not a TextRenderComponent, therefore ' Target ' must have a connection.
+[2026.01.14-22.20.20:606][278]LogBlueprint: Error: [AssetLog] C:\Users\2004i\Desktop\studia - GiTI PP\semestr 2\Programowanie Gier\UNREAL MY GAME\Unreal5_Game\BattleGame\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] This blueprint (self) is not a TextRenderComponent, therefore ' Target ' must have a connection.
+[2026.01.14-22.20.20:762][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.01.14-22.21.40:422][477]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.01.14-22.21.40:422][477]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.01.14-22.22.07:120][850]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 43479.718750
+[2026.01.14-22.22.07:315][859]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.14-22.22.07:315][859]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 43479.890625, Update Interval: 305.861389
+[2026.01.14-22.22.47:018][ 92]LogSlate: Window 'WBP_HUD' being destroyed
+[2026.01.14-22.23.18:426][568]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.01.14-22.23.18:426][568]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.01.14-22.25.38:898][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2026.01.14-22.25.39:738][457]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-22.25.39:811][457]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.01.14-22.25.39:882][457]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.01.14-22.25.39:882][457]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.01.14-22.25.39:914][457]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.01.14-22.25.39:915][457]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/BP_ThirdPersonCharacter658E8CCC4DC4E722DB9F23B6F197B0D7.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.01.14-22.25.39:932][457]LogFileHelpers: InternalPromptForCheckoutAndSave took 194.298 ms (total: 10.8 sec)
+[2026.01.14-22.25.40:011][457]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.14-22.25.40:011][457]LogContentValidation: Enabled validators:
+[2026.01.14-22.25.40:011][457]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-22.25.40:011][457]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-22.25.40:011][457]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-22.25.40:011][457]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-22.25.40:011][457]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-22.25.40:011][457]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-22.25.40:011][457]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.01.14-22.25.42:345][590]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-22.25.42:413][590]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Project/02_UI/Widgets/WBP_HUD] ([2] browsable assets)...
+[2026.01.14-22.25.42:417][590]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Project/02_UI/Widgets/WBP_HUD.WBP_HUD]
+[2026.01.14-22.25.42:417][590]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/02_UI/Widgets/WBP_HUD]
+[2026.01.14-22.25.42:430][590]LogSavePackage: Moving output files for package: /Game/_Project/02_UI/Widgets/WBP_HUD
+[2026.01.14-22.25.42:431][590]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/WBP_HUD686991F84FEBE1C078B985B84762B4BF.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Content/_Project/02_UI/Widgets/WBP_HUD.uasset'
+[2026.01.14-22.25.42:449][590]LogFileHelpers: InternalPromptForCheckoutAndSave took 104.725 ms (total: 10.9 sec)
+[2026.01.14-22.25.42:557][590]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.14-22.25.42:557][590]LogContentValidation: Enabled validators:
+[2026.01.14-22.25.42:557][590]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-22.25.42:557][590]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-22.25.42:557][590]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-22.25.42:557][590]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-22.25.42:557][590]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-22.25.42:557][590]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-22.25.42:558][590]AssetCheck: /Game/_Project/02_UI/Widgets/WBP_HUD Validating asset
+[2026.01.14-22.25.45:611][768]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.14-22.25.45:617][768]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.14-22.25.45:617][768]LogPlayLevel: Creating play world package: /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.14-22.25.45:659][768]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042109s)
+[2026.01.14-22.25.45:659][768]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Project/00_Maps/Map_Game.Map_Game to /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game (0.042158s)
+[2026.01.14-22.25.45:696][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.01.14-22.25.45:704][768]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Game
+[2026.01.14-22.25.45:706][768]LogPlayLevel: PIE: World Init took: (0.001809s)
+[2026.01.14-22.25.45:706][768]LogAudio: Display: Creating Audio Device:                 Id: 84, Scope: Unique, Realtime: True
+[2026.01.14-22.25.45:706][768]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.14-22.25.45:706][768]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.14-22.25.45:707][768]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.14-22.25.45:707][768]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.14-22.25.45:707][768]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.14-22.25.45:707][768]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.14-22.25.45:707][768]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.14-22.25.45:707][768]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.14-22.25.45:707][768]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.14-22.25.45:707][768]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.14-22.25.45:707][768]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.14-22.25.45:709][768]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.14-22.25.45:740][768]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2026.01.14-22.25.45:740][768]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.14-22.25.45:740][768]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.14-22.25.45:740][768]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.14-22.25.45:740][768]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=84
+[2026.01.14-22.25.45:740][768]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=84
+[2026.01.14-22.25.45:742][768]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=84
+[2026.01.14-22.25.45:742][768]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=84
+[2026.01.14-22.25.45:742][768]LogInit: FAudioDevice initialized with ID 84.
+[2026.01.14-22.25.45:742][768]LogAudio: Display: Audio Device (ID: 84) registered with world 'Map_Game'.
+[2026.01.14-22.25.45:742][768]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 84
+[2026.01.14-22.25.45:750][768]LogLoad: Game class is 'BP_GM_Game_C'
+[2026.01.14-22.25.45:752][768]LogWorld: Bringing World /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game up for play (max tick rate 60) at 2026.01.14-23.25.45
+[2026.01.14-22.25.45:752][768]LogWorld: Bringing up level for play took: 0.002204
+[2026.01.14-22.25.45:754][768]LogOnline: OSS: Created online subsystem instance for: :Context_125
+[2026.01.14-22.25.45:761][768]PIE: Server logged in
+[2026.01.14-22.25.45:763][768]PIE: Play in editor total start time 0,146 seconds.
+[2026.01.14-22.25.45:815][769]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.14-22.25.50:665][ 57]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_0)
+[2026.01.14-22.25.50:666][ 57]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_1)
+[2026.01.14-22.25.50:667][ 57]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_2)
+[2026.01.14-22.25.50:667][ 57]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_3)
+[2026.01.14-22.25.50:668][ 57]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_4)
+[2026.01.14-22.25.50:668][ 57]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_5)
+[2026.01.14-22.25.55:601][353]LogBlueprintUserMessages: [BP_EnemyDummy_C_5] Damage 25.0
+[2026.01.14-22.25.55:601][353]LogBlueprintUserMessages: [BP_EnemyDummy_C_5] HP 5.0
+[2026.01.14-22.25.56:618][414]LogBlueprintUserMessages: [BP_EnemyDummy_C_5] Damage 25.0
+[2026.01.14-22.25.56:618][414]LogBlueprintUserMessages: [BP_EnemyDummy_C_5] HP -20.0
+[2026.01.14-22.25.57:557][468]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.14-22.25.57:557][468]LogWorld: BeginTearingDown for /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.14-22.25.57:557][468]LogWorld: UWorld::CleanupWorld for Map_Game, bSessionEnded=true, bCleanupResources=true
+[2026.01.14-22.25.57:558][468]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-22.25.57:559][468]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.14-22.25.57:566][468]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-22.25.57:609][468]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.14-22.25.57:610][468]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 84
+[2026.01.14-22.25.57:610][468]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=84, StreamState=4
+[2026.01.14-22.25.57:612][468]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=84, StreamState=2
+[2026.01.14-22.25.57:619][468]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.14-22.25.57:623][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.01.14-22.25.57:665][469]LogPlayLevel: Display: Destroying online subsystem :Context_125
+[2026.01.14-22.27.18:806][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2026.01.14-22.27.19:455][776]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-22.27.19:540][776]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Project/02_UI/Widgets/WBP_HUD] ([2] browsable assets)...
+[2026.01.14-22.27.19:543][776]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Project/02_UI/Widgets/WBP_HUD.WBP_HUD]
+[2026.01.14-22.27.19:543][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/02_UI/Widgets/WBP_HUD]
+[2026.01.14-22.27.19:559][776]LogSavePackage: Moving output files for package: /Game/_Project/02_UI/Widgets/WBP_HUD
+[2026.01.14-22.27.19:560][776]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/WBP_HUD854989994B641F0D3C1BD0BA393B659F.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Content/_Project/02_UI/Widgets/WBP_HUD.uasset'
+[2026.01.14-22.27.19:579][776]LogFileHelpers: InternalPromptForCheckoutAndSave took 124.596 ms (total: 11.1 sec)
+[2026.01.14-22.27.19:656][776]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.14-22.27.19:656][776]LogContentValidation: Enabled validators:
+[2026.01.14-22.27.19:656][776]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-22.27.19:656][776]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-22.27.19:656][776]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-22.27.19:656][776]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-22.27.19:656][776]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-22.27.19:656][776]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-22.27.19:657][776]AssetCheck: /Game/_Project/02_UI/Widgets/WBP_HUD Validating asset
+[2026.01.14-22.27.21:578][878]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.14-22.27.21:583][878]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.14-22.27.21:583][878]LogPlayLevel: Creating play world package: /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.14-22.27.21:623][878]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040394s)
+[2026.01.14-22.27.21:623][878]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Project/00_Maps/Map_Game.Map_Game to /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game (0.040437s)
+[2026.01.14-22.27.21:665][878]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2026.01.14-22.27.21:673][878]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Game
+[2026.01.14-22.27.21:676][878]LogPlayLevel: PIE: World Init took: (0.001879s)
+[2026.01.14-22.27.21:677][878]LogAudio: Display: Creating Audio Device:                 Id: 85, Scope: Unique, Realtime: True
+[2026.01.14-22.27.21:677][878]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.14-22.27.21:677][878]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.14-22.27.21:677][878]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.14-22.27.21:677][878]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.14-22.27.21:677][878]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.14-22.27.21:677][878]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.14-22.27.21:677][878]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.14-22.27.21:677][878]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.14-22.27.21:677][878]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.14-22.27.21:677][878]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.14-22.27.21:677][878]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.14-22.27.21:679][878]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.14-22.27.21:709][878]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2026.01.14-22.27.21:709][878]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.14-22.27.21:709][878]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.14-22.27.21:709][878]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.14-22.27.21:709][878]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=85
+[2026.01.14-22.27.21:709][878]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=85
+[2026.01.14-22.27.21:711][878]LogInit: FAudioDevice initialized with ID 85.
+[2026.01.14-22.27.21:711][878]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=85
+[2026.01.14-22.27.21:711][878]LogAudio: Display: Audio Device (ID: 85) registered with world 'Map_Game'.
+[2026.01.14-22.27.21:711][878]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=85
+[2026.01.14-22.27.21:711][878]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 85
+[2026.01.14-22.27.21:716][878]LogLoad: Game class is 'BP_GM_Game_C'
+[2026.01.14-22.27.21:718][878]LogWorld: Bringing World /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game up for play (max tick rate 60) at 2026.01.14-23.27.21
+[2026.01.14-22.27.21:719][878]LogWorld: Bringing up level for play took: 0.002560
+[2026.01.14-22.27.21:721][878]LogOnline: OSS: Created online subsystem instance for: :Context_126
+[2026.01.14-22.27.21:726][878]PIE: Server logged in
+[2026.01.14-22.27.21:729][878]PIE: Play in editor total start time 0,146 seconds.
+[2026.01.14-22.27.21:781][878]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.14-22.27.25:057][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.14-22.27.25:057][ 70]LogWorld: BeginTearingDown for /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.14-22.27.25:058][ 70]LogWorld: UWorld::CleanupWorld for Map_Game, bSessionEnded=true, bCleanupResources=true
+[2026.01.14-22.27.25:058][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-22.27.25:060][ 70]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.14-22.27.25:066][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-22.27.25:115][ 70]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.14-22.27.25:115][ 70]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 85
+[2026.01.14-22.27.25:115][ 70]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=85, StreamState=4
+[2026.01.14-22.27.25:117][ 70]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=85, StreamState=2
+[2026.01.14-22.27.25:122][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.14-22.27.25:127][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2026.01.14-22.27.25:160][ 71]LogPlayLevel: Display: Destroying online subsystem :Context_126
+[2026.01.14-22.27.33:752][488]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.27.35:940][583]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:64471'.
+[2026.01.14-22.27.35:943][583]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.27.35:944][583]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.27.35:949][583]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.27.37:946][680]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.27.39:154][727]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:55352'.
+[2026.01.14-22.27.39:157][727]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.27.39:157][727]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.27.39:162][727]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.27.42:168][888]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.27.44:274][984]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:55353'.
+[2026.01.14-22.27.44:277][984]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.27.44:277][984]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.27.44:281][984]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.27.50:292][288]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.27.51:492][340]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:49608'.
+[2026.01.14-22.27.51:495][340]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.27.51:495][340]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.27.51:500][340]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.27.59:039][722]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 43827.792969
+[2026.01.14-22.27.59:206][732]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.14-22.27.59:207][732]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 43827.941406, Update Interval: 335.510742
+[2026.01.14-22.28.09:123][233]LogSlate: Window 'Color Picker' being destroyed
+[2026.01.14-22.28.18:313][699]LogSlate: Window 'Color Picker' being destroyed
+[2026.01.14-22.28.53:613][ 79]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.28.55:445][ 84]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:56838'.
+[2026.01.14-22.28.55:448][ 84]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.28.55:448][ 84]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.28.55:453][ 84]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.28.57:614][ 91]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.28.59:470][ 96]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:57053'.
+[2026.01.14-22.28.59:472][ 96]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.28.59:472][ 96]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.28.59:478][ 96]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.29.01:617][103]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.29.03:490][108]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:57054'.
+[2026.01.14-22.29.03:493][108]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.29.03:493][108]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.29.03:498][108]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.29.09:619][127]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.29.11:414][132]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:59425'.
+[2026.01.14-22.29.11:417][132]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.29.11:417][132]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.29.11:421][132]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.29.41:509][223]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.01.14-22.29.41:509][223]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.01.14-22.29.43:429][293]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.01.14-22.29.43:437][293]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/_Project/00_Maps/Map_Game' took 0.049
+[2026.01.14-22.29.43:437][293]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Project/02_UI/Widgets/WBP_HUD] ([2] browsable assets)...
+[2026.01.14-22.29.43:440][293]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Project/02_UI/Widgets/WBP_HUD.WBP_HUD]
+[2026.01.14-22.29.43:440][293]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/02_UI/Widgets/WBP_HUD]
+[2026.01.14-22.29.43:454][293]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Project/02_UI/Widgets/WBP_HUD_Auto5
+[2026.01.14-22.29.43:454][293]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/WBP_HUD_Auto5C139D9434B5D8B79DDD5719C9DCE6B8C.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/Autosaves/Game/_Project/02_UI/Widgets/WBP_HUD_Auto5.uasset'
+[2026.01.14-22.29.43:455][293]LogFileHelpers: Auto-saving content packages took 0.019
+[2026.01.14-22.29.55:847][660]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.01.14-22.29.55:847][660]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.01.14-22.30.13:449][475]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.30.14:560][533]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:62577'.
+[2026.01.14-22.30.14:563][533]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.30.14:563][533]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.30.14:569][533]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.30.17:565][704]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.30.18:873][727]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:55812'.
+[2026.01.14-22.30.18:877][727]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.30.18:877][727]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.30.18:881][727]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.30.21:884][773]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.30.24:095][880]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:54576'.
+[2026.01.14-22.30.24:099][880]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.30.24:099][880]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.30.24:103][880]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.30.30:113][194]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.30.32:320][275]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:54683'.
+[2026.01.14-22.30.32:323][275]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.30.32:323][275]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.30.32:328][275]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.31.00:712][451]LogSlate: Window 'Color Picker' being destroyed
+[2026.01.14-22.31.28:419][536]LogSlate: Window 'Color Picker' being destroyed
+[2026.01.14-22.31.33:360][787]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.31.35:568][893]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:52651'.
+[2026.01.14-22.31.35:571][893]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.31.35:571][893]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.31.35:576][893]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.31.37:589][991]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.31.39:689][101]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:52652'.
+[2026.01.14-22.31.39:692][101]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.31.39:692][101]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.31.39:696][101]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.31.41:698][216]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.31.43:809][332]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:52653'.
+[2026.01.14-22.31.43:812][332]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.31.43:812][332]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.31.43:817][332]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.31.48:824][621]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.31.50:930][728]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:63990'.
+[2026.01.14-22.31.50:933][728]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.31.50:933][728]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.31.50:937][728]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.31.52:936][834]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.31.55:048][937]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:52348'.
+[2026.01.14-22.31.55:051][937]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.31.55:051][937]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.31.55:056][937]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.31.56:889][ 36]LogSlate: Window 'Color Picker' being destroyed
+[2026.01.14-22.31.57:066][ 44]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.31.59:169][163]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:62817'.
+[2026.01.14-22.31.59:172][163]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.31.59:173][163]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.31.59:179][163]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.32.05:181][499]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.32.07:293][614]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:54542'.
+[2026.01.14-22.32.07:297][614]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.32.07:297][614]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.32.07:302][614]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.32.33:539][ 91]LogSlate: Window 'Color Picker' being destroyed
+[2026.01.14-22.32.54:337][227]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.32.56:534][337]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:49925'.
+[2026.01.14-22.32.56:538][337]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.32.56:538][337]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.32.56:544][337]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.32.58:541][444]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.32.58:558][445]LogSlate: Window 'Color Picker' being destroyed
+[2026.01.14-22.32.59:751][496]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:49926'.
+[2026.01.14-22.32.59:754][496]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.32.59:754][496]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.32.59:759][496]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.33.00:993][561]LogSlate: Window 'Color Picker' being destroyed
+[2026.01.14-22.33.02:767][646]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.33.03:504][685]LogSlate: Window 'Color Picker' being destroyed
+[2026.01.14-22.33.04:974][744]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:57223'.
+[2026.01.14-22.33.04:977][744]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.33.04:977][744]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.33.04:982][744]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.33.08:988][956]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.33.10:189][ 10]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:61753'.
+[2026.01.14-22.33.10:192][ 10]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.33.10:192][ 10]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.33.10:197][ 10]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.33.13:205][179]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.33.15:310][292]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:51128'.
+[2026.01.14-22.33.15:313][292]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.33.15:313][292]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.33.15:317][292]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.33.17:342][402]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.33.19:429][506]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:54302'.
+[2026.01.14-22.33.19:433][506]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.33.19:433][506]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.33.19:436][506]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.33.25:557][736]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.33.27:350][741]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:51357'.
+[2026.01.14-22.33.27:353][741]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.33.27:353][741]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.33.27:359][741]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.33.54:765][889]LogSlate: Window 'Color Picker' being destroyed
+[2026.01.14-22.34.13:397][889]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.34.15:073][980]LogSlate: Window 'Color Picker' being destroyed
+[2026.01.14-22.34.15:597][995]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:58993'.
+[2026.01.14-22.34.15:600][995]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.34.15:600][995]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.34.15:605][995]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.34.18:622][150]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.34.19:575][202]LogSlate: Window 'Color Picker' being destroyed
+[2026.01.14-22.34.19:815][203]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:59904'.
+[2026.01.14-22.34.19:818][203]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.34.19:818][203]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.34.19:822][203]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.34.22:823][352]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.34.23:477][389]LogSlate: Window 'Color Picker' being destroyed
+[2026.01.14-22.34.24:936][455]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:59905'.
+[2026.01.14-22.34.24:939][455]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.34.24:939][455]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.34.24:944][455]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.34.25:780][495]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 44213.851562
+[2026.01.14-22.34.25:953][505]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.14-22.34.25:953][505]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 44214.000000, Update Interval: 316.630157
+[2026.01.14-22.34.29:946][717]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.34.32:058][816]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:63895'.
+[2026.01.14-22.34.32:062][816]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.34.32:062][816]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.34.32:066][816]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.34.45:452][533]LogSlate: Window 'Color Picker' being destroyed
+[2026.01.14-22.35.06:897][659]LogSlate: Window 'Color Picker' being destroyed
+[2026.01.14-22.35.19:887][377]LogSlate: Window 'Color Picker' being destroyed
+[2026.01.14-22.35.23:383][548]LogSlate: Window 'Color Picker' being destroyed
+[2026.01.14-22.35.26:927][734]LogSlate: Window 'Color Picker' being destroyed
+[2026.01.14-22.35.46:325][795]LogEditorTransaction: Undo Create Binding
+[2026.01.14-22.36.10:947][126]LogSlate: Window 'Color Picker' being destroyed
+[2026.01.14-22.36.25:137][893]LogSlate: Window 'Color Picker' being destroyed
+[2026.01.14-22.36.40:923][755]LogSlate: Window 'Color Picker' being destroyed
+[2026.01.14-22.36.47:291][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2026.01.14-22.36.48:579][161]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-22.36.48:646][161]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Project/02_UI/Widgets/WBP_HUD] ([2] browsable assets)...
+[2026.01.14-22.36.48:649][161]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Project/02_UI/Widgets/WBP_HUD.WBP_HUD]
+[2026.01.14-22.36.48:649][161]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/02_UI/Widgets/WBP_HUD]
+[2026.01.14-22.36.48:662][161]LogSavePackage: Moving output files for package: /Game/_Project/02_UI/Widgets/WBP_HUD
+[2026.01.14-22.36.48:664][161]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/WBP_HUDC083673E494725CD4E089F8928D00AB9.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Content/_Project/02_UI/Widgets/WBP_HUD.uasset'
+[2026.01.14-22.36.48:680][161]LogFileHelpers: InternalPromptForCheckoutAndSave took 101.452 ms (total: 11.2 sec)
+[2026.01.14-22.36.48:756][161]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.14-22.36.48:756][161]LogContentValidation: Enabled validators:
+[2026.01.14-22.36.48:756][161]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-22.36.48:756][161]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-22.36.48:756][161]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-22.36.48:756][161]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-22.36.48:756][161]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-22.36.48:756][161]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-22.36.48:757][161]AssetCheck: /Game/_Project/02_UI/Widgets/WBP_HUD Validating asset
+[2026.01.14-22.39.03:991][362]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2026.01.14-22.39.04:007][362]LogContentBrowser: Creating deferred item: NewInputAction
+[2026.01.14-22.39.04:030][363]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2026.01.14-22.39.11:775][805]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_TestDamage
+[2026.01.14-22.39.11:776][805]LogContentBrowser: End creating deferred item NewInputAction
+[2026.01.14-22.39.17:940][ 72]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2026.01.14-22.39.17:955][ 72]LogContentBrowser: Creating deferred item: NewInputAction
+[2026.01.14-22.39.17:978][ 73]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2026.01.14-22.39.23:811][398]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_TestStamina
+[2026.01.14-22.39.23:812][398]LogContentBrowser: End creating deferred item NewInputAction
+[2026.01.14-22.39.25:083][463]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Input/Actions/IA_TestDamage.IA_TestDamage
+[2026.01.14-22.39.36:134][ 96]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Input/Actions/IA_Move.IA_Move
+[2026.01.14-22.39.36:418][ 96]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.39.38:339][196]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:59528'.
+[2026.01.14-22.39.38:342][196]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.39.38:342][196]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.39.38:347][196]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.39.40:363][303]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.39.41:050][340]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Input/IMC_Default.IMC_Default
+[2026.01.14-22.39.41:556][341]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:62269'.
+[2026.01.14-22.39.41:559][341]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.39.41:559][341]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.39.41:563][341]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.39.44:568][509]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.39.45:773][555]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:62270'.
+[2026.01.14-22.39.45:776][555]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.39.45:776][555]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.39.45:780][555]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.39.52:788][950]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-22.39.54:900][ 69]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:49889'.
+[2026.01.14-22.39.54:902][ 69]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.39.54:903][ 69]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-22.39.54:907][ 69]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-22.40.03:752][596]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-22.40.03:839][596]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IMC_Default] ([1] browsable assets)...
+[2026.01.14-22.40.03:839][596]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IMC_Default]
+[2026.01.14-22.40.03:850][596]LogSavePackage: Moving output files for package: /Game/Input/IMC_Default
+[2026.01.14-22.40.03:850][596]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/IMC_Default009E6606412A5F1FBD8E9EBE334691CB.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Content/Input/IMC_Default.uasset'
+[2026.01.14-22.40.03:867][596]LogFileHelpers: InternalPromptForCheckoutAndSave took 115.475 ms (total: 11.3 sec)
+[2026.01.14-22.40.03:944][596]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.14-22.40.03:944][596]LogContentValidation: Enabled validators:
+[2026.01.14-22.40.03:944][596]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-22.40.03:944][596]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-22.40.03:944][596]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-22.40.03:944][596]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-22.40.03:944][596]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-22.40.03:944][596]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-22.40.03:944][596]AssetCheck: /Game/Input/IMC_Default Validating asset
+[2026.01.14-22.40.31:195][ 69]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 44575.394531
+[2026.01.14-22.40.31:359][ 78]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.14-22.40.31:359][ 78]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 44575.546875, Update Interval: 351.313202
+[2026.01.14-22.41.50:938][249]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2026.01.14-22.41.50:946][249]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/_Project/00_Maps/Map_Game' took 0.107
+[2026.01.14-22.41.50:946][249]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.01.14-22.41.51:173][249]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.01.14-22.41.51:173][249]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.01.14-22.41.51:208][249]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto6
+[2026.01.14-22.41.51:208][249]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/BP_ThirdPersonCharacter_Auto6A6AD49FC4908480ED98B05AF14A9B3E6.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto6.uasset'
+[2026.01.14-22.41.51:210][249]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IA_TestDamage] ([1] browsable assets)...
+[2026.01.14-22.41.51:210][249]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IA_TestDamage]
+[2026.01.14-22.41.51:217][249]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Input/Actions/IA_TestDamage_Auto6
+[2026.01.14-22.41.51:217][249]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/IA_TestDamage_Auto6B669671B4DC9C9EBB33F4886DEC7D70B.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/Autosaves/Game/Input/Actions/IA_TestDamage_Auto6.uasset'
+[2026.01.14-22.41.51:218][249]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IA_TestStamina] ([1] browsable assets)...
+[2026.01.14-22.41.51:218][249]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IA_TestStamina]
+[2026.01.14-22.41.51:226][249]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Input/Actions/IA_TestStamina_Auto6
+[2026.01.14-22.41.51:226][249]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/IA_TestStamina_Auto6716129354B4F1DEDE2735A816F2516DB.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/Autosaves/Game/Input/Actions/IA_TestStamina_Auto6.uasset'
+[2026.01.14-22.41.51:227][249]LogFileHelpers: Auto-saving content packages took 0.281
+[2026.01.14-22.42.07:781][300]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.01.14-22.42.07:781][300]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.01.14-22.42.21:189][ 43]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.01.14-22.42.21:189][ 43]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.01.14-22.43.04:874][403]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.01.14-22.43.05:961][453]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-22.43.06:032][453]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.01.14-22.43.06:097][453]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.01.14-22.43.06:097][453]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.01.14-22.43.06:129][453]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.01.14-22.43.06:130][453]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/BP_ThirdPersonCharacter7D71CAD44A38466C3A53FBB2AFAC26BF.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.01.14-22.43.06:148][453]LogFileHelpers: InternalPromptForCheckoutAndSave took 186.061 ms (total: 11.5 sec)
+[2026.01.14-22.43.06:220][453]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.14-22.43.06:220][453]LogContentValidation: Enabled validators:
+[2026.01.14-22.43.06:220][453]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-22.43.06:220][453]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-22.43.06:220][453]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-22.43.06:220][453]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-22.43.06:220][453]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-22.43.06:220][453]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-22.43.06:220][453]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.01.14-22.43.09:904][664]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-22.43.09:974][664]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.01.14-22.43.09:974][664]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.01.14-22.43.10:006][664]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.01.14-22.43.10:008][664]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/BP_ThirdPersonCharacterAF60B4F54632EE3F76E7C09FE2BE6ED7.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.01.14-22.43.10:026][664]LogFileHelpers: InternalPromptForCheckoutAndSave took 121.557 ms (total: 11.6 sec)
+[2026.01.14-22.43.10:114][664]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.14-22.43.10:114][664]LogContentValidation: Enabled validators:
+[2026.01.14-22.43.10:114][664]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-22.43.10:114][664]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-22.43.10:114][664]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-22.43.10:114][664]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-22.43.10:114][664]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-22.43.10:114][664]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-22.43.10:114][664]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.01.14-22.43.11:753][755]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.14-22.43.11:758][755]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.14-22.43.11:758][755]LogPlayLevel: Creating play world package: /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.14-22.43.11:801][755]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041941s)
+[2026.01.14-22.43.11:801][755]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Project/00_Maps/Map_Game.Map_Game to /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game (0.042016s)
+[2026.01.14-22.43.11:849][755]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.01.14-22.43.11:858][755]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Game
+[2026.01.14-22.43.11:860][755]LogPlayLevel: PIE: World Init took: (0.001860s)
+[2026.01.14-22.43.11:861][755]LogAudio: Display: Creating Audio Device:                 Id: 86, Scope: Unique, Realtime: True
+[2026.01.14-22.43.11:861][755]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.14-22.43.11:861][755]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.14-22.43.11:861][755]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.14-22.43.11:861][755]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.14-22.43.11:861][755]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.14-22.43.11:861][755]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.14-22.43.11:861][755]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.14-22.43.11:861][755]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.14-22.43.11:861][755]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.14-22.43.11:861][755]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.14-22.43.11:861][755]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.14-22.43.11:863][755]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.14-22.43.11:894][755]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2026.01.14-22.43.11:894][755]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.14-22.43.11:894][755]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.14-22.43.11:894][755]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.14-22.43.11:894][755]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=86
+[2026.01.14-22.43.11:894][755]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=86
+[2026.01.14-22.43.11:897][755]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=86
+[2026.01.14-22.43.11:897][755]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=86
+[2026.01.14-22.43.11:897][755]LogInit: FAudioDevice initialized with ID 86.
+[2026.01.14-22.43.11:897][755]LogAudio: Display: Audio Device (ID: 86) registered with world 'Map_Game'.
+[2026.01.14-22.43.11:897][755]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 86
+[2026.01.14-22.43.11:901][755]LogLoad: Game class is 'BP_GM_Game_C'
+[2026.01.14-22.43.11:903][755]LogWorld: Bringing World /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game up for play (max tick rate 60) at 2026.01.14-23.43.11
+[2026.01.14-22.43.11:904][755]LogWorld: Bringing up level for play took: 0.002236
+[2026.01.14-22.43.11:906][755]LogOnline: OSS: Created online subsystem instance for: :Context_127
+[2026.01.14-22.43.11:912][755]PIE: Server logged in
+[2026.01.14-22.43.11:915][755]PIE: Play in editor total start time 0,156 seconds.
+[2026.01.14-22.43.11:972][755]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.14-22.43.46:336][381]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.14-22.43.46:336][381]LogWorld: BeginTearingDown for /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.14-22.43.46:336][381]LogWorld: UWorld::CleanupWorld for Map_Game, bSessionEnded=true, bCleanupResources=true
+[2026.01.14-22.43.46:337][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-22.43.46:339][381]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.14-22.43.46:347][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-22.43.46:397][381]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.14-22.43.46:398][381]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 86
+[2026.01.14-22.43.46:398][381]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=86, StreamState=4
+[2026.01.14-22.43.46:399][381]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=86, StreamState=2
+[2026.01.14-22.43.46:404][381]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.14-22.43.46:409][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2026.01.14-22.43.46:450][382]LogPlayLevel: Display: Destroying online subsystem :Context_127
+[2026.01.14-22.44.10:466][654]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.01.14-22.44.10:466][654]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.01.14-22.46.41:736][274]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.01.14-22.46.41:736][274]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.01.14-22.46.50:687][753]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2026.01.14-22.46.51:799][805]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-22.46.51:871][805]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.01.14-22.46.51:921][805]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.01.14-22.46.51:921][805]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.01.14-22.46.51:953][805]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.01.14-22.46.51:955][805]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/BP_ThirdPersonCharacter451545884EDEB8DB4EF63FBA75D1B933.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.01.14-22.46.51:973][805]LogFileHelpers: InternalPromptForCheckoutAndSave took 175.062 ms (total: 11.8 sec)
+[2026.01.14-22.46.52:057][805]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.14-22.46.52:057][805]LogContentValidation: Enabled validators:
+[2026.01.14-22.46.52:057][805]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-22.46.52:057][805]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-22.46.52:057][805]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-22.46.52:057][805]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-22.46.52:057][805]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-22.46.52:057][805]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-22.46.52:057][805]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.01.14-22.46.55:084][975]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 44955.324219
+[2026.01.14-22.46.55:257][985]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.14-22.46.55:257][985]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 44955.484375, Update Interval: 349.328278
+[2026.01.14-22.47.43:425][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2026.01.14-22.47.44:023][564]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-22.47.44:086][564]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.01.14-22.47.44:136][564]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.01.14-22.47.44:136][564]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.01.14-22.47.44:170][564]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.01.14-22.47.44:171][564]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/BP_ThirdPersonCharacterCAA5C7694F6F994147D113B15BF861D5.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.01.14-22.47.44:191][564]LogFileHelpers: InternalPromptForCheckoutAndSave took 168.070 ms (total: 11.9 sec)
+[2026.01.14-22.47.44:266][564]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.14-22.47.44:266][564]LogContentValidation: Enabled validators:
+[2026.01.14-22.47.44:266][564]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-22.47.44:266][564]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-22.47.44:266][564]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-22.47.44:266][564]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-22.47.44:266][564]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-22.47.44:266][564]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-22.47.44:266][564]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.01.14-22.47.57:677][954]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.14-22.47.57:683][954]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.14-22.47.57:683][954]LogPlayLevel: Creating play world package: /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.14-22.47.57:724][954]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040160s)
+[2026.01.14-22.47.57:724][954]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Project/00_Maps/Map_Game.Map_Game to /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game (0.040212s)
+[2026.01.14-22.47.57:761][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.01.14-22.47.57:769][954]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Game
+[2026.01.14-22.47.57:771][954]LogPlayLevel: PIE: World Init took: (0.001940s)
+[2026.01.14-22.47.57:772][954]LogAudio: Display: Creating Audio Device:                 Id: 87, Scope: Unique, Realtime: True
+[2026.01.14-22.47.57:772][954]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.14-22.47.57:772][954]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.14-22.47.57:772][954]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.14-22.47.57:772][954]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.14-22.47.57:772][954]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.14-22.47.57:772][954]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.14-22.47.57:772][954]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.14-22.47.57:772][954]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.14-22.47.57:772][954]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.14-22.47.57:772][954]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.14-22.47.57:772][954]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.14-22.47.57:774][954]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.14-22.47.57:804][954]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2026.01.14-22.47.57:805][954]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.14-22.47.57:805][954]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.14-22.47.57:805][954]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.14-22.47.57:805][954]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=87
+[2026.01.14-22.47.57:805][954]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=87
+[2026.01.14-22.47.57:807][954]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=87
+[2026.01.14-22.47.57:807][954]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=87
+[2026.01.14-22.47.57:807][954]LogInit: FAudioDevice initialized with ID 87.
+[2026.01.14-22.47.57:807][954]LogAudio: Display: Audio Device (ID: 87) registered with world 'Map_Game'.
+[2026.01.14-22.47.57:807][954]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 87
+[2026.01.14-22.47.57:812][954]LogLoad: Game class is 'BP_GM_Game_C'
+[2026.01.14-22.47.57:814][954]LogWorld: Bringing World /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game up for play (max tick rate 60) at 2026.01.14-23.47.57
+[2026.01.14-22.47.57:814][954]LogWorld: Bringing up level for play took: 0.002033
+[2026.01.14-22.47.57:816][954]LogOnline: OSS: Created online subsystem instance for: :Context_128
+[2026.01.14-22.47.57:822][954]PIE: Server logged in
+[2026.01.14-22.47.57:825][954]PIE: Play in editor total start time 0,142 seconds.
+[2026.01.14-22.47.57:875][954]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.14-22.48.00:499][108]Cmd: NextDebugTarget
+[2026.01.14-22.48.01:332][158]Cmd: PreviousDebugTarget
+[2026.01.14-22.48.01:533][170]Cmd: PreviousDebugTarget
+[2026.01.14-22.48.03:234][272]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] HP 90.0
+[2026.01.14-22.48.03:250][273]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] HP 80.0
+[2026.01.14-22.48.03:267][274]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] HP 70.0
+[2026.01.14-22.48.03:284][275]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] HP 60.0
+[2026.01.14-22.48.03:300][276]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] HP 50.0
+[2026.01.14-22.48.03:317][277]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] HP 40.0
+[2026.01.14-22.48.03:334][278]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] HP 30.0
+[2026.01.14-22.48.04:201][330]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] HP 20.0
+[2026.01.14-22.48.04:217][331]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] HP 10.0
+[2026.01.14-22.48.04:233][332]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] HP 0.0
+[2026.01.14-22.48.05:134][386]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] HP -10.0
+[2026.01.14-22.48.05:151][387]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] HP -20.0
+[2026.01.14-22.48.05:168][388]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] HP -30.0
+[2026.01.14-22.48.05:184][389]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] HP -40.0
+[2026.01.14-22.48.05:201][390]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] HP -50.0
+[2026.01.14-22.48.05:868][430]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Stamina: 90.0
+[2026.01.14-22.48.05:884][431]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Stamina: 80.0
+[2026.01.14-22.48.05:900][432]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Stamina: 70.0
+[2026.01.14-22.48.05:917][433]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Stamina: 60.0
+[2026.01.14-22.48.05:933][434]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Stamina: 50.0
+[2026.01.14-22.48.06:401][462]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Stamina: 40.0
+[2026.01.14-22.48.06:417][463]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Stamina: 30.0
+[2026.01.14-22.48.06:434][464]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Stamina: 20.0
+[2026.01.14-22.48.06:450][465]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Stamina: 10.0
+[2026.01.14-22.48.06:467][466]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Stamina: 0.0
+[2026.01.14-22.48.06:835][488]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Stamina: -10.0
+[2026.01.14-22.48.06:851][489]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Stamina: -20.0
+[2026.01.14-22.48.06:868][490]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Stamina: -30.0
+[2026.01.14-22.48.06:884][491]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Stamina: -40.0
+[2026.01.14-22.48.06:901][492]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Stamina: -50.0
+[2026.01.14-22.48.07:185][509]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Stamina: -60.0
+[2026.01.14-22.48.07:201][510]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Stamina: -70.0
+[2026.01.14-22.48.07:217][511]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Stamina: -80.0
+[2026.01.14-22.48.07:234][512]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Stamina: -90.0
+[2026.01.14-22.48.07:252][513]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Stamina: -100.0
+[2026.01.14-22.48.07:267][514]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Stamina: -110.0
+[2026.01.14-22.48.07:585][533]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Stamina: -120.0
+[2026.01.14-22.48.07:601][534]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Stamina: -130.0
+[2026.01.14-22.48.07:618][535]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Stamina: -140.0
+[2026.01.14-22.48.07:634][536]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Stamina: -150.0
+[2026.01.14-22.48.07:651][537]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Stamina: -160.0
+[2026.01.14-22.48.07:667][538]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Stamina: -170.0
+[2026.01.14-22.48.08:285][575]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Stamina: -180.0
+[2026.01.14-22.48.08:301][576]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Stamina: -190.0
+[2026.01.14-22.48.08:317][577]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Stamina: -200.0
+[2026.01.14-22.48.08:333][578]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Stamina: -210.0
+[2026.01.14-22.48.08:351][579]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Stamina: -220.0
+[2026.01.14-22.48.08:801][606]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] HP -60.0
+[2026.01.14-22.48.08:818][607]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] HP -70.0
+[2026.01.14-22.48.08:834][608]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] HP -80.0
+[2026.01.14-22.48.08:851][609]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] HP -90.0
+[2026.01.14-22.48.08:867][610]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] HP -100.0
+[2026.01.14-22.48.08:923][611]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] HP -110.0
+[2026.01.14-22.48.10:700][718]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Stamina: -230.0
+[2026.01.14-22.48.10:716][719]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Stamina: -240.0
+[2026.01.14-22.48.10:732][720]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Stamina: -250.0
+[2026.01.14-22.48.10:749][721]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Stamina: -260.0
+[2026.01.14-22.48.10:766][722]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Stamina: -270.0
+[2026.01.14-22.48.11:357][756]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.14-22.48.11:357][756]LogWorld: BeginTearingDown for /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.14-22.48.11:357][756]LogWorld: UWorld::CleanupWorld for Map_Game, bSessionEnded=true, bCleanupResources=true
+[2026.01.14-22.48.11:358][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-22.48.11:360][756]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.14-22.48.11:366][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-22.48.11:413][756]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.14-22.48.11:413][756]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 87
+[2026.01.14-22.48.11:413][756]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=87, StreamState=4
+[2026.01.14-22.48.11:415][756]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=87, StreamState=2
+[2026.01.14-22.48.11:420][756]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.14-22.48.11:424][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2026.01.14-22.48.11:466][757]LogPlayLevel: Display: Destroying online subsystem :Context_128
+[2026.01.14-22.48.56:544][ 23]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.01.14-22.48.56:544][ 23]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.01.14-22.50.03:424][853]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.01.14-22.50.03:424][853]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.01.14-22.50.11:100][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2026.01.14-22.50.11:667][194]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-22.50.11:743][194]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.01.14-22.50.11:789][194]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.01.14-22.50.11:789][194]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.01.14-22.50.11:824][194]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.01.14-22.50.11:824][194]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/BP_ThirdPersonCharacterEFD9B9464B88580B5A900E98718426C3.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.01.14-22.50.11:844][194]LogFileHelpers: InternalPromptForCheckoutAndSave took 176.926 ms (total: 12.1 sec)
+[2026.01.14-22.50.11:919][194]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.14-22.50.11:919][194]LogContentValidation: Enabled validators:
+[2026.01.14-22.50.11:919][194]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-22.50.11:919][194]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-22.50.11:919][194]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-22.50.11:919][194]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-22.50.11:919][194]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-22.50.11:919][194]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-22.50.11:919][194]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.01.14-22.50.15:677][332]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.14-22.50.15:683][332]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.14-22.50.15:683][332]LogPlayLevel: Creating play world package: /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.14-22.50.15:723][332]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039719s)
+[2026.01.14-22.50.15:723][332]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Project/00_Maps/Map_Game.Map_Game to /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game (0.039763s)
+[2026.01.14-22.50.15:759][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.01.14-22.50.15:768][332]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Game
+[2026.01.14-22.50.15:770][332]LogPlayLevel: PIE: World Init took: (0.001771s)
+[2026.01.14-22.50.15:770][332]LogAudio: Display: Creating Audio Device:                 Id: 88, Scope: Unique, Realtime: True
+[2026.01.14-22.50.15:771][332]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.14-22.50.15:771][332]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.14-22.50.15:771][332]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.14-22.50.15:771][332]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.14-22.50.15:771][332]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.14-22.50.15:771][332]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.14-22.50.15:771][332]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.14-22.50.15:771][332]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.14-22.50.15:771][332]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.14-22.50.15:771][332]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.14-22.50.15:771][332]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.14-22.50.15:773][332]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.14-22.50.15:803][332]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2026.01.14-22.50.15:804][332]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.14-22.50.15:804][332]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.14-22.50.15:804][332]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.14-22.50.15:804][332]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=88
+[2026.01.14-22.50.15:804][332]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=88
+[2026.01.14-22.50.15:805][332]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=88
+[2026.01.14-22.50.15:806][332]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=88
+[2026.01.14-22.50.15:806][332]LogInit: FAudioDevice initialized with ID 88.
+[2026.01.14-22.50.15:806][332]LogAudio: Display: Audio Device (ID: 88) registered with world 'Map_Game'.
+[2026.01.14-22.50.15:806][332]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 88
+[2026.01.14-22.50.15:810][332]LogLoad: Game class is 'BP_GM_Game_C'
+[2026.01.14-22.50.15:812][332]LogWorld: Bringing World /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game up for play (max tick rate 60) at 2026.01.14-23.50.15
+[2026.01.14-22.50.15:812][332]LogWorld: Bringing up level for play took: 0.002071
+[2026.01.14-22.50.15:814][332]LogOnline: OSS: Created online subsystem instance for: :Context_129
+[2026.01.14-22.50.15:820][332]PIE: Server logged in
+[2026.01.14-22.50.15:823][332]PIE: Play in editor total start time 0,139 seconds.
+[2026.01.14-22.50.15:873][333]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.14-22.50.18:780][505]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] HP 90.0
+[2026.01.14-22.50.18:797][506]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] HP 80.0
+[2026.01.14-22.50.18:814][507]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] HP 70.0
+[2026.01.14-22.50.18:830][508]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] HP 60.0
+[2026.01.14-22.50.19:531][550]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Stamina: 90.0
+[2026.01.14-22.50.19:548][551]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Stamina: 80.0
+[2026.01.14-22.50.19:564][552]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Stamina: 70.0
+[2026.01.14-22.50.19:581][553]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Stamina: 60.0
+[2026.01.14-22.50.19:881][571]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Stamina: 50.0
+[2026.01.14-22.50.19:897][572]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Stamina: 40.0
+[2026.01.14-22.50.19:914][573]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Stamina: 30.0
+[2026.01.14-22.50.19:930][574]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Stamina: 20.0
+[2026.01.14-22.50.19:947][575]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Stamina: 10.0
+[2026.01.14-22.50.19:964][576]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Stamina: 0.0
+[2026.01.14-22.50.20:464][606]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] HP 50.0
+[2026.01.14-22.50.20:481][607]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] HP 40.0
+[2026.01.14-22.50.20:498][608]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] HP 30.0
+[2026.01.14-22.50.20:514][609]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] HP 20.0
+[2026.01.14-22.50.20:531][610]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] HP 10.0
+[2026.01.14-22.50.20:547][611]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] HP 0.0
+[2026.01.14-22.50.20:563][612]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] HP -10.0
+[2026.01.14-22.50.21:137][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.14-22.50.21:137][644]LogWorld: BeginTearingDown for /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.14-22.50.21:137][644]LogWorld: UWorld::CleanupWorld for Map_Game, bSessionEnded=true, bCleanupResources=true
+[2026.01.14-22.50.21:138][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-22.50.21:140][644]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.14-22.50.21:146][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-22.50.21:189][644]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.14-22.50.21:190][644]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 88
+[2026.01.14-22.50.21:190][644]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=88, StreamState=4
+[2026.01.14-22.50.21:192][644]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=88, StreamState=2
+[2026.01.14-22.50.21:197][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.14-22.50.21:201][644]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2026.01.14-22.50.21:244][645]LogPlayLevel: Display: Destroying online subsystem :Context_129
+[2026.01.14-22.50.36:273][774]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.01.14-22.50.36:273][774]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.01.14-22.50.48:045][115]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.14-22.50.48:051][115]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.14-22.50.48:051][115]LogPlayLevel: Creating play world package: /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.14-22.50.48:092][115]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040909s)
+[2026.01.14-22.50.48:092][115]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Project/00_Maps/Map_Game.Map_Game to /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game (0.040953s)
+[2026.01.14-22.50.48:126][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.01.14-22.50.48:132][115]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Game
+[2026.01.14-22.50.48:133][115]LogPlayLevel: PIE: World Init took: (0.001652s)
+[2026.01.14-22.50.48:134][115]LogAudio: Display: Creating Audio Device:                 Id: 89, Scope: Unique, Realtime: True
+[2026.01.14-22.50.48:134][115]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.14-22.50.48:134][115]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.14-22.50.48:134][115]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.14-22.50.48:134][115]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.14-22.50.48:134][115]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.14-22.50.48:134][115]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.14-22.50.48:134][115]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.14-22.50.48:134][115]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.14-22.50.48:134][115]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.14-22.50.48:134][115]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.14-22.50.48:134][115]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.14-22.50.48:136][115]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.14-22.50.48:166][115]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2026.01.14-22.50.48:166][115]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.14-22.50.48:166][115]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.14-22.50.48:166][115]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.14-22.50.48:167][115]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=89
+[2026.01.14-22.50.48:167][115]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=89
+[2026.01.14-22.50.48:169][115]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=89
+[2026.01.14-22.50.48:169][115]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=89
+[2026.01.14-22.50.48:169][115]LogInit: FAudioDevice initialized with ID 89.
+[2026.01.14-22.50.48:169][115]LogAudio: Display: Audio Device (ID: 89) registered with world 'Map_Game'.
+[2026.01.14-22.50.48:169][115]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 89
+[2026.01.14-22.50.48:173][115]LogLoad: Game class is 'BP_GM_Game_C'
+[2026.01.14-22.50.48:175][115]LogWorld: Bringing World /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game up for play (max tick rate 60) at 2026.01.14-23.50.48
+[2026.01.14-22.50.48:175][115]LogWorld: Bringing up level for play took: 0.002054
+[2026.01.14-22.50.48:177][115]LogOnline: OSS: Created online subsystem instance for: :Context_130
+[2026.01.14-22.50.48:182][115]PIE: Server logged in
+[2026.01.14-22.50.48:185][115]PIE: Play in editor total start time 0,135 seconds.
+[2026.01.14-22.50.48:231][116]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.14-22.50.51:392][303]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_0)
+[2026.01.14-22.50.51:393][303]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_1)
+[2026.01.14-22.50.51:393][303]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_2)
+[2026.01.14-22.50.51:394][303]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_3)
+[2026.01.14-22.50.51:394][303]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_4)
+[2026.01.14-22.50.51:395][303]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_5)
+[2026.01.14-22.50.55:394][543]LogBlueprintUserMessages: [BP_EnemyDummy_C_5] Damage 25.0
+[2026.01.14-22.50.55:394][543]LogBlueprintUserMessages: [BP_EnemyDummy_C_5] HP 5.0
+[2026.01.14-22.50.57:193][651]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] HP 90.0
+[2026.01.14-22.50.57:210][652]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] HP 80.0
+[2026.01.14-22.50.57:227][653]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] HP 70.0
+[2026.01.14-22.50.57:243][654]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] HP 60.0
+[2026.01.14-22.50.57:259][655]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] HP 50.0
+[2026.01.14-22.50.57:677][680]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Stamina: 90.0
+[2026.01.14-22.50.57:693][681]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Stamina: 80.0
+[2026.01.14-22.50.57:709][682]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Stamina: 70.0
+[2026.01.14-22.50.57:726][683]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Stamina: 60.0
+[2026.01.14-22.50.57:743][684]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Stamina: 50.0
+[2026.01.14-22.50.58:043][702]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Stamina: 40.0
+[2026.01.14-22.50.58:060][703]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Stamina: 30.0
+[2026.01.14-22.50.58:077][704]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Stamina: 20.0
+[2026.01.14-22.51.29:537][949]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.14-22.51.29:537][949]LogWorld: BeginTearingDown for /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.14-22.51.29:537][949]LogWorld: UWorld::CleanupWorld for Map_Game, bSessionEnded=true, bCleanupResources=true
+[2026.01.14-22.51.29:538][949]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-22.51.29:539][949]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.14-22.51.29:547][949]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-22.51.29:597][949]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.14-22.51.29:599][949]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 89
+[2026.01.14-22.51.29:599][949]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=89, StreamState=4
+[2026.01.14-22.51.29:602][949]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=89, StreamState=2
+[2026.01.14-22.51.29:615][949]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2026.01.14-22.51.29:688][950]LogPlayLevel: Display: Destroying online subsystem :Context_130
+[2026.01.14-22.51.36:133][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2026.01.14-22.51.36:977][325]LogSlate: Window 'Save Content' being destroyed
+[2026.01.14-22.51.37:020][325]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-22.51.37:109][325]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IA_TestDamage] ([1] browsable assets)...
+[2026.01.14-22.51.37:109][325]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IA_TestDamage]
+[2026.01.14-22.51.37:121][325]LogSavePackage: Moving output files for package: /Game/Input/Actions/IA_TestDamage
+[2026.01.14-22.51.37:121][325]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/IA_TestDamageA4065F9543D55F9F53890BBD8F99FA89.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Content/Input/Actions/IA_TestDamage.uasset'
+[2026.01.14-22.51.37:125][325]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IA_TestStamina] ([1] browsable assets)...
+[2026.01.14-22.51.37:125][325]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IA_TestStamina]
+[2026.01.14-22.51.37:138][325]LogSavePackage: Moving output files for package: /Game/Input/Actions/IA_TestStamina
+[2026.01.14-22.51.37:138][325]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/IA_TestStamina2BCA2ED444097044C1D262A595D7E4D4.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Content/Input/Actions/IA_TestStamina.uasset'
+[2026.01.14-22.51.37:162][325]LogFileHelpers: InternalPromptForCheckoutAndSave took 142.205 ms (total: 12.3 sec)
+[2026.01.14-22.51.37:247][325]LogContentValidation: Display: Starting to validate 2 assets
+[2026.01.14-22.51.37:247][325]LogContentValidation: Enabled validators:
+[2026.01.14-22.51.37:247][325]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-22.51.37:247][325]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-22.51.37:247][325]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-22.51.37:247][325]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-22.51.37:247][325]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-22.51.37:247][325]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-22.51.37:247][325]AssetCheck: /Game/Input/Actions/IA_TestDamage Validating asset
+[2026.01.14-22.51.37:247][325]AssetCheck: /Game/Input/Actions/IA_TestStamina Validating asset
+[2026.01.14-22.51.37:287][325]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/SourceControl/UncontrolledChangelists.json
