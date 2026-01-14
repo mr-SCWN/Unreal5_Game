@@ -7385,3 +7385,699 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.01.14-17.22.57:278][683]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.01.14-17.22.57:278][683]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.01.14-17.22.57:278][683]AssetCheck: /Game/_Project/01_Blueprints/Enemies/BP_EnemyDummy Validating asset
+[2026.01.14-17.28.23:573][809]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-17.28.25:358][814]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:53797'.
+[2026.01.14-17.28.25:361][814]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-17.28.25:361][814]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-17.28.25:368][814]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-17.28.27:573][821]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-17.28.29:378][826]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:62014'.
+[2026.01.14-17.28.29:382][826]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-17.28.29:382][826]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-17.28.29:388][826]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-17.28.31:574][833]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-17.28.33:407][838]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:64825'.
+[2026.01.14-17.28.33:411][838]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-17.28.33:411][838]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-17.28.33:420][838]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-17.28.39:576][857]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-17.28.41:437][862]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:62161'.
+[2026.01.14-17.28.41:443][862]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-17.28.41:444][862]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-17.28.41:457][862]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-17.29.17:592][971]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26024.691406
+[2026.01.14-17.29.18:592][974]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.14-17.29.18:592][974]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26025.359375, Update Interval: 300.344238
+[2026.01.14-17.34.52:985][977]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26360.087891
+[2026.01.14-17.34.53:989][980]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.14-17.34.53:990][980]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26360.753906, Update Interval: 314.039124
+[2026.01.14-17.35.02:978][  7]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-17.35.04:769][ 12]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:65434'.
+[2026.01.14-17.35.04:772][ 12]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-17.35.04:772][ 12]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-17.35.04:780][ 12]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-17.35.07:980][ 22]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-17.35.09:791][ 27]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:65435'.
+[2026.01.14-17.35.09:794][ 27]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-17.35.09:794][ 27]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-17.35.09:799][ 27]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-17.35.11:981][ 34]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-17.35.13:813][ 39]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:62238'.
+[2026.01.14-17.35.13:816][ 39]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-17.35.13:816][ 39]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-17.35.13:822][ 39]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-17.35.19:982][ 58]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-17.35.21:842][ 63]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:63763'.
+[2026.01.14-17.35.21:845][ 63]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-17.35.21:845][ 63]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-17.35.21:851][ 63]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-17.38.54:544][702]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.01.14-17.38.54:544][702]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.01.14-17.38.54:757][703]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-17.40.45:083][302]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26712.289062
+[2026.01.14-17.40.45:265][314]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.14-17.40.45:266][314]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26712.455078, Update Interval: 316.919464
+[2026.01.14-17.40.57:116][ 18]LogWindows: LaunchURL https://docs.unrealengine.com/5.6/en/BuildingWorlds/LevelEditor?utm_source=editor&utm_medium=docs&utm_campaign=help_menu
+[2026.01.14-17.41.38:232][990]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Project/01_Blueprints/World/BP_ArenaTrigger.BP_ArenaTrigger_C
+[2026.01.14-17.41.38:232][990]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Project/01_Blueprints/World/BP_ArenaTrigger.BP_ArenaTrigger_C
+[2026.01.14-17.41.38:234][990]LogActorFactory: Actor Factory spawned Blueprint /Game/_Project/01_Blueprints/World/BP_ArenaTrigger.BP_ArenaTrigger as actor: BP_ArenaTrigger_C /Game/_Project/00_Maps/Map_Game.Map_Game:PersistentLevel.BP_ArenaTrigger_C_2
+[2026.01.14-17.41.38:234][990]LogActorFactory: Actor Factory spawned Blueprint /Game/_Project/01_Blueprints/World/BP_ArenaTrigger.BP_ArenaTrigger as actor: BP_ArenaTrigger_C /Game/_Project/00_Maps/Map_Game.Map_Game:PersistentLevel.BP_ArenaTrigger_C_2
+[2026.01.14-17.41.38:940][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2026.01.14-17.41.38:947][ 17]LogEditorActor: Deleted 0 Actors (0.081 secs)
+[2026.01.14-17.41.38:954][ 17]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Project/01_Blueprints/World/BP_ArenaTrigger.BP_ArenaTrigger_C
+[2026.01.14-17.41.38:954][ 17]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Project/01_Blueprints/World/BP_ArenaTrigger.BP_ArenaTrigger_C
+[2026.01.14-17.41.38:958][ 17]LogActorFactory: Actor Factory spawned Blueprint /Game/_Project/01_Blueprints/World/BP_ArenaTrigger.BP_ArenaTrigger as actor: BP_ArenaTrigger_C /Game/_Project/00_Maps/Map_Game.Map_Game:PersistentLevel.BP_ArenaTrigger_C_3
+[2026.01.14-17.41.38:958][ 17]LogActorFactory: Actor Factory spawned Blueprint /Game/_Project/01_Blueprints/World/BP_ArenaTrigger.BP_ArenaTrigger as actor: BP_ArenaTrigger_C /Game/_Project/00_Maps/Map_Game.Map_Game:PersistentLevel.BP_ArenaTrigger_C_3
+[2026.01.14-17.41.39:522][ 45]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-17.42.02:650][413]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-17.42.43:125][808]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.01.14-17.42.43:126][808]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.01.14-17.42.46:621][  7]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.01.14-17.42.46:621][  7]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.01.14-17.43.35:111][785]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TargetPoint
+[2026.01.14-17.43.35:111][785]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TargetPoint
+[2026.01.14-17.43.35:112][785]LogActorFactory: Actor Factory spawned Class /Script/Engine.TargetPoint as actor: TargetPoint /Game/_Project/00_Maps/Map_Game.Map_Game:PersistentLevel.TargetPoint_12
+[2026.01.14-17.43.35:112][785]LogActorFactory: Actor Factory spawned Class /Script/Engine.TargetPoint as actor: TargetPoint /Game/_Project/00_Maps/Map_Game.Map_Game:PersistentLevel.TargetPoint_12
+[2026.01.14-17.43.35:996][825]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.01.14-17.43.36:003][825]LogEditorActor: Deleted 0 Actors (0.051 secs)
+[2026.01.14-17.43.36:011][825]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TargetPoint
+[2026.01.14-17.43.36:011][825]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TargetPoint
+[2026.01.14-17.43.36:015][825]LogActorFactory: Actor Factory spawned Class /Script/Engine.TargetPoint as actor: TargetPoint /Game/_Project/00_Maps/Map_Game.Map_Game:PersistentLevel.TargetPoint_13
+[2026.01.14-17.43.36:015][825]LogActorFactory: Actor Factory spawned Class /Script/Engine.TargetPoint as actor: TargetPoint /Game/_Project/00_Maps/Map_Game.Map_Game:PersistentLevel.TargetPoint_13
+[2026.01.14-17.43.39:677][ 27]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TargetPoint
+[2026.01.14-17.43.39:677][ 27]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TargetPoint
+[2026.01.14-17.43.39:679][ 27]LogActorFactory: Actor Factory spawned Class /Script/Engine.TargetPoint as actor: TargetPoint /Game/_Project/00_Maps/Map_Game.Map_Game:PersistentLevel.TargetPoint_14
+[2026.01.14-17.43.39:679][ 27]LogActorFactory: Actor Factory spawned Class /Script/Engine.TargetPoint as actor: TargetPoint /Game/_Project/00_Maps/Map_Game.Map_Game:PersistentLevel.TargetPoint_14
+[2026.01.14-17.43.40:343][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2026.01.14-17.43.40:348][ 54]LogEditorActor: Deleted 0 Actors (0.050 secs)
+[2026.01.14-17.43.40:356][ 54]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TargetPoint
+[2026.01.14-17.43.40:356][ 54]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TargetPoint
+[2026.01.14-17.43.40:359][ 54]LogActorFactory: Actor Factory spawned Class /Script/Engine.TargetPoint as actor: TargetPoint /Game/_Project/00_Maps/Map_Game.Map_Game:PersistentLevel.TargetPoint_15
+[2026.01.14-17.43.40:359][ 54]LogActorFactory: Actor Factory spawned Class /Script/Engine.TargetPoint as actor: TargetPoint /Game/_Project/00_Maps/Map_Game.Map_Game:PersistentLevel.TargetPoint_15
+[2026.01.14-17.43.48:225][506]Cmd: EDIT COPY
+[2026.01.14-17.44.27:269][768]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.01.14-17.44.27:269][768]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.01.14-17.44.38:214][381]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Project/01_Blueprints/World/BP_ArenaTrigger.BP_ArenaTrigger_C
+[2026.01.14-17.44.38:214][381]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Project/01_Blueprints/World/BP_ArenaTrigger.BP_ArenaTrigger_C
+[2026.01.14-17.44.38:216][381]LogActorFactory: Actor Factory spawned Blueprint /Game/_Project/01_Blueprints/World/BP_ArenaTrigger.BP_ArenaTrigger as actor: BP_ArenaTrigger_C /Game/_Project/00_Maps/Map_Game.Map_Game:PersistentLevel.BP_ArenaTrigger_C_4
+[2026.01.14-17.44.38:217][381]LogActorFactory: Actor Factory spawned Blueprint /Game/_Project/01_Blueprints/World/BP_ArenaTrigger.BP_ArenaTrigger as actor: BP_ArenaTrigger_C /Game/_Project/00_Maps/Map_Game.Map_Game:PersistentLevel.BP_ArenaTrigger_C_4
+[2026.01.14-17.44.38:396][389]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.01.14-17.44.38:401][389]LogEditorActor: Deleted 0 Actors (0.045 secs)
+[2026.01.14-17.44.38:409][389]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Project/01_Blueprints/World/BP_ArenaTrigger.BP_ArenaTrigger_C
+[2026.01.14-17.44.38:410][389]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Project/01_Blueprints/World/BP_ArenaTrigger.BP_ArenaTrigger_C
+[2026.01.14-17.44.38:413][389]LogActorFactory: Actor Factory spawned Blueprint /Game/_Project/01_Blueprints/World/BP_ArenaTrigger.BP_ArenaTrigger as actor: BP_ArenaTrigger_C /Game/_Project/00_Maps/Map_Game.Map_Game:PersistentLevel.BP_ArenaTrigger_C_5
+[2026.01.14-17.44.38:414][389]LogActorFactory: Actor Factory spawned Blueprint /Game/_Project/01_Blueprints/World/BP_ArenaTrigger.BP_ArenaTrigger as actor: BP_ArenaTrigger_C /Game/_Project/00_Maps/Map_Game.Map_Game:PersistentLevel.BP_ArenaTrigger_C_5
+[2026.01.14-17.44.40:631][516]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.01.14-17.44.40:632][516]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.01.14-17.44.49:879][ 57]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.01.14-17.44.49:879][ 57]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.01.14-17.45.33:979][672]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-17.45.34:124][672]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2026.01.14-17.45.34:234][672]LogSavePackage: Moving output files for package: /Game/_Project/00_Maps/Map_Game
+[2026.01.14-17.45.34:235][672]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/Map_GameED918AA24C98F513597F2BA6AB8CE5C0.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Content/_Project/00_Maps/Map_Game.umap'
+[2026.01.14-17.45.34:244][672]LogFileHelpers: Saving map 'Map_Game' took 0.183
+[2026.01.14-17.45.34:261][672]LogFileHelpers: InternalPromptForCheckoutAndSave took 282.269 ms (total: 6.25 sec)
+[2026.01.14-17.45.34:351][672]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.14-17.45.34:353][672]LogContentValidation: Enabled validators:
+[2026.01.14-17.45.34:353][672]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-17.45.34:353][672]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-17.45.34:353][672]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-17.45.34:353][672]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-17.45.34:353][672]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-17.45.34:353][672]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-17.45.34:353][672]AssetCheck: /Game/_Project/00_Maps/Map_Game Validating asset
+[2026.01.14-17.45.35:897][759]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.14-17.45.35:904][759]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.14-17.45.35:904][759]LogPlayLevel: Creating play world package: /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.14-17.45.35:956][759]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051595s)
+[2026.01.14-17.45.35:956][759]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Project/00_Maps/Map_Game.Map_Game to /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game (0.051664s)
+[2026.01.14-17.45.35:998][759]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2026.01.14-17.45.36:003][759]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Game
+[2026.01.14-17.45.36:006][759]LogPlayLevel: PIE: World Init took: (0.003194s)
+[2026.01.14-17.45.36:007][759]LogAudio: Display: Creating Audio Device:                 Id: 55, Scope: Unique, Realtime: True
+[2026.01.14-17.45.36:007][759]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.14-17.45.36:008][759]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.14-17.45.36:008][759]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.14-17.45.36:008][759]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.14-17.45.36:008][759]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.14-17.45.36:008][759]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.14-17.45.36:008][759]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.14-17.45.36:008][759]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.14-17.45.36:008][759]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.14-17.45.36:008][759]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.14-17.45.36:008][759]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.14-17.45.36:010][759]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.14-17.45.36:052][759]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2026.01.14-17.45.36:052][759]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.14-17.45.36:052][759]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.14-17.45.36:053][759]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.14-17.45.36:054][759]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=55
+[2026.01.14-17.45.36:054][759]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=55
+[2026.01.14-17.45.36:059][759]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=55
+[2026.01.14-17.45.36:059][759]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=55
+[2026.01.14-17.45.36:059][759]LogInit: FAudioDevice initialized with ID 55.
+[2026.01.14-17.45.36:059][759]LogAudio: Display: Audio Device (ID: 55) registered with world 'Map_Game'.
+[2026.01.14-17.45.36:059][759]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 55
+[2026.01.14-17.45.36:066][759]LogLoad: Game class is 'BP_GM_Game_C'
+[2026.01.14-17.45.36:069][759]LogWorld: Bringing World /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game up for play (max tick rate 60) at 2026.01.14-18.45.36
+[2026.01.14-17.45.36:069][759]LogWorld: Bringing up level for play took: 0.002942
+[2026.01.14-17.45.36:072][759]LogOnline: OSS: Created online subsystem instance for: :Context_87
+[2026.01.14-17.45.36:080][759]PIE: Server logged in
+[2026.01.14-17.45.36:083][759]PIE: Play in editor total start time 0,18 seconds.
+[2026.01.14-17.45.36:151][760]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.14-17.45.39:482][955]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_0)
+[2026.01.14-17.45.39:482][955]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_1)
+[2026.01.14-17.45.39:483][955]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_2)
+[2026.01.14-17.45.39:484][955]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_3)
+[2026.01.14-17.45.39:484][955]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_4)
+[2026.01.14-17.45.39:485][955]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_5)
+[2026.01.14-17.45.54:526][857]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_6)
+[2026.01.14-17.46.02:854][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.14-17.46.02:854][354]LogWorld: BeginTearingDown for /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.14-17.46.02:855][354]LogWorld: UWorld::CleanupWorld for Map_Game, bSessionEnded=true, bCleanupResources=true
+[2026.01.14-17.46.02:856][354]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-17.46.02:865][354]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.14-17.46.02:872][354]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-17.46.02:921][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.14-17.46.02:922][354]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 55
+[2026.01.14-17.46.02:922][354]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=55, StreamState=4
+[2026.01.14-17.46.02:925][354]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=55, StreamState=2
+[2026.01.14-17.46.02:936][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2026.01.14-17.46.02:993][355]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2026.01.14-17.46.56:993][508]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-17.46.57:181][508]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2026.01.14-17.46.57:302][508]LogSavePackage: Moving output files for package: /Game/_Project/00_Maps/Map_Game
+[2026.01.14-17.46.57:303][508]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/Map_Game24CA5C634E5F07788A3CA5A9922F8A7C.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Content/_Project/00_Maps/Map_Game.umap'
+[2026.01.14-17.46.57:312][508]LogFileHelpers: Saving map 'Map_Game' took 0.207
+[2026.01.14-17.46.57:326][508]LogFileHelpers: InternalPromptForCheckoutAndSave took 332.020 ms (total: 6.58 sec)
+[2026.01.14-17.46.57:403][508]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.14-17.46.57:403][508]LogContentValidation: Enabled validators:
+[2026.01.14-17.46.57:403][508]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-17.46.57:403][508]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-17.46.57:403][508]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-17.46.57:403][508]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-17.46.57:403][508]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-17.46.57:403][508]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-17.46.57:403][508]AssetCheck: /Game/_Project/00_Maps/Map_Game Validating asset
+[2026.01.14-17.46.57:757][528]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.14-17.46.57:762][528]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.14-17.46.57:763][528]LogPlayLevel: Creating play world package: /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.14-17.46.57:813][528]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050172s)
+[2026.01.14-17.46.57:813][528]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Project/00_Maps/Map_Game.Map_Game to /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game (0.050226s)
+[2026.01.14-17.46.57:851][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.01.14-17.46.57:854][528]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Game
+[2026.01.14-17.46.57:856][528]LogPlayLevel: PIE: World Init took: (0.002260s)
+[2026.01.14-17.46.57:857][528]LogAudio: Display: Creating Audio Device:                 Id: 56, Scope: Unique, Realtime: True
+[2026.01.14-17.46.57:857][528]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.14-17.46.57:857][528]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.14-17.46.57:857][528]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.14-17.46.57:857][528]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.14-17.46.57:857][528]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.14-17.46.57:857][528]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.14-17.46.57:857][528]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.14-17.46.57:857][528]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.14-17.46.57:857][528]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.14-17.46.57:857][528]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.14-17.46.57:857][528]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.14-17.46.57:860][528]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.14-17.46.57:896][528]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2026.01.14-17.46.57:896][528]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.14-17.46.57:896][528]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.14-17.46.57:896][528]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.14-17.46.57:897][528]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=56
+[2026.01.14-17.46.57:897][528]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=56
+[2026.01.14-17.46.57:899][528]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=56
+[2026.01.14-17.46.57:899][528]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=56
+[2026.01.14-17.46.57:899][528]LogInit: FAudioDevice initialized with ID 56.
+[2026.01.14-17.46.57:899][528]LogAudio: Display: Audio Device (ID: 56) registered with world 'Map_Game'.
+[2026.01.14-17.46.57:899][528]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 56
+[2026.01.14-17.46.57:903][528]LogLoad: Game class is 'BP_GM_Game_C'
+[2026.01.14-17.46.57:907][528]LogWorld: Bringing World /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game up for play (max tick rate 60) at 2026.01.14-18.46.57
+[2026.01.14-17.46.57:907][528]LogWorld: Bringing up level for play took: 0.003367
+[2026.01.14-17.46.57:910][528]LogOnline: OSS: Created online subsystem instance for: :Context_88
+[2026.01.14-17.46.57:914][528]PIE: Server logged in
+[2026.01.14-17.46.57:917][528]PIE: Play in editor total start time 0,156 seconds.
+[2026.01.14-17.46.57:975][529]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.14-17.46.59:058][589]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27086.316406
+[2026.01.14-17.46.59:225][599]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.14-17.46.59:225][599]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27086.466797, Update Interval: 337.482849
+[2026.01.14-17.47.01:118][713]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_0)
+[2026.01.14-17.47.01:119][713]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_1)
+[2026.01.14-17.47.01:120][713]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_2)
+[2026.01.14-17.47.01:121][713]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_3)
+[2026.01.14-17.47.01:121][713]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_4)
+[2026.01.14-17.47.01:122][713]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_5)
+[2026.01.14-17.47.12:910][418]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_6)
+[2026.01.14-17.47.31:050][504]LogScript: Warning: Accessed None trying to read (real) property Door_OutOfArena in BP_ArenaTrigger_C
+	BP_ArenaTrigger_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_ArenaTrigger_C_5
+	Function /Game/_Project/01_Blueprints/World/BP_ArenaTrigger.BP_ArenaTrigger_C:ExecuteUbergraph_BP_ArenaTrigger:0448
+[2026.01.14-17.47.31:050][504]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Door_OutOfArena in BP_ArenaTrigger_C". Node:  CloseDoor Graph:  EventGraph Function:  Execute Ubergraph BP Arena Trigger Blueprint:  BP_ArenaTrigger
+[2026.01.14-17.47.31:052][504]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_7)
+[2026.01.14-17.47.33:994][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.14-17.47.33:994][675]LogWorld: BeginTearingDown for /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.14-17.47.33:994][675]LogWorld: UWorld::CleanupWorld for Map_Game, bSessionEnded=true, bCleanupResources=true
+[2026.01.14-17.47.33:996][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-17.47.33:999][675]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.14-17.47.34:006][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-17.47.34:054][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.14-17.47.34:054][675]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 56
+[2026.01.14-17.47.34:054][675]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56, StreamState=4
+[2026.01.14-17.47.34:057][675]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56, StreamState=2
+[2026.01.14-17.47.34:068][675]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2026.01.14-17.47.34:302][676]LogPlayLevel: Display: Destroying online subsystem :Context_88
+[2026.01.14-17.47.43:887][147]LogSlate: Window 'Message Log' being destroyed
+[2026.01.14-17.47.43:910][147]LogSlate: Window 'Message Log' being destroyed
+[2026.01.14-17.47.50:368][525]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.01.14-17.47.50:368][525]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.01.14-17.47.57:585][947]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.01.14-17.47.57:585][947]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.01.14-17.48.23:470][653]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-17.48.25:298][658]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:51820'.
+[2026.01.14-17.48.25:301][658]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-17.48.25:301][658]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-17.48.25:308][658]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-17.48.28:472][668]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-17.48.30:321][673]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:50428'.
+[2026.01.14-17.48.30:324][673]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-17.48.30:324][673]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-17.48.30:329][673]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-17.48.32:472][680]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-17.48.34:344][685]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:55785'.
+[2026.01.14-17.48.34:347][685]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-17.48.34:348][685]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-17.48.34:353][685]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-17.48.40:472][704]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-17.48.42:271][709]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:51471'.
+[2026.01.14-17.48.42:275][709]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-17.48.42:275][709]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-17.48.42:284][709]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-17.49.13:068][802]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.01.14-17.49.13:068][802]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.01.14-17.49.29:172][544]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.01.14-17.49.29:187][544]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.01.14-17.49.29:203][544]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.01.14-17.49.29:232][545]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.01.14-17.49.35:370][781]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.01.14-17.49.35:370][781]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.01.14-17.49.47:566][508]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_LiftTrigger
+[2026.01.14-17.49.47:575][508]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.01.14-17.49.49:103][591]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Project/01_Blueprints/World/BP_LiftTrigger.BP_LiftTrigger
+[2026.01.14-17.49.49:103][591]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_41
+[2026.01.14-17.53.16:091][493]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27463.380859
+[2026.01.14-17.53.16:262][501]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.14-17.53.16:262][501]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27463.533203, Update Interval: 315.357513
+[2026.01.14-17.55.03:492][743]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-17.55.04:702][792]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:60533'.
+[2026.01.14-17.55.04:707][792]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-17.55.04:707][792]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-17.55.04:712][792]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-17.55.07:728][920]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-17.55.09:925][ 10]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:60534'.
+[2026.01.14-17.55.09:928][ 10]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-17.55.09:928][ 10]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-17.55.09:933][ 10]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-17.55.11:942][104]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-17.55.14:148][203]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:50229'.
+[2026.01.14-17.55.14:151][203]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-17.55.14:151][203]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-17.55.14:157][203]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-17.55.14:661][218]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2026.01.14-17.55.20:168][470]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-17.55.22:371][569]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:62934'.
+[2026.01.14-17.55.22:374][569]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-17.55.22:374][569]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-17.55.22:381][569]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-17.55.25:538][717]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2026.01.14-17.55.26:309][752]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-17.55.26:408][752]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Project/01_Blueprints/World/BP_LiftTrigger] ([2] browsable assets)...
+[2026.01.14-17.55.26:408][752]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/01_Blueprints/World/BP_LiftTrigger]
+[2026.01.14-17.55.26:423][752]LogSavePackage: Moving output files for package: /Game/_Project/01_Blueprints/World/BP_LiftTrigger
+[2026.01.14-17.55.26:423][752]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/BP_LiftTrigger33DA676449FFB13DFE5AA0A89985A090.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Content/_Project/01_Blueprints/World/BP_LiftTrigger.uasset'
+[2026.01.14-17.55.26:442][752]LogFileHelpers: InternalPromptForCheckoutAndSave took 132.918 ms (total: 6.71 sec)
+[2026.01.14-17.55.26:523][752]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.14-17.55.26:523][752]LogContentValidation: Enabled validators:
+[2026.01.14-17.55.26:523][752]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-17.55.26:523][752]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-17.55.26:523][752]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-17.55.26:523][752]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-17.55.26:523][752]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-17.55.26:523][752]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-17.55.26:523][752]AssetCheck: /Game/_Project/01_Blueprints/World/BP_LiftTrigger Validating asset
+[2026.01.14-17.55.26:565][752]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.14-17.55.34:930][186]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Project/01_Blueprints/World/BP_LiftTrigger.BP_LiftTrigger_C
+[2026.01.14-17.55.34:930][186]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Project/01_Blueprints/World/BP_LiftTrigger.BP_LiftTrigger_C
+[2026.01.14-17.55.34:932][186]LogActorFactory: Actor Factory spawned Blueprint /Game/_Project/01_Blueprints/World/BP_LiftTrigger.BP_LiftTrigger as actor: BP_LiftTrigger_C /Game/_Project/00_Maps/Map_Game.Map_Game:PersistentLevel.BP_LiftTrigger_C_0
+[2026.01.14-17.55.34:933][186]LogActorFactory: Actor Factory spawned Blueprint /Game/_Project/01_Blueprints/World/BP_LiftTrigger.BP_LiftTrigger as actor: BP_LiftTrigger_C /Game/_Project/00_Maps/Map_Game.Map_Game:PersistentLevel.BP_LiftTrigger_C_0
+[2026.01.14-17.55.35:557][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2026.01.14-17.55.35:572][211]LogEditorActor: Deleted 0 Actors (0.060 secs)
+[2026.01.14-17.55.35:579][211]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Project/01_Blueprints/World/BP_LiftTrigger.BP_LiftTrigger_C
+[2026.01.14-17.55.35:579][211]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Project/01_Blueprints/World/BP_LiftTrigger.BP_LiftTrigger_C
+[2026.01.14-17.55.35:584][211]LogActorFactory: Actor Factory spawned Blueprint /Game/_Project/01_Blueprints/World/BP_LiftTrigger.BP_LiftTrigger as actor: BP_LiftTrigger_C /Game/_Project/00_Maps/Map_Game.Map_Game:PersistentLevel.BP_LiftTrigger_C_1
+[2026.01.14-17.55.35:584][211]LogActorFactory: Actor Factory spawned Blueprint /Game/_Project/01_Blueprints/World/BP_LiftTrigger.BP_LiftTrigger as actor: BP_LiftTrigger_C /Game/_Project/00_Maps/Map_Game.Map_Game:PersistentLevel.BP_LiftTrigger_C_1
+[2026.01.14-17.55.45:329][782]LogDerivedDataCache: C:/Users/2004i/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.01.14-17.56.16:225][520]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.01.14-17.56.16:865][541]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-17.56.16:997][541]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Project/01_Blueprints/World/BP_LiftTrigger] ([2] browsable assets)...
+[2026.01.14-17.56.16:997][541]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/01_Blueprints/World/BP_LiftTrigger]
+[2026.01.14-17.56.17:015][541]LogSavePackage: Moving output files for package: /Game/_Project/01_Blueprints/World/BP_LiftTrigger
+[2026.01.14-17.56.17:016][541]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/BP_LiftTrigger895C482F4C124EE944641E833054A947.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Content/_Project/01_Blueprints/World/BP_LiftTrigger.uasset'
+[2026.01.14-17.56.17:034][541]LogFileHelpers: InternalPromptForCheckoutAndSave took 168.642 ms (total: 6.88 sec)
+[2026.01.14-17.56.17:141][541]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.14-17.56.17:141][541]LogContentValidation: Enabled validators:
+[2026.01.14-17.56.17:141][541]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-17.56.17:141][541]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-17.56.17:141][541]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-17.56.17:141][541]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-17.56.17:141][541]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-17.56.17:141][541]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-17.56.17:141][541]AssetCheck: /Game/_Project/01_Blueprints/World/BP_LiftTrigger Validating asset
+[2026.01.14-17.56.18:133][588]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-17.56.18:276][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2026.01.14-17.56.18:385][588]LogSavePackage: Moving output files for package: /Game/_Project/00_Maps/Map_Game
+[2026.01.14-17.56.18:386][588]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/Map_Game132D2625421574FB6FE05F8911ECED48.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Content/_Project/00_Maps/Map_Game.umap'
+[2026.01.14-17.56.18:395][588]LogFileHelpers: Saving map 'Map_Game' took 0.180
+[2026.01.14-17.56.18:410][588]LogFileHelpers: InternalPromptForCheckoutAndSave took 277.469 ms (total: 7.16 sec)
+[2026.01.14-17.56.18:507][588]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.14-17.56.18:507][588]LogContentValidation: Enabled validators:
+[2026.01.14-17.56.18:508][588]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-17.56.18:508][588]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-17.56.18:508][588]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-17.56.18:508][588]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-17.56.18:508][588]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-17.56.18:508][588]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-17.56.18:508][588]AssetCheck: /Game/_Project/00_Maps/Map_Game Validating asset
+[2026.01.14-17.56.23:016][833]Cmd: EDIT COPY
+[2026.01.14-17.56.24:593][924]Cmd: EDIT PASTE
+[2026.01.14-17.56.47:188][241]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.01.14-17.56.47:188][241]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.01.14-17.56.54:543][670]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.01.14-17.56.54:544][670]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.01.14-17.57.01:919][102]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.01.14-17.57.01:919][102]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.01.14-17.57.04:847][272]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.01.14-17.57.04:848][272]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.01.14-17.57.08:583][487]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-17.57.08:720][487]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2026.01.14-17.57.08:831][487]LogSavePackage: Moving output files for package: /Game/_Project/00_Maps/Map_Game
+[2026.01.14-17.57.08:831][487]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/Map_Game23865D314A15672A73123282C56CCA1A.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Content/_Project/00_Maps/Map_Game.umap'
+[2026.01.14-17.57.08:840][487]LogFileHelpers: Saving map 'Map_Game' took 0.183
+[2026.01.14-17.57.08:857][487]LogFileHelpers: InternalPromptForCheckoutAndSave took 274.003 ms (total: 7.43 sec)
+[2026.01.14-17.57.08:937][487]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.14-17.57.08:937][487]LogContentValidation: Enabled validators:
+[2026.01.14-17.57.08:937][487]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-17.57.08:937][487]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-17.57.08:937][487]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-17.57.08:937][487]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-17.57.08:937][487]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-17.57.08:937][487]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-17.57.08:937][487]AssetCheck: /Game/_Project/00_Maps/Map_Game Validating asset
+[2026.01.14-17.57.09:502][520]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.14-17.57.09:513][520]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.14-17.57.09:513][520]LogPlayLevel: Creating play world package: /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.14-17.57.09:563][520]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049966s)
+[2026.01.14-17.57.09:563][520]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Project/00_Maps/Map_Game.Map_Game to /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game (0.050017s)
+[2026.01.14-17.57.09:604][520]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2026.01.14-17.57.09:609][520]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Game
+[2026.01.14-17.57.09:611][520]LogPlayLevel: PIE: World Init took: (0.001954s)
+[2026.01.14-17.57.09:612][520]LogAudio: Display: Creating Audio Device:                 Id: 57, Scope: Unique, Realtime: True
+[2026.01.14-17.57.09:612][520]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.14-17.57.09:612][520]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.14-17.57.09:612][520]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.14-17.57.09:612][520]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.14-17.57.09:612][520]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.14-17.57.09:612][520]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.14-17.57.09:612][520]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.14-17.57.09:612][520]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.14-17.57.09:612][520]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.14-17.57.09:612][520]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.14-17.57.09:612][520]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.14-17.57.09:614][520]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.14-17.57.09:647][520]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2026.01.14-17.57.09:647][520]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.14-17.57.09:647][520]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.14-17.57.09:647][520]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.14-17.57.09:648][520]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=57
+[2026.01.14-17.57.09:648][520]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=57
+[2026.01.14-17.57.09:650][520]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=57
+[2026.01.14-17.57.09:650][520]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=57
+[2026.01.14-17.57.09:650][520]LogInit: FAudioDevice initialized with ID 57.
+[2026.01.14-17.57.09:650][520]LogAudio: Display: Audio Device (ID: 57) registered with world 'Map_Game'.
+[2026.01.14-17.57.09:650][520]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 57
+[2026.01.14-17.57.09:656][520]LogLoad: Game class is 'BP_GM_Game_C'
+[2026.01.14-17.57.09:658][520]LogWorld: Bringing World /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game up for play (max tick rate 60) at 2026.01.14-18.57.09
+[2026.01.14-17.57.09:658][520]LogWorld: Bringing up level for play took: 0.002505
+[2026.01.14-17.57.09:661][520]LogOnline: OSS: Created online subsystem instance for: :Context_90
+[2026.01.14-17.57.09:668][520]PIE: Server logged in
+[2026.01.14-17.57.09:670][520]PIE: Play in editor total start time 0,161 seconds.
+[2026.01.14-17.57.09:751][521]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.14-17.57.13:235][726]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_0)
+[2026.01.14-17.57.13:235][726]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_1)
+[2026.01.14-17.57.13:237][726]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_2)
+[2026.01.14-17.57.13:237][726]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_3)
+[2026.01.14-17.57.13:238][726]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_4)
+[2026.01.14-17.57.13:239][726]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_5)
+[2026.01.14-17.57.44:625][608]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_6)
+[2026.01.14-17.57.52:035][ 50]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.14-17.57.52:035][ 50]LogWorld: BeginTearingDown for /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.14-17.57.52:035][ 50]LogWorld: UWorld::CleanupWorld for Map_Game, bSessionEnded=true, bCleanupResources=true
+[2026.01.14-17.57.52:036][ 50]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-17.57.52:040][ 50]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.14-17.57.52:048][ 50]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-17.57.52:102][ 50]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.14-17.57.52:104][ 50]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 57
+[2026.01.14-17.57.52:104][ 50]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=57, StreamState=4
+[2026.01.14-17.57.52:106][ 50]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=57, StreamState=2
+[2026.01.14-17.57.52:117][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2026.01.14-17.57.52:182][ 51]LogPlayLevel: Display: Destroying online subsystem :Context_90
+[2026.01.14-17.58.01:726][609]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-17.59.07:639][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2026.01.14-17.59.08:221][879]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-17.59.08:323][879]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Project/01_Blueprints/World/BP_LiftTrigger] ([2] browsable assets)...
+[2026.01.14-17.59.08:323][879]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/01_Blueprints/World/BP_LiftTrigger]
+[2026.01.14-17.59.08:338][879]LogSavePackage: Moving output files for package: /Game/_Project/01_Blueprints/World/BP_LiftTrigger
+[2026.01.14-17.59.08:339][879]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/BP_LiftTrigger3A58707E47970BA5E14E1D95F40CB6A9.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Content/_Project/01_Blueprints/World/BP_LiftTrigger.uasset'
+[2026.01.14-17.59.08:356][879]LogFileHelpers: InternalPromptForCheckoutAndSave took 134.791 ms (total: 7.57 sec)
+[2026.01.14-17.59.08:434][879]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.14-17.59.08:434][879]LogContentValidation: Enabled validators:
+[2026.01.14-17.59.08:434][879]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-17.59.08:434][879]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-17.59.08:434][879]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-17.59.08:434][879]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-17.59.08:434][879]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-17.59.08:434][879]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-17.59.08:434][879]AssetCheck: /Game/_Project/01_Blueprints/World/BP_LiftTrigger Validating asset
+[2026.01.14-17.59.10:147][964]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.14-17.59.10:154][964]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.14-17.59.10:154][964]LogPlayLevel: Creating play world package: /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.14-17.59.10:201][964]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047867s)
+[2026.01.14-17.59.10:201][964]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Project/00_Maps/Map_Game.Map_Game to /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game (0.047919s)
+[2026.01.14-17.59.10:240][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.01.14-17.59.10:246][964]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Game
+[2026.01.14-17.59.10:247][964]LogPlayLevel: PIE: World Init took: (0.001672s)
+[2026.01.14-17.59.10:248][964]LogAudio: Display: Creating Audio Device:                 Id: 58, Scope: Unique, Realtime: True
+[2026.01.14-17.59.10:248][964]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.14-17.59.10:248][964]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.14-17.59.10:248][964]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.14-17.59.10:248][964]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.14-17.59.10:248][964]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.14-17.59.10:248][964]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.14-17.59.10:248][964]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.14-17.59.10:248][964]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.14-17.59.10:248][964]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.14-17.59.10:248][964]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.14-17.59.10:248][964]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.14-17.59.10:250][964]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.14-17.59.10:287][964]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2026.01.14-17.59.10:287][964]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.14-17.59.10:287][964]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.14-17.59.10:287][964]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.14-17.59.10:288][964]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=58
+[2026.01.14-17.59.10:288][964]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=58
+[2026.01.14-17.59.10:290][964]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=58
+[2026.01.14-17.59.10:290][964]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=58
+[2026.01.14-17.59.10:290][964]LogInit: FAudioDevice initialized with ID 58.
+[2026.01.14-17.59.10:290][964]LogAudio: Display: Audio Device (ID: 58) registered with world 'Map_Game'.
+[2026.01.14-17.59.10:290][964]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 58
+[2026.01.14-17.59.10:295][964]LogLoad: Game class is 'BP_GM_Game_C'
+[2026.01.14-17.59.10:298][964]LogWorld: Bringing World /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game up for play (max tick rate 60) at 2026.01.14-18.59.10
+[2026.01.14-17.59.10:298][964]LogWorld: Bringing up level for play took: 0.003007
+[2026.01.14-17.59.10:301][964]LogOnline: OSS: Created online subsystem instance for: :Context_91
+[2026.01.14-17.59.10:307][964]PIE: Server logged in
+[2026.01.14-17.59.10:310][964]PIE: Play in editor total start time 0,157 seconds.
+[2026.01.14-17.59.10:364][965]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.14-17.59.13:188][130]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_0)
+[2026.01.14-17.59.13:189][130]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_1)
+[2026.01.14-17.59.13:190][130]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_2)
+[2026.01.14-17.59.13:191][130]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_3)
+[2026.01.14-17.59.13:191][130]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_4)
+[2026.01.14-17.59.13:192][130]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_5)
+[2026.01.14-17.59.24:027][774]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27831.306641
+[2026.01.14-17.59.24:193][784]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.14-17.59.24:193][784]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27831.457031, Update Interval: 323.494995
+[2026.01.14-17.59.42:539][880]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_6)
+[2026.01.14-18.00.02:783][ 90]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_7)
+[2026.01.14-18.00.04:905][215]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.14-18.00.04:905][215]LogWorld: BeginTearingDown for /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.14-18.00.04:905][215]LogWorld: UWorld::CleanupWorld for Map_Game, bSessionEnded=true, bCleanupResources=true
+[2026.01.14-18.00.04:906][215]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-18.00.04:914][215]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.14-18.00.04:919][215]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-18.00.04:969][215]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.14-18.00.04:971][215]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 58
+[2026.01.14-18.00.04:971][215]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=58, StreamState=4
+[2026.01.14-18.00.04:973][215]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=58, StreamState=2
+[2026.01.14-18.00.04:979][215]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.14-18.00.04:983][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2026.01.14-18.00.05:041][216]LogPlayLevel: Display: Destroying online subsystem :Context_91
+[2026.01.14-18.00.05:878][260]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.14-18.00.05:885][260]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.14-18.00.05:885][260]LogPlayLevel: Creating play world package: /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.14-18.00.05:932][260]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047666s)
+[2026.01.14-18.00.05:933][260]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Project/00_Maps/Map_Game.Map_Game to /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game (0.047733s)
+[2026.01.14-18.00.05:975][260]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2026.01.14-18.00.05:979][260]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Game
+[2026.01.14-18.00.05:983][260]LogPlayLevel: PIE: World Init took: (0.003465s)
+[2026.01.14-18.00.05:984][260]LogAudio: Display: Creating Audio Device:                 Id: 59, Scope: Unique, Realtime: True
+[2026.01.14-18.00.05:984][260]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.14-18.00.05:984][260]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.14-18.00.05:984][260]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.14-18.00.05:984][260]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.14-18.00.05:985][260]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.14-18.00.05:985][260]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.14-18.00.05:985][260]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.14-18.00.05:985][260]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.14-18.00.05:985][260]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.14-18.00.05:985][260]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.14-18.00.05:985][260]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.14-18.00.05:987][260]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.14-18.00.06:024][260]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2026.01.14-18.00.06:024][260]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.14-18.00.06:024][260]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.14-18.00.06:024][260]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.14-18.00.06:025][260]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=59
+[2026.01.14-18.00.06:025][260]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=59
+[2026.01.14-18.00.06:027][260]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=59
+[2026.01.14-18.00.06:027][260]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=59
+[2026.01.14-18.00.06:027][260]LogInit: FAudioDevice initialized with ID 59.
+[2026.01.14-18.00.06:027][260]LogAudio: Display: Audio Device (ID: 59) registered with world 'Map_Game'.
+[2026.01.14-18.00.06:027][260]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 59
+[2026.01.14-18.00.06:031][260]LogLoad: Game class is 'BP_GM_Game_C'
+[2026.01.14-18.00.06:034][260]LogWorld: Bringing World /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game up for play (max tick rate 60) at 2026.01.14-19.00.06
+[2026.01.14-18.00.06:035][260]LogWorld: Bringing up level for play took: 0.002854
+[2026.01.14-18.00.06:037][260]LogOnline: OSS: Created online subsystem instance for: :Context_92
+[2026.01.14-18.00.06:044][260]PIE: Server logged in
+[2026.01.14-18.00.06:047][260]PIE: Play in editor total start time 0,162 seconds.
+[2026.01.14-18.00.06:129][261]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.14-18.00.09:201][441]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_0)
+[2026.01.14-18.00.09:202][441]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_1)
+[2026.01.14-18.00.09:202][441]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_2)
+[2026.01.14-18.00.09:204][441]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_3)
+[2026.01.14-18.00.09:205][441]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_4)
+[2026.01.14-18.00.09:207][441]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_5)
+[2026.01.14-18.00.20:574][121]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_6)
+[2026.01.14-18.00.24:654][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.14-18.00.24:654][364]LogWorld: BeginTearingDown for /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.14-18.00.24:654][364]LogWorld: UWorld::CleanupWorld for Map_Game, bSessionEnded=true, bCleanupResources=true
+[2026.01.14-18.00.24:655][364]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-18.00.24:659][364]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.14-18.00.24:665][364]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-18.00.24:716][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.14-18.00.24:717][364]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 59
+[2026.01.14-18.00.24:717][364]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=59, StreamState=4
+[2026.01.14-18.00.24:720][364]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=59, StreamState=2
+[2026.01.14-18.00.24:732][364]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2026.01.14-18.00.24:795][365]LogPlayLevel: Display: Destroying online subsystem :Context_92
+[2026.01.14-18.00.42:848][206]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.01.14-18.00.42:848][206]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.01.14-18.01.22:025][ 79]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.01.14-18.01.22:025][ 79]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.01.14-18.01.31:126][469]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2026.01.14-18.01.31:623][486]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-18.01.31:710][486]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Project/01_Blueprints/World/BP_LiftTrigger] ([2] browsable assets)...
+[2026.01.14-18.01.31:710][486]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/01_Blueprints/World/BP_LiftTrigger]
+[2026.01.14-18.01.31:726][486]LogSavePackage: Moving output files for package: /Game/_Project/01_Blueprints/World/BP_LiftTrigger
+[2026.01.14-18.01.31:727][486]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/BP_LiftTriggerC98A70F44E88D2C2937195B9A2109A0B.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Content/_Project/01_Blueprints/World/BP_LiftTrigger.uasset'
+[2026.01.14-18.01.31:742][486]LogFileHelpers: InternalPromptForCheckoutAndSave took 119.281 ms (total: 7.69 sec)
+[2026.01.14-18.01.31:820][486]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.14-18.01.31:821][486]LogContentValidation: Enabled validators:
+[2026.01.14-18.01.31:821][486]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-18.01.31:821][486]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-18.01.31:821][486]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-18.01.31:821][486]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-18.01.31:821][486]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-18.01.31:821][486]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-18.01.31:821][486]AssetCheck: /Game/_Project/01_Blueprints/World/BP_LiftTrigger Validating asset
+[2026.01.14-18.01.33:436][564]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.14-18.01.33:444][564]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.14-18.01.33:444][564]LogPlayLevel: Creating play world package: /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.14-18.01.33:491][564]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046159s)
+[2026.01.14-18.01.33:491][564]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Project/00_Maps/Map_Game.Map_Game to /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game (0.046207s)
+[2026.01.14-18.01.33:529][564]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.01.14-18.01.33:534][564]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Game
+[2026.01.14-18.01.33:535][564]LogPlayLevel: PIE: World Init took: (0.001965s)
+[2026.01.14-18.01.33:536][564]LogAudio: Display: Creating Audio Device:                 Id: 60, Scope: Unique, Realtime: True
+[2026.01.14-18.01.33:536][564]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.14-18.01.33:536][564]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.14-18.01.33:536][564]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.14-18.01.33:536][564]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.14-18.01.33:536][564]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.14-18.01.33:536][564]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.14-18.01.33:536][564]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.14-18.01.33:536][564]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.14-18.01.33:536][564]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.14-18.01.33:536][564]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.14-18.01.33:536][564]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.14-18.01.33:538][564]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.14-18.01.33:570][564]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2026.01.14-18.01.33:572][564]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.14-18.01.33:572][564]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.14-18.01.33:572][564]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.14-18.01.33:573][564]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=60
+[2026.01.14-18.01.33:573][564]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=60
+[2026.01.14-18.01.33:575][564]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=60
+[2026.01.14-18.01.33:575][564]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=60
+[2026.01.14-18.01.33:575][564]LogInit: FAudioDevice initialized with ID 60.
+[2026.01.14-18.01.33:575][564]LogAudio: Display: Audio Device (ID: 60) registered with world 'Map_Game'.
+[2026.01.14-18.01.33:575][564]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 60
+[2026.01.14-18.01.33:580][564]LogLoad: Game class is 'BP_GM_Game_C'
+[2026.01.14-18.01.33:583][564]LogWorld: Bringing World /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game up for play (max tick rate 60) at 2026.01.14-19.01.33
+[2026.01.14-18.01.33:583][564]LogWorld: Bringing up level for play took: 0.002724
+[2026.01.14-18.01.33:585][564]LogOnline: OSS: Created online subsystem instance for: :Context_93
+[2026.01.14-18.01.33:590][564]PIE: Server logged in
+[2026.01.14-18.01.33:594][564]PIE: Play in editor total start time 0,149 seconds.
+[2026.01.14-18.01.33:650][565]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.14-18.01.36:547][735]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_0)
+[2026.01.14-18.01.36:548][735]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_1)
+[2026.01.14-18.01.36:549][735]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_2)
+[2026.01.14-18.01.36:549][735]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_3)
+[2026.01.14-18.01.36:550][735]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_4)
+[2026.01.14-18.01.36:550][735]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_5)
+[2026.01.14-18.01.55:504][868]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_6)
+[2026.01.14-18.02.15:929][ 88]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_7)
+[2026.01.14-18.02.30:395][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.14-18.02.30:395][951]LogWorld: BeginTearingDown for /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.14-18.02.30:395][951]LogWorld: UWorld::CleanupWorld for Map_Game, bSessionEnded=true, bCleanupResources=true
+[2026.01.14-18.02.30:396][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-18.02.30:402][951]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.14-18.02.30:411][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-18.02.30:463][951]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.14-18.02.30:463][951]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 60
+[2026.01.14-18.02.30:463][951]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=60, StreamState=4
+[2026.01.14-18.02.30:464][951]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=60, StreamState=2
+[2026.01.14-18.02.30:469][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.14-18.02.30:475][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2026.01.14-18.02.30:536][952]LogPlayLevel: Display: Destroying online subsystem :Context_93
+[2026.01.14-18.03.13:297][186]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.01.14-18.03.13:297][186]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
