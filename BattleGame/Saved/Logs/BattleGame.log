@@ -10523,3 +10523,124 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.01.14-21.13.09:234][394]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.01.14-21.13.09:234][394]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.01.14-21.13.09:234][394]AssetCheck: /Game/_Project/01_Blueprints/Enemies/BP_EnemyDummy Validating asset
+[2026.01.14-21.13.31:211][515]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 39406.410156
+[2026.01.14-21.13.32:209][517]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.14-21.13.32:209][518]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 39407.078125, Update Interval: 345.999329
+[2026.01.14-21.13.57:000][592]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.01.14-21.13.57:000][592]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.01.14-21.17.03:528][746]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.01.14-21.17.03:528][746]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.01.14-21.17.48:290][950]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2026.01.14-21.17.58:241][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.01.14-21.17.59:449][545]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-21.17.59:524][545]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Project/01_Blueprints/Enemies/BP_EnemyDummy] ([2] browsable assets)...
+[2026.01.14-21.17.59:576][545]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Project/01_Blueprints/Enemies/BP_EnemyDummy.BP_EnemyDummy]
+[2026.01.14-21.17.59:576][545]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/01_Blueprints/Enemies/BP_EnemyDummy]
+[2026.01.14-21.17.59:594][545]LogSavePackage: Moving output files for package: /Game/_Project/01_Blueprints/Enemies/BP_EnemyDummy
+[2026.01.14-21.17.59:594][545]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/BP_EnemyDummy8DEF65F8429E10A1E8BB25959FE9D7AF.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Content/_Project/01_Blueprints/Enemies/BP_EnemyDummy.uasset'
+[2026.01.14-21.17.59:612][545]LogFileHelpers: InternalPromptForCheckoutAndSave took 163.002 ms (total: 10.4 sec)
+[2026.01.14-21.17.59:690][545]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.14-21.17.59:690][545]LogContentValidation: Enabled validators:
+[2026.01.14-21.17.59:690][545]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-21.17.59:690][545]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-21.17.59:690][545]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-21.17.59:690][545]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-21.17.59:690][545]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-21.17.59:690][545]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-21.17.59:690][545]AssetCheck: /Game/_Project/01_Blueprints/Enemies/BP_EnemyDummy Validating asset
+[2026.01.14-21.18.01:485][644]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.14-21.18.01:491][644]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.14-21.18.01:491][644]LogPlayLevel: Creating play world package: /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.14-21.18.01:532][644]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041469s)
+[2026.01.14-21.18.01:532][644]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Project/00_Maps/Map_Game.Map_Game to /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game (0.041518s)
+[2026.01.14-21.18.01:572][644]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2026.01.14-21.18.01:578][644]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Game
+[2026.01.14-21.18.01:580][644]LogPlayLevel: PIE: World Init took: (0.002025s)
+[2026.01.14-21.18.01:581][644]LogAudio: Display: Creating Audio Device:                 Id: 82, Scope: Unique, Realtime: True
+[2026.01.14-21.18.01:581][644]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.14-21.18.01:581][644]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.14-21.18.01:581][644]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.14-21.18.01:581][644]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.14-21.18.01:581][644]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.14-21.18.01:581][644]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.14-21.18.01:581][644]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.14-21.18.01:581][644]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.14-21.18.01:581][644]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.14-21.18.01:581][644]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.14-21.18.01:581][644]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.14-21.18.01:583][644]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.14-21.18.01:613][644]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2026.01.14-21.18.01:613][644]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.14-21.18.01:613][644]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.14-21.18.01:613][644]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.14-21.18.01:614][644]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=82
+[2026.01.14-21.18.01:614][644]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=82
+[2026.01.14-21.18.01:616][644]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=82
+[2026.01.14-21.18.01:616][644]LogInit: FAudioDevice initialized with ID 82.
+[2026.01.14-21.18.01:616][644]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=82
+[2026.01.14-21.18.01:616][644]LogAudio: Display: Audio Device (ID: 82) registered with world 'Map_Game'.
+[2026.01.14-21.18.01:616][644]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 82
+[2026.01.14-21.18.01:620][644]LogLoad: Game class is 'BP_GM_Game_C'
+[2026.01.14-21.18.01:623][644]LogWorld: Bringing World /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game up for play (max tick rate 60) at 2026.01.14-22.18.01
+[2026.01.14-21.18.01:623][644]LogWorld: Bringing up level for play took: 0.002468
+[2026.01.14-21.18.01:626][644]LogOnline: OSS: Created online subsystem instance for: :Context_119
+[2026.01.14-21.18.01:631][644]PIE: Server logged in
+[2026.01.14-21.18.01:633][644]PIE: Play in editor total start time 0,142 seconds.
+[2026.01.14-21.18.01:720][645]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.14-21.18.04:702][821]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_0)
+[2026.01.14-21.18.04:703][821]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_1)
+[2026.01.14-21.18.04:703][821]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_2)
+[2026.01.14-21.18.04:704][821]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_3)
+[2026.01.14-21.18.04:705][821]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_4)
+[2026.01.14-21.18.04:705][821]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_5)
+[2026.01.14-21.18.09:652][116]LogBlueprintUserMessages: [BP_EnemyDummy_C_5] Damage 25.0
+[2026.01.14-21.18.09:652][116]LogBlueprintUserMessages: [BP_EnemyDummy_C_5] HP 5.0
+[2026.01.14-21.18.11:221][210]LogBlueprintUserMessages: [BP_EnemyDummy_C_5] Damage 25.0
+[2026.01.14-21.18.11:221][210]LogBlueprintUserMessages: [BP_EnemyDummy_C_5] HP -20.0
+[2026.01.14-21.18.15:338][457]LogBlueprintUserMessages: [BP_EnemyDummy_C_4] Damage 25.0
+[2026.01.14-21.18.15:338][457]LogBlueprintUserMessages: [BP_EnemyDummy_C_4] HP 5.0
+[2026.01.14-21.18.16:504][527]LogBlueprintUserMessages: [BP_EnemyDummy_C_4] Damage 25.0
+[2026.01.14-21.18.16:504][527]LogBlueprintUserMessages: [BP_EnemyDummy_C_4] HP -20.0
+[2026.01.14-21.18.19:906][731]LogBlueprintUserMessages: [BP_EnemyDummy_C_3] Damage 25.0
+[2026.01.14-21.18.19:906][731]LogBlueprintUserMessages: [BP_EnemyDummy_C_3] HP 5.0
+[2026.01.14-21.18.20:889][790]LogBlueprintUserMessages: [BP_EnemyDummy_C_3] Damage 25.0
+[2026.01.14-21.18.20:889][790]LogBlueprintUserMessages: [BP_EnemyDummy_C_3] HP -20.0
+[2026.01.14-21.18.22:141][865]LogBlueprintUserMessages: [BP_EnemyDummy_C_2] Damage 25.0
+[2026.01.14-21.18.22:141][865]LogBlueprintUserMessages: [BP_EnemyDummy_C_2] HP 5.0
+[2026.01.14-21.18.23:159][926]LogBlueprintUserMessages: [BP_EnemyDummy_C_2] Damage 25.0
+[2026.01.14-21.18.23:159][926]LogBlueprintUserMessages: [BP_EnemyDummy_C_2] HP -20.0
+[2026.01.14-21.18.25:008][ 37]LogBlueprintUserMessages: [BP_EnemyDummy_C_1] Damage 25.0
+[2026.01.14-21.18.25:008][ 37]LogBlueprintUserMessages: [BP_EnemyDummy_C_1] HP 5.0
+[2026.01.14-21.18.26:241][111]LogBlueprintUserMessages: [BP_EnemyDummy_C_1] Damage 25.0
+[2026.01.14-21.18.26:241][111]LogBlueprintUserMessages: [BP_EnemyDummy_C_1] HP -20.0
+[2026.01.14-21.18.28:962][274]LogBlueprintUserMessages: [BP_EnemyDummy_C_0] Damage 25.0
+[2026.01.14-21.18.28:962][274]LogBlueprintUserMessages: [BP_EnemyDummy_C_0] HP 5.0
+[2026.01.14-21.18.29:828][326]LogBlueprintUserMessages: [BP_EnemyDummy_C_0] Damage 25.0
+[2026.01.14-21.18.29:828][326]LogBlueprintUserMessages: [BP_EnemyDummy_C_0] HP -20.0
+[2026.01.14-21.18.41:770][ 42]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_6)
+[2026.01.14-21.18.51:922][651]LogBlueprintUserMessages: [BP_EnemyDummy_C_6] Damage 25.0
+[2026.01.14-21.18.51:922][651]LogBlueprintUserMessages: [BP_EnemyDummy_C_6] HP 5.0
+[2026.01.14-21.18.53:256][731]LogBlueprintUserMessages: [BP_EnemyDummy_C_6] Damage 25.0
+[2026.01.14-21.18.53:256][731]LogBlueprintUserMessages: [BP_EnemyDummy_C_6] HP -20.0
+[2026.01.14-21.19.02:126][263]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyDummy_C /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game:PersistentLevel.BP_EnemyDummy_C_7)
+[2026.01.14-21.19.12:139][862]LogBlueprintUserMessages: [BP_EnemyDummy_C_7] Damage 25.0
+[2026.01.14-21.19.12:139][862]LogBlueprintUserMessages: [BP_EnemyDummy_C_7] HP 5.0
+[2026.01.14-21.19.13:122][921]LogBlueprintUserMessages: [BP_EnemyDummy_C_7] Damage 25.0
+[2026.01.14-21.19.13:122][921]LogBlueprintUserMessages: [BP_EnemyDummy_C_7] HP -20.0
+[2026.01.14-21.19.19:317][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.14-21.19.19:317][291]LogWorld: BeginTearingDown for /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.14-21.19.19:317][291]LogWorld: UWorld::CleanupWorld for Map_Game, bSessionEnded=true, bCleanupResources=true
+[2026.01.14-21.19.19:317][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-21.19.19:319][291]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.14-21.19.19:326][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-21.19.19:370][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.14-21.19.19:370][291]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 82
+[2026.01.14-21.19.19:370][291]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=82, StreamState=4
+[2026.01.14-21.19.19:373][291]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=82, StreamState=2
+[2026.01.14-21.19.19:383][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2026.01.14-21.19.19:425][292]LogPlayLevel: Display: Destroying online subsystem :Context_119
+[2026.01.14-21.20.08:895][787]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 39800.417969
+[2026.01.14-21.20.09:897][790]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.14-21.20.09:897][790]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 39801.082031, Update Interval: 319.754028
