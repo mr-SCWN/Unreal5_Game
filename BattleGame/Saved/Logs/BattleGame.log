@@ -4575,3 +4575,1000 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.01.14-12.41.55:685][600]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.01.14-12.41.55:685][600]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.01.14-12.41.55:686][600]AssetCheck: /Game/_Project/01_Blueprints/World/BP_Door Validating asset
+[2026.01.14-12.43.17:735][793]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-12.43.17:808][793]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Project/01_Blueprints/World/BP_Door] ([2] browsable assets)...
+[2026.01.14-12.43.17:808][793]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/01_Blueprints/World/BP_Door]
+[2026.01.14-12.43.17:825][793]LogSavePackage: Moving output files for package: /Game/_Project/01_Blueprints/World/BP_Door
+[2026.01.14-12.43.17:826][793]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/BP_DoorEBE7548341C89715E664F2A9622713CB.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Content/_Project/01_Blueprints/World/BP_Door.uasset'
+[2026.01.14-12.43.17:839][793]LogFileHelpers: InternalPromptForCheckoutAndSave took 104.041 ms (total: 3.54 sec)
+[2026.01.14-12.43.17:908][793]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.14-12.43.17:908][793]LogContentValidation: Enabled validators:
+[2026.01.14-12.43.17:908][793]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-12.43.17:908][793]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-12.43.17:908][793]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-12.43.17:908][793]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-12.43.17:908][793]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-12.43.17:908][793]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-12.43.17:909][793]AssetCheck: /Game/_Project/01_Blueprints/World/BP_Door Validating asset
+[2026.01.14-12.43.33:178][624]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.01.14-12.44.22:864][563]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-12.44.32:698][130]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-12.44.33:644][185]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.14-12.44.33:652][185]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.14-12.44.33:682][185]LogPlayLevel: Creating play world package: /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.14-12.44.33:685][185]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002665s)
+[2026.01.14-12.44.33:685][185]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Project/00_Maps/Map_Game.Map_Game to /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game (0.002714s)
+[2026.01.14-12.44.33:711][185]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.01.14-12.44.33:716][185]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Game
+[2026.01.14-12.44.33:718][185]LogPlayLevel: PIE: World Init took: (0.001922s)
+[2026.01.14-12.44.33:719][185]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2026.01.14-12.44.33:719][185]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.14-12.44.33:719][185]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.14-12.44.33:719][185]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.14-12.44.33:719][185]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.14-12.44.33:719][185]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.14-12.44.33:719][185]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.14-12.44.33:719][185]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.14-12.44.33:719][185]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.14-12.44.33:719][185]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.14-12.44.33:719][185]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.14-12.44.33:719][185]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.14-12.44.33:722][185]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.14-12.44.33:750][185]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2026.01.14-12.44.33:751][185]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.14-12.44.33:751][185]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.14-12.44.33:751][185]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.14-12.44.33:752][185]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=37
+[2026.01.14-12.44.33:752][185]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=37
+[2026.01.14-12.44.33:754][185]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=37
+[2026.01.14-12.44.33:754][185]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=37
+[2026.01.14-12.44.33:754][185]LogInit: FAudioDevice initialized with ID 37.
+[2026.01.14-12.44.33:754][185]LogAudio: Display: Audio Device (ID: 37) registered with world 'Map_Game'.
+[2026.01.14-12.44.33:754][185]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 37
+[2026.01.14-12.44.33:758][185]LogLoad: Game class is 'BP_GM_Game_C'
+[2026.01.14-12.44.33:759][185]LogWorld: Bringing World /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game up for play (max tick rate 60) at 2026.01.14-13.44.33
+[2026.01.14-12.44.33:759][185]LogWorld: Bringing up level for play took: 0.000927
+[2026.01.14-12.44.33:761][185]LogOnline: OSS: Created online subsystem instance for: :Context_60
+[2026.01.14-12.44.33:766][185]PIE: Server logged in
+[2026.01.14-12.44.33:769][185]PIE: Play in editor total start time 0,118 seconds.
+[2026.01.14-12.44.33:824][186]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.14-12.44.35:868][306]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8943.073242
+[2026.01.14-12.44.36:036][316]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.14-12.44.36:036][317]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8943.221680, Update Interval: 356.476929
+[2026.01.14-12.44.39:193][504]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.14-12.44.39:193][504]LogWorld: BeginTearingDown for /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.14-12.44.39:193][504]LogWorld: UWorld::CleanupWorld for Map_Game, bSessionEnded=true, bCleanupResources=true
+[2026.01.14-12.44.39:193][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-12.44.39:196][504]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.14-12.44.39:201][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-12.44.39:222][504]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.14-12.44.39:222][504]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 37
+[2026.01.14-12.44.39:222][504]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37, StreamState=4
+[2026.01.14-12.44.39:225][504]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37, StreamState=2
+[2026.01.14-12.44.39:229][504]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.14-12.44.39:232][504]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.01.14-12.44.39:275][506]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2026.01.14-12.44.48:711][ 49]Cmd: ACTOR SELECT ALL
+[2026.01.14-12.44.49:575][ 96]Cmd: SELECT NONE
+[2026.01.14-12.44.54:728][399]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.01.14-12.44.57:638][571]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.01.14-12.46.11:959][960]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.01.14-12.46.11:979][960]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Project/00_Maps/Map_Game_Auto6
+[2026.01.14-12.46.11:979][960]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/Map_Game_Auto6DA617B064793983916B733B0B7236852.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/Autosaves/Game/_Project/00_Maps/Map_Game_Auto6.umap'
+[2026.01.14-12.46.11:982][960]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/_Project/00_Maps/Map_Game' took 0.047
+[2026.01.14-12.46.11:982][960]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.047
+[2026.01.14-12.46.11:983][960]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Project/01_Blueprints/World/BP_Door] ([2] browsable assets)...
+[2026.01.14-12.46.12:019][960]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Project/01_Blueprints/World/BP_Door.BP_Door]
+[2026.01.14-12.46.12:019][960]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/01_Blueprints/World/BP_Door]
+[2026.01.14-12.46.12:035][960]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Project/01_Blueprints/World/BP_Door_Auto6
+[2026.01.14-12.46.12:035][960]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/BP_Door_Auto662E38E6E4471BC702F3A0EB2F7D48603.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/Autosaves/Game/_Project/01_Blueprints/World/BP_Door_Auto6.uasset'
+[2026.01.14-12.46.12:037][960]LogFileHelpers: Auto-saving content packages took 0.054
+[2026.01.14-12.48.14:070][137]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.01.14-12.48.14:070][137]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.01.14-12.48.25:681][754]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.01.14-12.48.25:682][754]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.01.14-12.48.26:754][817]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_16.svg'. File could not be found
+[2026.01.14-12.49.16:241][462]Cmd: TRANSACTION UNDO
+[2026.01.14-12.49.16:241][462]LogEditorTransaction: Undo Clicking on Elements
+[2026.01.14-12.49.26:192][ 17]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.01.14-12.49.27:012][ 59]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2026.01.14-12.49.58:960][804]Cmd: TRANSACTION UNDO
+[2026.01.14-12.49.58:960][804]LogEditorTransaction: Undo Scale Elements
+[2026.01.14-12.49.59:376][814]Cmd: TRANSACTION UNDO
+[2026.01.14-12.49.59:376][814]LogEditorTransaction: Undo Scale Elements
+[2026.01.14-12.49.59:827][833]Cmd: TRANSACTION UNDO
+[2026.01.14-12.49.59:827][833]LogEditorTransaction: Undo Scale Elements
+[2026.01.14-12.51.08:867][811]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9335.931641
+[2026.01.14-12.51.10:010][813]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.14-12.51.10:010][813]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9336.598633, Update Interval: 322.909027
+[2026.01.14-12.51.33:803][209]Cmd: DELETE
+[2026.01.14-12.51.33:804][209]Cmd: ACTOR DELETE
+[2026.01.14-12.51.33:808][209]LogEditorActor: Deleted Actor: Brush
+[2026.01.14-12.51.33:865][209]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.01.14-12.51.33:891][209]LogEditorActor: Deleted 1 Actors (0.086 secs)
+[2026.01.14-12.52.22:557][564]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2026.01.14-12.54.20:427][587]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.01.14-12.54.20:428][587]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.01.14-12.54.29:139][ 32]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-12.54.29:933][ 74]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-12.54.30:493][107]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-12.54.30:609][114]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-12.54.37:243][500]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-12.54.59:065][763]Cmd: DELETE
+[2026.01.14-12.54.59:065][763]Cmd: ACTOR DELETE
+[2026.01.14-12.54.59:067][763]LogEditorActor: Deleted Actor: Brush
+[2026.01.14-12.54.59:112][763]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2026.01.14-12.54.59:117][763]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2026.01.14-12.55.15:462][720]Cmd: TRANSACTION UNDO
+[2026.01.14-12.55.15:462][720]LogEditorTransaction: Undo Clicking on Elements
+[2026.01.14-12.55.15:874][734]Cmd: TRANSACTION UNDO
+[2026.01.14-12.55.15:874][734]LogEditorTransaction: Undo Clicking on Actors
+[2026.01.14-12.55.16:507][763]Cmd: TRANSACTION UNDO
+[2026.01.14-12.55.16:507][763]LogEditorTransaction: Undo Clicking on Actors
+[2026.01.14-12.55.16:815][780]Cmd: TRANSACTION UNDO
+[2026.01.14-12.55.16:815][780]LogEditorTransaction: Undo Clicking on Actors
+[2026.01.14-12.55.17:140][795]Cmd: TRANSACTION UNDO
+[2026.01.14-12.55.17:140][795]LogEditorTransaction: Undo Clicking on Elements
+[2026.01.14-12.55.17:452][812]Cmd: TRANSACTION UNDO
+[2026.01.14-12.55.17:452][812]LogEditorTransaction: Undo Set Location
+[2026.01.14-12.55.17:741][829]Cmd: TRANSACTION UNDO
+[2026.01.14-12.55.17:741][829]LogEditorTransaction: Undo Move Elements
+[2026.01.14-12.55.18:131][852]Cmd: TRANSACTION UNDO
+[2026.01.14-12.55.18:131][852]LogEditorTransaction: Undo Clicking on Elements
+[2026.01.14-12.55.18:599][880]Cmd: TRANSACTION UNDO
+[2026.01.14-12.55.18:599][880]LogEditorTransaction: Undo Delete Elements
+[2026.01.14-12.55.19:074][898]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-12.55.21:185][  1]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:54187'.
+[2026.01.14-12.55.21:189][  1]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-12.55.21:189][  1]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-12.55.21:194][  1]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-12.55.24:197][180]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-12.55.25:400][235]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:53618'.
+[2026.01.14-12.55.25:403][235]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-12.55.25:403][235]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-12.55.25:409][235]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-12.55.27:407][353]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-12.55.29:519][471]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:53619'.
+[2026.01.14-12.55.29:523][471]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-12.55.29:523][471]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-12.55.29:528][471]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-12.55.35:532][829]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-12.55.36:736][888]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:64289'.
+[2026.01.14-12.55.36:739][888]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-12.55.36:739][888]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-12.55.36:744][888]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-12.56.00:108][238]Cmd: EDIT COPY
+[2026.01.14-12.56.00:786][278]Cmd: EDIT PASTE
+[2026.01.14-12.56.17:754][238]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-12.56.19:273][325]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-12.56.29:953][916]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-12.56.36:204][250]Cmd: EDIT COPY
+[2026.01.14-12.56.36:597][273]Cmd: EDIT PASTE
+[2026.01.14-12.56.48:516][966]Cmd: TRANSACTION UNDO
+[2026.01.14-12.56.48:516][966]LogEditorTransaction: Undo Move Elements
+[2026.01.14-12.56.58:239][505]Cmd: EDIT COPY
+[2026.01.14-12.56.58:583][525]Cmd: EDIT PASTE
+[2026.01.14-12.57.27:001][139]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9713.901367
+[2026.01.14-12.57.27:168][149]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.14-12.57.27:168][150]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9714.051758, Update Interval: 315.298920
+[2026.01.14-12.57.42:235][ 47]LogShaderCompilers: Display: ================================================
+[2026.01.14-12.57.42:235][ 47]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.01.14-12.57.42:235][ 47]LogShaderCompilers: Display: Total job queries 2 609, among them cache hits 659 (25.26%), DDC hits 1 848 (70.83%), Duplicates 91 (3.49%)
+[2026.01.14-12.57.42:235][ 47]LogShaderCompilers: Display: Tracking 1 859 distinct input hashes that result in 1 179 distinct outputs (63.42%)
+[2026.01.14-12.57.42:235][ 47]LogShaderCompilers: Display: RAM used: 11,90 MiB of 1,60 GiB budget. Usage: 0.73%
+[2026.01.14-12.57.42:235][ 47]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.01.14-12.57.42:235][ 47]LogShaderCompilers: Display: Shaders Compiled: 11
+[2026.01.14-12.57.42:235][ 47]LogShaderCompilers: Display: Jobs assigned 11, completed 11 (100%)
+[2026.01.14-12.57.42:235][ 47]LogShaderCompilers: Display: Average time worker was idle: 3570.91 s
+[2026.01.14-12.57.42:235][ 47]LogShaderCompilers: Display: Time job spent in pending queue: average 0.03 s, longest 0.10 s
+[2026.01.14-12.57.42:235][ 47]LogShaderCompilers: Display: Job execution time: average 0.76 s, max 1.22 s
+[2026.01.14-12.57.42:235][ 47]LogShaderCompilers: Display: Job life time (pending + execution): average 0.80 s, max 1.26
+[2026.01.14-12.57.42:235][ 47]LogShaderCompilers: Display: Shader code size: total 89,973 KiB, numShaders 11, average 8,179 KiB, min 5,309 KiB, max 12,191 KiB
+[2026.01.14-12.57.42:235][ 47]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.20 s
+[2026.01.14-12.57.42:235][ 47]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2026.01.14-12.57.42:235][ 47]LogShaderCompilers: Display: Jobs were issued in 11 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.01.14-12.57.42:235][ 47]LogShaderCompilers: Display: Average processing rate: 2.62 jobs/sec
+[2026.01.14-12.57.42:235][ 47]LogShaderCompilers: Display: Total thread time: 5,752 s
+[2026.01.14-12.57.42:235][ 47]LogShaderCompilers: Display: Total thread preprocess time: 35,444 s
+[2026.01.14-12.57.42:235][ 47]LogShaderCompilers: Display: Percentage time preprocessing: 616.24%
+[2026.01.14-12.57.42:235][ 47]LogShaderCompilers: Display: Effective parallelization: 1.37 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.171296
+[2026.01.14-12.57.42:235][ 47]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.01.14-12.57.42:235][ 47]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    3 times, average 0.86 sec, max 0.91 sec, min 0.79 sec)
+[2026.01.14-12.57.42:235][ 47]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 0.47 sec, max 0.50 sec, min 0.42 sec)
+[2026.01.14-12.57.42:235][ 47]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    1 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2026.01.14-12.57.42:235][ 47]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.31 sec, max 0.32 sec, min 0.31 sec)
+[2026.01.14-12.57.42:235][ 47]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 0.31 sec, max 0.31 sec, min 0.31 sec)
+[2026.01.14-12.57.42:235][ 47]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.01.14-12.57.42:235][ 47]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 45.06% of total time (compiled    3 times, average 0.86 sec, max 0.91 sec, min 0.79 sec)
+[2026.01.14-12.57.42:235][ 47]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 32.42% of total time (compiled    4 times, average 0.47 sec, max 0.50 sec, min 0.42 sec)
+[2026.01.14-12.57.42:235][ 47]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.91% of total time (compiled    2 times, average 0.31 sec, max 0.32 sec, min 0.31 sec)
+[2026.01.14-12.57.42:235][ 47]LogShaderCompilers: Display:                                                 FLumenCardPS - 6.29% of total time (compiled    1 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2026.01.14-12.57.42:235][ 47]LogShaderCompilers: Display:                                                  FHitProxyVS - 5.32% of total time (compiled    1 times, average 0.31 sec, max 0.31 sec, min 0.31 sec)
+[2026.01.14-12.57.42:235][ 47]LogShaderCompilers: Display: === Material stats ===
+[2026.01.14-12.57.42:235][ 47]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.01.14-12.57.42:235][ 47]LogShaderCompilers: Display: Materials Translated:    150
+[2026.01.14-12.57.42:235][ 47]LogShaderCompilers: Display: Material Total Translate Time: 0.14 s
+[2026.01.14-12.57.42:235][ 47]LogShaderCompilers: Display: Material Translation Only: 0.05 s (36%)
+[2026.01.14-12.57.42:235][ 47]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.01.14-12.57.42:235][ 47]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.01.14-12.57.42:235][ 47]LogShaderCompilers: Display: ================================================
+[2026.01.14-12.57.43:776][138]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-12.57.53:518][717]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.01.14-12.57.53:518][717]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.01.14-12.58.06:043][436]Cmd: EDIT COPY
+[2026.01.14-12.58.06:419][458]Cmd: EDIT PASTE
+[2026.01.14-12.58.40:447][392]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.14-12.58.40:452][392]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.14-12.58.40:452][392]LogPlayLevel: Creating play world package: /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.14-12.58.40:456][392]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004205s)
+[2026.01.14-12.58.40:456][392]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Project/00_Maps/Map_Game.Map_Game to /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game (0.004249s)
+[2026.01.14-12.58.40:484][392]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.01.14-12.58.40:486][392]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Game
+[2026.01.14-12.58.40:488][392]LogPlayLevel: PIE: World Init took: (0.001767s)
+[2026.01.14-12.58.40:489][392]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2026.01.14-12.58.40:489][392]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.14-12.58.40:489][392]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.14-12.58.40:489][392]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.14-12.58.40:489][392]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.14-12.58.40:489][392]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.14-12.58.40:489][392]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.14-12.58.40:489][392]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.14-12.58.40:489][392]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.14-12.58.40:489][392]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.14-12.58.40:489][392]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.14-12.58.40:489][392]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.14-12.58.40:492][392]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.14-12.58.40:519][392]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2026.01.14-12.58.40:520][392]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.14-12.58.40:520][392]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.14-12.58.40:520][392]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.14-12.58.40:521][392]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2026.01.14-12.58.40:521][392]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=38
+[2026.01.14-12.58.40:523][392]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2026.01.14-12.58.40:523][392]LogInit: FAudioDevice initialized with ID 38.
+[2026.01.14-12.58.40:523][392]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2026.01.14-12.58.40:523][392]LogAudio: Display: Audio Device (ID: 38) registered with world 'Map_Game'.
+[2026.01.14-12.58.40:523][392]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 38
+[2026.01.14-12.58.40:527][392]LogLoad: Game class is 'BP_GM_Game_C'
+[2026.01.14-12.58.40:528][392]LogWorld: Bringing World /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game up for play (max tick rate 60) at 2026.01.14-13.58.40
+[2026.01.14-12.58.40:528][392]LogWorld: Bringing up level for play took: 0.001037
+[2026.01.14-12.58.40:530][392]LogOnline: OSS: Created online subsystem instance for: :Context_61
+[2026.01.14-12.58.40:535][392]PIE: Server logged in
+[2026.01.14-12.58.40:537][392]PIE: Play in editor total start time 0,086 seconds.
+[2026.01.14-12.58.40:596][393]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.14-12.58.45:863][705]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.14-12.58.45:863][705]LogWorld: BeginTearingDown for /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.14-12.58.45:863][705]LogWorld: UWorld::CleanupWorld for Map_Game, bSessionEnded=true, bCleanupResources=true
+[2026.01.14-12.58.45:863][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-12.58.45:866][705]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.14-12.58.45:871][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-12.58.45:894][705]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.14-12.58.45:894][705]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 38
+[2026.01.14-12.58.45:894][705]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38, StreamState=4
+[2026.01.14-12.58.45:896][705]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38, StreamState=2
+[2026.01.14-12.58.45:900][705]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.14-12.58.45:904][705]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2026.01.14-12.58.45:967][706]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2026.01.14-12.58.46:520][736]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-12.58.48:889][876]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-12.58.51:649][ 38]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-12.58.53:367][137]Cmd: EDIT COPY
+[2026.01.14-12.59.37:449][617]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.00.15:890][870]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-13.00.17:999][989]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:61813'.
+[2026.01.14-13.00.18:002][989]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-13.00.18:002][989]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-13.00.18:007][989]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-13.00.42:261][402]Cmd: EDIT COPY
+[2026.01.14-13.00.43:095][452]Cmd: EDIT PASTE
+[2026.01.14-13.00.49:486][818]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.00.52:181][977]Cmd: TRANSACTION UNDO
+[2026.01.14-13.00.52:181][977]LogEditorTransaction: Undo Move Elements
+[2026.01.14-13.00.57:598][278]Cmd: EDIT COPY
+[2026.01.14-13.00.58:869][354]Cmd: EDIT PASTE
+[2026.01.14-13.01.10:358][ 21]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.01.20:889][646]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.01.26:616][983]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.01.27:528][ 35]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.01.57:931][765]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.02.32:967][814]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.02.33:818][862]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.02.37:014][ 45]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.02.39:968][212]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.02.42:059][330]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.02.43:480][412]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.03.00:596][428]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.03.03:868][618]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.03.08:922][904]Cmd: DELETE
+[2026.01.14-13.03.08:922][904]Cmd: ACTOR DELETE
+[2026.01.14-13.03.08:926][904]LogEditorActor: Deleted Actor: Brush
+[2026.01.14-13.03.08:959][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.01.14-13.03.08:994][904]LogEditorActor: Deleted 1 Actors (0.071 secs)
+[2026.01.14-13.03.10:959][  8]Cmd: EDIT COPY
+[2026.01.14-13.03.11:506][ 40]Cmd: EDIT PASTE
+[2026.01.14-13.03.14:090][179]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.03.22:924][656]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10069.529297
+[2026.01.14-13.03.23:074][665]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.14-13.03.23:074][666]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10069.663086, Update Interval: 334.001892
+[2026.01.14-13.03.23:689][690]Cmd: EDIT COPY
+[2026.01.14-13.03.24:266][724]Cmd: EDIT PASTE
+[2026.01.14-13.03.31:001][ 87]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.03.37:481][466]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.03.38:670][533]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.03.44:313][866]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.03.48:358][ 99]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.03.52:327][327]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.03.55:805][521]Cmd: DELETE
+[2026.01.14-13.03.55:805][521]Cmd: ACTOR DELETE
+[2026.01.14-13.03.55:810][521]LogEditorActor: Deleted Actor: Brush
+[2026.01.14-13.03.55:839][521]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.01.14-13.03.55:874][521]LogEditorActor: Deleted 1 Actors (0.068 secs)
+[2026.01.14-13.03.57:296][593]Cmd: EDIT COPY
+[2026.01.14-13.03.58:820][677]Cmd: EDIT PASTE
+[2026.01.14-13.04.01:930][847]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.05.01:598][227]Cmd: TRANSACTION UNDO
+[2026.01.14-13.05.01:598][227]LogEditorTransaction: Undo Move Elements
+[2026.01.14-13.05.05:388][431]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.14-13.05.05:393][431]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.14-13.05.05:393][431]LogPlayLevel: Creating play world package: /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.14-13.05.05:401][431]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007694s)
+[2026.01.14-13.05.05:401][431]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Project/00_Maps/Map_Game.Map_Game to /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game (0.007745s)
+[2026.01.14-13.05.05:425][431]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2026.01.14-13.05.05:428][431]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Game
+[2026.01.14-13.05.05:430][431]LogPlayLevel: PIE: World Init took: (0.001930s)
+[2026.01.14-13.05.05:431][431]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2026.01.14-13.05.05:431][431]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.14-13.05.05:431][431]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.14-13.05.05:431][431]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.14-13.05.05:431][431]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.14-13.05.05:431][431]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.14-13.05.05:431][431]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.14-13.05.05:431][431]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.14-13.05.05:431][431]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.14-13.05.05:431][431]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.14-13.05.05:431][431]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.14-13.05.05:431][431]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.14-13.05.05:433][431]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.14-13.05.05:462][431]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2026.01.14-13.05.05:462][431]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.14-13.05.05:462][431]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.14-13.05.05:462][431]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.14-13.05.05:463][431]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2026.01.14-13.05.05:463][431]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=39
+[2026.01.14-13.05.05:465][431]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2026.01.14-13.05.05:465][431]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2026.01.14-13.05.05:465][431]LogInit: FAudioDevice initialized with ID 39.
+[2026.01.14-13.05.05:465][431]LogAudio: Display: Audio Device (ID: 39) registered with world 'Map_Game'.
+[2026.01.14-13.05.05:465][431]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 39
+[2026.01.14-13.05.05:469][431]LogLoad: Game class is 'BP_GM_Game_C'
+[2026.01.14-13.05.05:470][431]LogWorld: Bringing World /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game up for play (max tick rate 60) at 2026.01.14-14.05.05
+[2026.01.14-13.05.05:470][431]LogWorld: Bringing up level for play took: 0.001104
+[2026.01.14-13.05.05:473][431]LogOnline: OSS: Created online subsystem instance for: :Context_62
+[2026.01.14-13.05.05:477][431]PIE: Server logged in
+[2026.01.14-13.05.05:480][431]PIE: Play in editor total start time 0,087 seconds.
+[2026.01.14-13.05.05:561][432]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.14-13.05.17:523][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.14-13.05.17:523][145]LogWorld: BeginTearingDown for /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.14-13.05.17:523][145]LogWorld: UWorld::CleanupWorld for Map_Game, bSessionEnded=true, bCleanupResources=true
+[2026.01.14-13.05.17:523][145]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-13.05.17:527][145]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.14-13.05.17:531][145]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-13.05.17:553][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.14-13.05.17:553][145]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 39
+[2026.01.14-13.05.17:554][145]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39, StreamState=4
+[2026.01.14-13.05.17:556][145]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39, StreamState=2
+[2026.01.14-13.05.17:564][145]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.01.14-13.05.17:632][146]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2026.01.14-13.06.11:363][201]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.06.11:808][227]Cmd: EDIT COPY
+[2026.01.14-13.06.22:785][846]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.06.24:772][963]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.06.34:887][551]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.06.56:775][790]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.06.58:130][856]Cmd: EDIT COPY
+[2026.01.14-13.06.58:941][904]Cmd: EDIT PASTE
+[2026.01.14-13.07.05:034][249]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.07.08:428][428]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.07.09:376][480]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.07.12:723][675]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.07.17:829][974]Cmd: EDIT COPY
+[2026.01.14-13.07.18:323][  3]Cmd: EDIT PASTE
+[2026.01.14-13.07.18:332][  3]LogClass: Warning: Short type name "BP_Door_C_1" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffeb255ca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb285c187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb285dad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb27e1d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb28046c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb25326c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb28d30db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb27e1d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb28046c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2026.01.14-13.07.18:335][  3]LogClass: Warning: Short type name "BP_Door_C_1" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffeb255ca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb285c187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb285dad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb27e1d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb28046c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb25326c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb28d30db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb27e1d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb28046c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2026.01.14-13.07.22:875][269]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.07.23:101][280]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.07.26:542][483]Cmd: TRANSACTION UNDO
+[2026.01.14-13.07.26:543][483]LogEditorTransaction: Undo Move Elements
+[2026.01.14-13.07.27:003][497]Cmd: TRANSACTION UNDO
+[2026.01.14-13.07.27:003][497]LogEditorTransaction: Undo Move Elements
+[2026.01.14-13.07.28:417][577]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.07.28:664][592]Cmd: TRANSACTION UNDO
+[2026.01.14-13.07.28:665][592]LogEditorTransaction: Undo Paste
+[2026.01.14-13.07.30:912][720]Cmd: EDIT COPY
+[2026.01.14-13.07.31:370][747]Cmd: EDIT PASTE
+[2026.01.14-13.07.31:380][747]LogClass: Warning: Short type name "BP_Door_C_2" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffeb255ca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb285c187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb285dad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb27e1d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb28046c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb25326c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb28d30db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb27e1d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb28046c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2026.01.14-13.07.31:383][747]LogClass: Warning: Short type name "BP_Door_C_2" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffeb255ca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb285c187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb285dad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb27e1d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb28046c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb25326c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb28d30db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb27e1d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb28046c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2026.01.14-13.07.34:917][955]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.07.36:000][ 15]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.07.45:114][535]Cmd: EDIT COPY
+[2026.01.14-13.07.45:502][557]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.07.48:026][702]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.07.49:830][802]Cmd: EDIT PASTE
+[2026.01.14-13.07.49:841][802]LogClass: Warning: Short type name "BP_Door_C_3" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffeb255ca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb285c187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb285dad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb27e1d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb28046c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb25326c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb28d30db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb27e1d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb28046c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2026.01.14-13.07.49:844][802]LogClass: Warning: Short type name "BP_Door_C_3" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffeb255ca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb285c187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb285dad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb27e1d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb28046c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb25326c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb28d30db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb27e1d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb28046c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2026.01.14-13.07.50:796][856]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.07.53:009][986]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.07.55:389][124]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.07.56:588][191]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.08.00:061][391]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.08.01:459][473]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.08.07:010][793]Cmd: EDIT COPY
+[2026.01.14-13.08.07:010][793]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'EDIT'. 
+[2026.01.14-13.08.07:903][846]Cmd: EDIT PASTE
+[2026.01.14-13.08.07:912][846]LogClass: Warning: Short type name "BP_Door_C_2" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffeb255ca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb285c187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb285dad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb27e1d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb28046c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb25326c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb28d30db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb27e1d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb28046c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2026.01.14-13.08.07:916][846]LogClass: Warning: Short type name "BP_Door_C_2" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffeb255ca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb285c187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb285dad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb27e1d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb28046c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb25326c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb28d30db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb27e1d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffeb28046c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2026.01.14-13.08.13:939][194]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.08.21:387][636]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.08.22:638][708]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.08.24:917][841]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.08.25:720][885]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.08.26:508][928]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.08.27:222][968]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.08.32:755][290]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.08.38:311][606]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.08.39:172][655]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.08.56:040][662]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.09.12:172][616]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.09.13:808][710]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.14-13.09.13:813][710]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.14-13.09.13:813][710]LogPlayLevel: Creating play world package: /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.14-13.09.13:822][710]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008069s)
+[2026.01.14-13.09.13:822][710]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Project/00_Maps/Map_Game.Map_Game to /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game (0.008117s)
+[2026.01.14-13.09.13:853][710]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.01.14-13.09.13:859][710]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Game
+[2026.01.14-13.09.13:860][710]LogPlayLevel: PIE: World Init took: (0.001779s)
+[2026.01.14-13.09.13:861][710]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2026.01.14-13.09.13:861][710]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.14-13.09.13:861][710]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.14-13.09.13:861][710]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.14-13.09.13:861][710]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.14-13.09.13:861][710]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.14-13.09.13:861][710]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.14-13.09.13:861][710]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.14-13.09.13:861][710]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.14-13.09.13:862][710]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.14-13.09.13:862][710]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.14-13.09.13:862][710]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.14-13.09.13:864][710]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.14-13.09.13:893][710]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2026.01.14-13.09.13:893][710]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.14-13.09.13:893][710]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.14-13.09.13:893][710]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.14-13.09.13:894][710]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2026.01.14-13.09.13:894][710]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=40
+[2026.01.14-13.09.13:896][710]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2026.01.14-13.09.13:896][710]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2026.01.14-13.09.13:896][710]LogInit: FAudioDevice initialized with ID 40.
+[2026.01.14-13.09.13:896][710]LogAudio: Display: Audio Device (ID: 40) registered with world 'Map_Game'.
+[2026.01.14-13.09.13:896][710]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 40
+[2026.01.14-13.09.13:899][710]LogLoad: Game class is 'BP_GM_Game_C'
+[2026.01.14-13.09.13:901][710]LogWorld: Bringing World /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game up for play (max tick rate 60) at 2026.01.14-14.09.13
+[2026.01.14-13.09.13:902][710]LogWorld: Bringing up level for play took: 0.001224
+[2026.01.14-13.09.13:904][710]LogOnline: OSS: Created online subsystem instance for: :Context_63
+[2026.01.14-13.09.13:909][710]PIE: Server logged in
+[2026.01.14-13.09.13:911][710]PIE: Play in editor total start time 0,098 seconds.
+[2026.01.14-13.09.13:959][711]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.14-13.09.25:294][386]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.14-13.09.25:294][386]LogWorld: BeginTearingDown for /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.14-13.09.25:294][386]LogWorld: UWorld::CleanupWorld for Map_Game, bSessionEnded=true, bCleanupResources=true
+[2026.01.14-13.09.25:294][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-13.09.25:298][386]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.14-13.09.25:303][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-13.09.25:330][386]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.14-13.09.25:330][386]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 40
+[2026.01.14-13.09.25:330][386]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40, StreamState=4
+[2026.01.14-13.09.25:332][386]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40, StreamState=2
+[2026.01.14-13.09.25:339][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.01.14-13.09.25:388][387]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2026.01.14-13.09.30:283][676]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.09.53:667][ 44]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10460.142578
+[2026.01.14-13.09.53:850][ 55]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.14-13.09.53:850][ 55]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10460.308594, Update Interval: 353.532532
+[2026.01.14-13.09.54:241][ 79]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.01.14-13.09.54:241][ 79]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.01.14-13.09.54:243][ 79]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/_Project/00_Maps/Map_Game.Map_Game:PersistentLevel.StaticMeshActor_1
+[2026.01.14-13.09.54:244][ 79]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/_Project/00_Maps/Map_Game.Map_Game:PersistentLevel.StaticMeshActor_1
+[2026.01.14-13.09.55:538][150]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.10.09:975][  2]Cmd: DELETE
+[2026.01.14-13.10.09:975][  2]Cmd: ACTOR DELETE
+[2026.01.14-13.10.09:981][  2]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.14-13.10.10:008][  2]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2026.01.14-13.10.10:011][  2]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2026.01.14-13.10.27:127][978]Cmd: ACTOR SELECT ALL
+[2026.01.14-13.10.45:279][974]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2026.01.14-13.11.02:172][944]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.11.03:402][ 17]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.11.05:303][128]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.11.25:341][272]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.11.26:134][319]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.11.26:492][340]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.11.28:631][465]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.11.29:969][542]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.11.30:904][595]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.11.32:326][677]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.11.53:505][873]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.11.58:367][151]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.12.00:553][280]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.12.01:866][353]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.12.02:571][391]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.12.04:067][475]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.12.05:650][554]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.12.06:420][599]Cmd: EDIT COPY
+[2026.01.14-13.12.07:079][638]Cmd: EDIT PASTE
+[2026.01.14-13.12.10:327][818]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.12.13:476][  1]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.12.15:555][125]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.12.22:808][528]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.12.29:167][872]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.12.29:464][887]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.12.30:457][942]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.12.32:763][ 67]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.12.33:566][114]Cmd: EDIT COPY
+[2026.01.14-13.12.33:976][138]Cmd: EDIT PASTE
+[2026.01.14-13.12.37:273][321]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.12.37:549][334]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.12.41:204][545]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.12.41:761][575]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.12.46:294][835]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.12.47:057][878]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.12.49:361][ 12]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.12.50:298][ 66]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.13.02:784][745]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2026.01.14-13.13.26:279][ 47]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.13.28:044][148]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.13.29:762][246]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.13.30:653][297]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.13.32:242][391]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.13.32:670][413]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.13.33:036][431]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.13.44:468][ 36]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.13.45:841][116]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.14.15:322][802]Cmd: EDIT COPY
+[2026.01.14-13.14.16:115][849]Cmd: EDIT PASTE
+[2026.01.14-13.14.22:259][197]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.14.22:681][221]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.14.24:985][354]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.14.45:574][412]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.14.47:055][499]Cmd: EDIT COPY
+[2026.01.14-13.14.47:639][534]Cmd: EDIT PASTE
+[2026.01.14-13.15.09:617][828]Cmd: TRANSACTION UNDO
+[2026.01.14-13.15.09:617][828]LogEditorTransaction: Undo Scale Elements
+[2026.01.14-13.15.19:468][377]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-13.15.20:801][452]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.15.21:787][491]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:54005'.
+[2026.01.14-13.15.21:789][491]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-13.15.21:789][491]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-13.15.21:794][491]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-13.15.21:817][493]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.15.23:913][613]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.15.24:794][659]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-13.15.26:908][766]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:54006'.
+[2026.01.14-13.15.26:910][766]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-13.15.26:910][766]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-13.15.26:915][766]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-13.15.27:919][827]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-13.15.28:322][846]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.15.28:697][866]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.15.29:122][877]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:54007'.
+[2026.01.14-13.15.29:126][877]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-13.15.29:126][877]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-13.15.29:131][877]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-13.15.29:887][920]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.15.36:131][262]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-13.15.36:518][284]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.15.38:243][375]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:55559'.
+[2026.01.14-13.15.38:246][375]LogUdpMessaging: Display: Added local interface '26.124.133.38' to multicast group '230.0.0.1:6666'
+[2026.01.14-13.15.38:246][375]LogUdpMessaging: Display: Added local interface '150.254.137.205' to multicast group '230.0.0.1:6666'
+[2026.01.14-13.15.38:252][375]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-13.15.38:471][386]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.15.38:867][409]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.15.49:157][988]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.15.52:783][185]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.16.06:124][967]Cmd: EDIT COPY
+[2026.01.14-13.16.23:744][914]Cmd: EDIT COPY
+[2026.01.14-13.16.25:870][ 40]Cmd: EDIT PASTE
+[2026.01.14-13.16.29:684][259]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10856.054688
+[2026.01.14-13.16.29:852][268]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.14-13.16.29:852][268]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10856.204102, Update Interval: 349.284332
+[2026.01.14-13.16.45:383][137]Cmd: DELETE
+[2026.01.14-13.16.45:383][137]Cmd: ACTOR DELETE
+[2026.01.14-13.16.45:397][137]LogEditorActor: Deleted Actor: Brush
+[2026.01.14-13.16.45:445][137]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2026.01.14-13.16.45:508][137]LogEditorActor: Deleted 1 Actors (0.125 secs)
+[2026.01.14-13.16.46:392][173]Cmd: DELETE
+[2026.01.14-13.16.46:392][173]Cmd: ACTOR DELETE
+[2026.01.14-13.16.46:405][173]LogEditorActor: Deleted Actor: Brush
+[2026.01.14-13.16.46:433][173]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.01.14-13.16.46:490][173]LogEditorActor: Deleted 1 Actors (0.098 secs)
+[2026.01.14-13.17.06:774][291]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.17.17:606][918]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.17.25:348][348]LogDerivedDataCache: C:/Users/2004i/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.01.14-13.17.31:730][693]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.17.38:319][ 73]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.17.43:524][371]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.17.44:365][416]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.17.49:726][724]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.17.50:048][740]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.17.50:365][759]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.18.23:376][618]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.18.24:668][695]Cmd: EDIT COPY
+[2026.01.14-13.18.25:134][723]Cmd: EDIT PASTE
+[2026.01.14-13.18.28:973][934]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.18.31:699][ 92]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.18.39:407][542]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.18.49:338][115]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.18.50:810][201]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.18.52:710][313]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-13.18.52:807][313]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.01.14-13.18.52:864][313]LogSavePackage: Moving output files for package: /Game/_Project/00_Maps/Map_Game
+[2026.01.14-13.18.52:865][313]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/Map_Game9575AE7B4197232A29FE54BAFF4B16ED.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Content/_Project/00_Maps/Map_Game.umap'
+[2026.01.14-13.18.52:872][313]LogFileHelpers: Saving map 'Map_Game' took 0.104
+[2026.01.14-13.18.52:883][313]LogFileHelpers: InternalPromptForCheckoutAndSave took 173.143 ms (total: 3.71 sec)
+[2026.01.14-13.18.52:958][313]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.14-13.18.52:958][313]LogContentValidation: Enabled validators:
+[2026.01.14-13.18.52:958][313]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-13.18.52:958][313]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-13.18.52:958][313]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-13.18.52:958][313]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-13.18.52:958][313]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-13.18.52:958][313]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-13.18.52:958][313]AssetCheck: /Game/_Project/00_Maps/Map_Game Validating asset
+[2026.01.14-13.18.56:621][532]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.14-13.18.56:628][532]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.14-13.18.56:628][532]LogPlayLevel: Creating play world package: /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.14-13.18.56:653][532]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025177s)
+[2026.01.14-13.18.56:653][532]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Project/00_Maps/Map_Game.Map_Game to /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game (0.025225s)
+[2026.01.14-13.18.56:680][532]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.01.14-13.18.56:682][532]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Game
+[2026.01.14-13.18.56:684][532]LogPlayLevel: PIE: World Init took: (0.001858s)
+[2026.01.14-13.18.56:685][532]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2026.01.14-13.18.56:685][532]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.14-13.18.56:685][532]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.14-13.18.56:685][532]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.14-13.18.56:685][532]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.14-13.18.56:685][532]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.14-13.18.56:685][532]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.14-13.18.56:685][532]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.14-13.18.56:685][532]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.14-13.18.56:685][532]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.14-13.18.56:685][532]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.14-13.18.56:685][532]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.14-13.18.56:687][532]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.14-13.18.56:715][532]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2026.01.14-13.18.56:716][532]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.14-13.18.56:716][532]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.14-13.18.56:716][532]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.14-13.18.56:717][532]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=41
+[2026.01.14-13.18.56:717][532]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=41
+[2026.01.14-13.18.56:719][532]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=41
+[2026.01.14-13.18.56:719][532]LogInit: FAudioDevice initialized with ID 41.
+[2026.01.14-13.18.56:719][532]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=41
+[2026.01.14-13.18.56:719][532]LogAudio: Display: Audio Device (ID: 41) registered with world 'Map_Game'.
+[2026.01.14-13.18.56:719][532]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 41
+[2026.01.14-13.18.56:724][532]LogLoad: Game class is 'BP_GM_Game_C'
+[2026.01.14-13.18.56:725][532]LogWorld: Bringing World /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game up for play (max tick rate 60) at 2026.01.14-14.18.56
+[2026.01.14-13.18.56:726][532]LogWorld: Bringing up level for play took: 0.001777
+[2026.01.14-13.18.56:728][532]LogOnline: OSS: Created online subsystem instance for: :Context_64
+[2026.01.14-13.18.56:734][532]PIE: Server logged in
+[2026.01.14-13.18.56:736][532]PIE: Play in editor total start time 0,11 seconds.
+[2026.01.14-13.18.56:787][533]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.14-13.19.22:573][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.14-13.19.22:573][ 75]LogWorld: BeginTearingDown for /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.14-13.19.22:573][ 75]LogWorld: UWorld::CleanupWorld for Map_Game, bSessionEnded=true, bCleanupResources=true
+[2026.01.14-13.19.22:574][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-13.19.22:577][ 75]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.14-13.19.22:583][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-13.19.22:611][ 75]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.14-13.19.22:611][ 75]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 41
+[2026.01.14-13.19.22:613][ 75]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41, StreamState=4
+[2026.01.14-13.19.22:615][ 75]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41, StreamState=2
+[2026.01.14-13.19.22:618][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.14-13.19.22:621][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.01.14-13.19.22:691][ 76]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2026.01.14-13.19.36:180][859]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.14-13.19.36:186][859]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.14-13.19.36:186][859]LogPlayLevel: Creating play world package: /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.14-13.19.36:211][859]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025086s)
+[2026.01.14-13.19.36:211][859]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Project/00_Maps/Map_Game.Map_Game to /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game (0.025131s)
+[2026.01.14-13.19.36:236][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.01.14-13.19.36:239][859]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Game
+[2026.01.14-13.19.36:240][859]LogPlayLevel: PIE: World Init took: (0.001689s)
+[2026.01.14-13.19.36:241][859]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2026.01.14-13.19.36:242][859]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.14-13.19.36:242][859]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.14-13.19.36:242][859]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.14-13.19.36:242][859]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.14-13.19.36:242][859]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.14-13.19.36:242][859]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.14-13.19.36:242][859]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.14-13.19.36:242][859]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.14-13.19.36:242][859]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.14-13.19.36:242][859]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.14-13.19.36:242][859]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.14-13.19.36:244][859]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.14-13.19.36:270][859]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2026.01.14-13.19.36:271][859]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.14-13.19.36:271][859]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.14-13.19.36:271][859]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.14-13.19.36:272][859]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=42
+[2026.01.14-13.19.36:272][859]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=42
+[2026.01.14-13.19.36:274][859]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=42
+[2026.01.14-13.19.36:274][859]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=42
+[2026.01.14-13.19.36:274][859]LogInit: FAudioDevice initialized with ID 42.
+[2026.01.14-13.19.36:274][859]LogAudio: Display: Audio Device (ID: 42) registered with world 'Map_Game'.
+[2026.01.14-13.19.36:274][859]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 42
+[2026.01.14-13.19.36:278][859]LogLoad: Game class is 'BP_GM_Game_C'
+[2026.01.14-13.19.36:280][859]LogWorld: Bringing World /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game up for play (max tick rate 60) at 2026.01.14-14.19.36
+[2026.01.14-13.19.36:280][859]LogWorld: Bringing up level for play took: 0.001792
+[2026.01.14-13.19.36:282][859]LogOnline: OSS: Created online subsystem instance for: :Context_65
+[2026.01.14-13.19.36:286][859]PIE: Server logged in
+[2026.01.14-13.19.36:288][859]PIE: Play in editor total start time 0,103 seconds.
+[2026.01.14-13.19.36:335][860]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.14-13.19.44:023][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.14-13.19.44:023][315]LogWorld: BeginTearingDown for /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.14-13.19.44:024][315]LogWorld: UWorld::CleanupWorld for Map_Game, bSessionEnded=true, bCleanupResources=true
+[2026.01.14-13.19.44:024][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-13.19.44:028][315]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.14-13.19.44:034][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-13.19.44:066][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.14-13.19.44:066][315]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 42
+[2026.01.14-13.19.44:066][315]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42, StreamState=4
+[2026.01.14-13.19.44:068][315]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42, StreamState=2
+[2026.01.14-13.19.44:074][315]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.01.14-13.19.44:146][316]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2026.01.14-13.19.49:744][636]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.19.50:195][663]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.19.51:233][724]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.20.34:209][731]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.14-13.20.34:214][731]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.14-13.20.34:215][731]LogPlayLevel: Creating play world package: /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.14-13.20.34:255][731]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040462s)
+[2026.01.14-13.20.34:255][731]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Project/00_Maps/Map_Game.Map_Game to /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game (0.040510s)
+[2026.01.14-13.20.34:284][731]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2026.01.14-13.20.34:291][731]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Game
+[2026.01.14-13.20.34:292][731]LogPlayLevel: PIE: World Init took: (0.001657s)
+[2026.01.14-13.20.34:293][731]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2026.01.14-13.20.34:293][731]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.14-13.20.34:293][731]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.14-13.20.34:293][731]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.14-13.20.34:293][731]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.14-13.20.34:293][731]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.14-13.20.34:293][731]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.14-13.20.34:293][731]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.14-13.20.34:293][731]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.14-13.20.34:293][731]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.14-13.20.34:293][731]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.14-13.20.34:293][731]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.14-13.20.34:295][731]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.14-13.20.34:324][731]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2026.01.14-13.20.34:325][731]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.14-13.20.34:325][731]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.14-13.20.34:325][731]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.14-13.20.34:326][731]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=43
+[2026.01.14-13.20.34:326][731]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=43
+[2026.01.14-13.20.34:328][731]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=43
+[2026.01.14-13.20.34:328][731]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=43
+[2026.01.14-13.20.34:328][731]LogInit: FAudioDevice initialized with ID 43.
+[2026.01.14-13.20.34:328][731]LogAudio: Display: Audio Device (ID: 43) registered with world 'Map_Game'.
+[2026.01.14-13.20.34:328][731]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 43
+[2026.01.14-13.20.34:331][731]LogLoad: Game class is 'BP_GM_Game_C'
+[2026.01.14-13.20.34:334][731]LogWorld: Bringing World /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game up for play (max tick rate 60) at 2026.01.14-14.20.34
+[2026.01.14-13.20.34:334][731]LogWorld: Bringing up level for play took: 0.002483
+[2026.01.14-13.20.34:336][731]LogOnline: OSS: Created online subsystem instance for: :Context_66
+[2026.01.14-13.20.34:340][731]PIE: Server logged in
+[2026.01.14-13.20.34:343][731]PIE: Play in editor total start time 0,129 seconds.
+[2026.01.14-13.20.34:387][732]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.14-13.20.38:763][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.14-13.20.38:763][990]LogWorld: BeginTearingDown for /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.14-13.20.38:763][990]LogWorld: UWorld::CleanupWorld for Map_Game, bSessionEnded=true, bCleanupResources=true
+[2026.01.14-13.20.38:764][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-13.20.38:767][990]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.14-13.20.38:773][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-13.20.38:807][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.14-13.20.38:807][990]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 43
+[2026.01.14-13.20.38:807][990]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43, StreamState=4
+[2026.01.14-13.20.38:809][990]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43, StreamState=2
+[2026.01.14-13.20.38:819][990]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2026.01.14-13.20.38:893][991]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2026.01.14-13.20.55:907][686]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.14-13.20.55:918][686]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.14-13.20.55:918][686]LogPlayLevel: Creating play world package: /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.14-13.20.55:962][686]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043237s)
+[2026.01.14-13.20.55:963][686]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Project/00_Maps/Map_Game.Map_Game to /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game (0.043281s)
+[2026.01.14-13.20.55:992][686]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2026.01.14-13.20.55:997][686]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Game
+[2026.01.14-13.20.55:999][686]LogPlayLevel: PIE: World Init took: (0.001977s)
+[2026.01.14-13.20.56:000][686]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2026.01.14-13.20.56:000][686]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.14-13.20.56:000][686]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.14-13.20.56:000][686]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.14-13.20.56:000][686]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.14-13.20.56:000][686]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.14-13.20.56:000][686]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.14-13.20.56:000][686]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.14-13.20.56:000][686]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.14-13.20.56:000][686]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.14-13.20.56:000][686]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.14-13.20.56:000][686]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.14-13.20.56:002][686]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.14-13.20.56:030][686]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2026.01.14-13.20.56:030][686]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.14-13.20.56:030][686]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.14-13.20.56:030][686]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.14-13.20.56:032][686]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=44
+[2026.01.14-13.20.56:032][686]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=44
+[2026.01.14-13.20.56:033][686]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=44
+[2026.01.14-13.20.56:033][686]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=44
+[2026.01.14-13.20.56:033][686]LogInit: FAudioDevice initialized with ID 44.
+[2026.01.14-13.20.56:033][686]LogAudio: Display: Audio Device (ID: 44) registered with world 'Map_Game'.
+[2026.01.14-13.20.56:034][686]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 44
+[2026.01.14-13.20.56:038][686]LogLoad: Game class is 'BP_GM_Game_C'
+[2026.01.14-13.20.56:040][686]LogWorld: Bringing World /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game up for play (max tick rate 60) at 2026.01.14-14.20.56
+[2026.01.14-13.20.56:040][686]LogWorld: Bringing up level for play took: 0.002277
+[2026.01.14-13.20.56:042][686]LogOnline: OSS: Created online subsystem instance for: :Context_67
+[2026.01.14-13.20.56:046][686]PIE: Server logged in
+[2026.01.14-13.20.56:049][686]PIE: Play in editor total start time 0,133 seconds.
+[2026.01.14-13.20.56:110][687]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.14-13.21.11:992][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.14-13.21.11:992][624]LogWorld: BeginTearingDown for /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.14-13.21.11:993][624]LogWorld: UWorld::CleanupWorld for Map_Game, bSessionEnded=true, bCleanupResources=true
+[2026.01.14-13.21.11:993][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-13.21.11:996][624]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.14-13.21.12:003][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-13.21.12:044][624]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.14-13.21.12:044][624]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 44
+[2026.01.14-13.21.12:045][624]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44, StreamState=4
+[2026.01.14-13.21.12:047][624]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44, StreamState=2
+[2026.01.14-13.21.12:051][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.14-13.21.12:054][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2026.01.14-13.21.12:140][625]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2026.01.14-13.21.16:869][900]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-13.21.16:977][900]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.01.14-13.21.17:060][900]LogSavePackage: Moving output files for package: /Game/_Project/00_Maps/Map_Game
+[2026.01.14-13.21.17:061][900]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/Map_Game747ED96746A952245A41118CD0643C17.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Content/_Project/00_Maps/Map_Game.umap'
+[2026.01.14-13.21.17:068][900]LogFileHelpers: Saving map 'Map_Game' took 0.134
+[2026.01.14-13.21.17:080][900]LogFileHelpers: InternalPromptForCheckoutAndSave took 211.692 ms (total: 3.92 sec)
+[2026.01.14-13.21.17:151][900]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.14-13.21.17:151][900]LogContentValidation: Enabled validators:
+[2026.01.14-13.21.17:151][900]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-13.21.17:151][900]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-13.21.17:151][900]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-13.21.17:151][900]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-13.21.17:151][900]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-13.21.17:151][900]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-13.21.17:151][900]AssetCheck: /Game/_Project/00_Maps/Map_Game Validating asset
+[2026.01.14-13.21.18:161][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.01.14-13.21.20:464][956]LogSlate: Window 'Save Content' being destroyed
+[2026.01.14-13.21.20:502][956]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-13.21.20:576][956]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Project/01_Blueprints/World/BP_Door] ([2] browsable assets)...
+[2026.01.14-13.21.20:576][956]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/01_Blueprints/World/BP_Door]
+[2026.01.14-13.21.20:594][956]LogSavePackage: Moving output files for package: /Game/_Project/01_Blueprints/World/BP_Door
+[2026.01.14-13.21.20:594][956]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/BP_DoorD532B23F40380F9F867FD3B18812C91B.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Content/_Project/01_Blueprints/World/BP_Door.uasset'
+[2026.01.14-13.21.20:608][956]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.855 ms (total: 4.03 sec)
+[2026.01.14-13.21.20:689][956]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.14-13.21.20:689][956]LogContentValidation: Enabled validators:
+[2026.01.14-13.21.20:689][956]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-13.21.20:689][956]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-13.21.20:689][956]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-13.21.20:689][956]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-13.21.20:689][956]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-13.21.20:689][956]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-13.21.20:689][956]AssetCheck: /Game/_Project/01_Blueprints/World/BP_Door Validating asset
+[2026.01.14-13.21.37:442][954]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.01.14-13.22.57:281][411]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11243.644531
+[2026.01.14-13.22.58:282][415]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.14-13.22.58:282][415]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11244.311523, Update Interval: 340.870392
