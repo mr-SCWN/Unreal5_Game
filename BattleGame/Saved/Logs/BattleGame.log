@@ -4599,3 +4599,977 @@ System max path length: 260.
 [2026.01.24-17.54.07:978][815]AssetCheck: /Game/_Project/03_characters/Enemies/Types/BP_EnemyGolem Validating asset
 [2026.01.24-17.54.14:638][137]LogSlate: Window 'Content Browser' being destroyed
 [2026.01.24-17.54.14:649][137]LogSlate: Window 'Content Browser' being destroyed
+[2026.01.24-17.55.39:284][606]LogShaderCompilers: Display: ================================================
+[2026.01.24-17.55.39:284][606]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.01.24-17.55.39:284][606]LogShaderCompilers: Display: Total job queries 633, among them cache hits 83 (13.11%), DDC hits 359 (56.71%), Duplicates 123 (19.43%)
+[2026.01.24-17.55.39:284][606]LogShaderCompilers: Display: Tracking 427 distinct input hashes that result in 292 distinct outputs (68.38%)
+[2026.01.24-17.55.39:284][606]LogShaderCompilers: Display: RAM used: 3,70 MiB of 1,60 GiB budget. Usage: 0.23%
+[2026.01.24-17.55.39:284][606]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.01.24-17.55.39:284][606]LogShaderCompilers: Display: Shaders Compiled: 68
+[2026.01.24-17.55.39:284][606]LogShaderCompilers: Display: Jobs assigned 68, completed 68 (100%)
+[2026.01.24-17.55.39:284][606]LogShaderCompilers: Display: Average time worker was idle: 132.04 s
+[2026.01.24-17.55.39:284][606]LogShaderCompilers: Display: Time job spent in pending queue: average 0.11 s, longest 0.21 s
+[2026.01.24-17.55.39:284][606]LogShaderCompilers: Display: Job execution time: average 4.48 s, max 8.89 s
+[2026.01.24-17.55.39:284][606]LogShaderCompilers: Display: Job life time (pending + execution): average 4.59 s, max 9.09
+[2026.01.24-17.55.39:284][606]LogShaderCompilers: Display: Shader code size: total 625,371 KiB, numShaders 72, average 8,686 KiB, min 3,387 KiB, max 15,947 KiB
+[2026.01.24-17.55.39:284][606]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 24.33 s
+[2026.01.24-17.55.39:284][606]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.01.24-17.55.39:284][606]LogShaderCompilers: Display: Jobs were issued in 28 batches (only local compilation was used), average 2.43 jobs/batch
+[2026.01.24-17.55.39:284][606]LogShaderCompilers: Display: Average processing rate: 2.79 jobs/sec
+[2026.01.24-17.55.39:284][606]LogShaderCompilers: Display: Total thread time: 81,908 s
+[2026.01.24-17.55.39:284][606]LogShaderCompilers: Display: Total thread preprocess time: 12,4 s
+[2026.01.24-17.55.39:284][606]LogShaderCompilers: Display: Percentage time preprocessing: 15.14%
+[2026.01.24-17.55.39:284][606]LogShaderCompilers: Display: Effective parallelization: 3.37 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.420768
+[2026.01.24-17.55.39:284][606]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.01.24-17.55.39:284][606]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    6 times, average 2.90 sec, max 3.35 sec, min 2.66 sec)
+[2026.01.24-17.55.39:284][606]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    1 times, average 2.61 sec, max 2.61 sec, min 2.61 sec)
+[2026.01.24-17.55.39:284][606]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 2.32 sec, max 2.49 sec, min 2.15 sec)
+[2026.01.24-17.55.39:284][606]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 1.88 sec, max 1.88 sec, min 1.88 sec)
+[2026.01.24-17.55.39:284][606]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    2 times, average 1.70 sec, max 1.79 sec, min 1.62 sec)
+[2026.01.24-17.55.39:284][606]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.01.24-17.55.39:284][606]LogShaderCompilers: Display:                                             FDebugViewModePS - 21.21% of total time (compiled    6 times, average 2.90 sec, max 3.35 sec, min 2.66 sec)
+[2026.01.24-17.55.39:284][606]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.06% of total time (compiled    6 times, average 1.24 sec, max 1.39 sec, min 1.04 sec)
+[2026.01.24-17.55.39:284][606]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 7.74% of total time (compiled    6 times, average 1.06 sec, max 1.28 sec, min 0.67 sec)
+[2026.01.24-17.55.39:284][606]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 5.67% of total time (compiled    2 times, average 2.32 sec, max 2.49 sec, min 2.15 sec)
+[2026.01.24-17.55.39:284][606]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 5.00% of total time (compiled    6 times, average 0.68 sec, max 0.94 sec, min 0.47 sec)
+[2026.01.24-17.55.39:284][606]LogShaderCompilers: Display: === Material stats ===
+[2026.01.24-17.55.39:284][606]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.01.24-17.55.39:284][606]LogShaderCompilers: Display: Materials Translated:    162
+[2026.01.24-17.55.39:284][606]LogShaderCompilers: Display: Material Total Translate Time: 0.15 s
+[2026.01.24-17.55.39:284][606]LogShaderCompilers: Display: Material Translation Only: 0.05 s (34%)
+[2026.01.24-17.55.39:284][606]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.01.24-17.55.39:284][606]LogShaderCompilers: Display: Material Cache Hits: 15 (9%)
+[2026.01.24-17.55.39:284][606]LogShaderCompilers: Display: ================================================
+[2026.01.24-17.58.53:653][189]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8944.485352
+[2026.01.24-17.58.54:987][193]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.24-17.58.54:987][193]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8945.484375, Update Interval: 313.799255
+[2026.01.24-18.01.12:854][253]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2026.01.24-18.01.12:854][253]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_148
+[2026.01.24-18.01.44:177][669]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.01.24-18.01.45:273][714]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-18.01.45:356][714]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Project/03_characters/Enemies/Types/BP_EnemyGoblin] ([2] browsable assets)...
+[2026.01.24-18.01.45:356][714]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_149
+[2026.01.24-18.01.45:408][714]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/_Project/03_characters/Enemies/Types/BP_EnemyGoblin.BP_EnemyGoblin_C]
+[2026.01.24-18.01.45:409][714]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_150
+[2026.01.24-18.01.45:426][714]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Project/03_characters/Enemies/Types/BP_EnemyGoblin.BP_EnemyGoblin]
+[2026.01.24-18.01.45:426][714]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/03_characters/Enemies/Types/BP_EnemyGoblin]
+[2026.01.24-18.01.45:440][714]LogSavePackage: Moving output files for package: /Game/_Project/03_characters/Enemies/Types/BP_EnemyGoblin
+[2026.01.24-18.01.45:441][714]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/BP_EnemyGoblin6EB7EFB547348EC2CDD92F916348071D.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Content/_Project/03_characters/Enemies/Types/BP_EnemyGoblin.uasset'
+[2026.01.24-18.01.45:455][714]LogFileHelpers: InternalPromptForCheckoutAndSave took 182.406 ms (total: 6.70 sec)
+[2026.01.24-18.01.45:537][714]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.24-18.01.45:538][714]LogContentValidation: Enabled validators:
+[2026.01.24-18.01.45:538][714]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-18.01.45:538][714]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-18.01.45:538][714]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-18.01.45:538][714]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-18.01.45:538][714]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-18.01.45:538][714]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-18.01.45:538][714]AssetCheck: /Game/_Project/03_characters/Enemies/Types/BP_EnemyGoblin Validating asset
+[2026.01.24-18.02.09:860][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2026.01.24-18.02.10:503][847]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-18.02.10:582][847]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Project/03_characters/Enemies/Types/BP_EnemyMage] ([2] browsable assets)...
+[2026.01.24-18.02.10:583][847]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_151
+[2026.01.24-18.02.10:632][847]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/_Project/03_characters/Enemies/Types/BP_EnemyMage.BP_EnemyMage_C]
+[2026.01.24-18.02.10:633][847]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_152
+[2026.01.24-18.02.10:649][847]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Project/03_characters/Enemies/Types/BP_EnemyMage.BP_EnemyMage]
+[2026.01.24-18.02.10:649][847]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/03_characters/Enemies/Types/BP_EnemyMage]
+[2026.01.24-18.02.10:665][847]LogSavePackage: Moving output files for package: /Game/_Project/03_characters/Enemies/Types/BP_EnemyMage
+[2026.01.24-18.02.10:665][847]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/BP_EnemyMage65BE39EA46E33CA85C38528F4FF98060.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Content/_Project/03_characters/Enemies/Types/BP_EnemyMage.uasset'
+[2026.01.24-18.02.10:679][847]LogFileHelpers: InternalPromptForCheckoutAndSave took 176.233 ms (total: 6.87 sec)
+[2026.01.24-18.02.10:772][847]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.24-18.02.10:772][847]LogContentValidation: Enabled validators:
+[2026.01.24-18.02.10:772][847]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-18.02.10:772][847]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-18.02.10:772][847]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-18.02.10:772][847]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-18.02.10:772][847]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-18.02.10:772][847]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-18.02.10:772][847]AssetCheck: /Game/_Project/03_characters/Enemies/Types/BP_EnemyMage Validating asset
+[2026.01.24-18.02.32:693][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2026.01.24-18.02.33:181][848]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-18.02.33:257][848]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Project/03_characters/Enemies/Types/BP_EnemyGolem] ([2] browsable assets)...
+[2026.01.24-18.02.33:257][848]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_153
+[2026.01.24-18.02.33:316][848]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/_Project/03_characters/Enemies/Types/BP_EnemyGolem.BP_EnemyGolem_C]
+[2026.01.24-18.02.33:316][848]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_154
+[2026.01.24-18.02.33:335][848]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Project/03_characters/Enemies/Types/BP_EnemyGolem.BP_EnemyGolem]
+[2026.01.24-18.02.33:335][848]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/03_characters/Enemies/Types/BP_EnemyGolem]
+[2026.01.24-18.02.33:348][848]LogSavePackage: Moving output files for package: /Game/_Project/03_characters/Enemies/Types/BP_EnemyGolem
+[2026.01.24-18.02.33:349][848]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/BP_EnemyGolemC42AADF14D8F3DF5B67F24916D8E91E1.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Content/_Project/03_characters/Enemies/Types/BP_EnemyGolem.uasset'
+[2026.01.24-18.02.33:364][848]LogFileHelpers: InternalPromptForCheckoutAndSave took 184.185 ms (total: 7.06 sec)
+[2026.01.24-18.02.33:452][848]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.24-18.02.33:452][848]LogContentValidation: Enabled validators:
+[2026.01.24-18.02.33:452][848]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-18.02.33:452][848]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-18.02.33:452][848]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-18.02.33:452][848]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-18.02.33:452][848]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-18.02.33:452][848]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-18.02.33:452][848]AssetCheck: /Game/_Project/03_characters/Enemies/Types/BP_EnemyGolem Validating asset
+[2026.01.24-18.04.52:247][805]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9303.041992
+[2026.01.24-18.04.53:247][808]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.24-18.04.53:248][809]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9303.708984, Update Interval: 312.387451
+[2026.01.24-18.07.19:701][248]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.01.24-18.07.19:701][248]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.01.24-18.07.26:068][535]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.01.24-18.07.26:069][535]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.01.24-18.09.39:245][598]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2026.01.24-18.09.56:943][404]LogPSOHitching: Encountered 750 PSO creation hitches so far (325 graphics, 425 compute). 0 of them were precached.
+[2026.01.24-18.09.59:156][488]LogEditorTransaction: Undo Edit Line Thickness
+[2026.01.24-18.10.09:298][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.01.24-18.10.09:947][946]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-18.10.10:068][946]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Project/03_characters/Enemies/Types/BP_EnemyGolem] ([2] browsable assets)...
+[2026.01.24-18.10.10:118][946]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Project/03_characters/Enemies/Types/BP_EnemyGolem.BP_EnemyGolem]
+[2026.01.24-18.10.10:118][946]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/03_characters/Enemies/Types/BP_EnemyGolem]
+[2026.01.24-18.10.10:133][946]LogSavePackage: Moving output files for package: /Game/_Project/03_characters/Enemies/Types/BP_EnemyGolem
+[2026.01.24-18.10.10:134][946]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/BP_EnemyGolem72F1FD934DF6AF4AC4B5B7A4DF441B6A.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Content/_Project/03_characters/Enemies/Types/BP_EnemyGolem.uasset'
+[2026.01.24-18.10.10:158][946]LogFileHelpers: InternalPromptForCheckoutAndSave took 211.247 ms (total: 7.27 sec)
+[2026.01.24-18.10.10:238][946]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.24-18.10.10:238][946]LogContentValidation: Enabled validators:
+[2026.01.24-18.10.10:238][946]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-18.10.10:238][946]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-18.10.10:238][946]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-18.10.10:238][946]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-18.10.10:238][946]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-18.10.10:238][946]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-18.10.10:238][946]AssetCheck: /Game/_Project/03_characters/Enemies/Types/BP_EnemyGolem Validating asset
+[2026.01.24-18.10.34:469][ 85]LogEditorTransaction: Undo Set Scale
+[2026.01.24-18.10.35:138][ 99]LogEditorTransaction: Undo Set Scale
+[2026.01.24-18.10.36:252][144]LogEditorTransaction: Undo Set Scale
+[2026.01.24-18.10.41:498][372]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-18.10.41:589][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Project/03_characters/Enemies/Types/BP_EnemyGolem] ([2] browsable assets)...
+[2026.01.24-18.10.41:589][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/03_characters/Enemies/Types/BP_EnemyGolem]
+[2026.01.24-18.10.41:602][372]LogSavePackage: Moving output files for package: /Game/_Project/03_characters/Enemies/Types/BP_EnemyGolem
+[2026.01.24-18.10.41:602][372]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/BP_EnemyGolemAC35A7A548BA720824565CBAD7DE8E8A.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Content/_Project/03_characters/Enemies/Types/BP_EnemyGolem.uasset'
+[2026.01.24-18.10.41:616][372]LogFileHelpers: InternalPromptForCheckoutAndSave took 117.763 ms (total: 7.39 sec)
+[2026.01.24-18.10.41:699][372]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.24-18.10.41:699][372]LogContentValidation: Enabled validators:
+[2026.01.24-18.10.41:699][372]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-18.10.41:699][372]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-18.10.41:699][372]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-18.10.41:700][372]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-18.10.41:700][372]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-18.10.41:700][372]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-18.10.41:700][372]AssetCheck: /Game/_Project/03_characters/Enemies/Types/BP_EnemyGolem Validating asset
+[2026.01.24-18.10.56:098][  5]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9666.879883
+[2026.01.24-18.10.56:310][ 15]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.24-18.10.56:310][ 15]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9667.072266, Update Interval: 339.169281
+[2026.01.24-18.11.23:583][256]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2026.01.24-18.11.24:467][294]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-18.11.24:548][294]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Project/03_characters/Enemies/Types/BP_EnemyGoblin] ([2] browsable assets)...
+[2026.01.24-18.11.24:599][294]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Project/03_characters/Enemies/Types/BP_EnemyGoblin.BP_EnemyGoblin]
+[2026.01.24-18.11.24:600][294]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/03_characters/Enemies/Types/BP_EnemyGoblin]
+[2026.01.24-18.11.24:613][294]LogSavePackage: Moving output files for package: /Game/_Project/03_characters/Enemies/Types/BP_EnemyGoblin
+[2026.01.24-18.11.24:613][294]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/BP_EnemyGoblinB2D3E9E54AD8FC82CB50C891A14F866E.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Content/_Project/03_characters/Enemies/Types/BP_EnemyGoblin.uasset'
+[2026.01.24-18.11.24:627][294]LogFileHelpers: InternalPromptForCheckoutAndSave took 159.526 ms (total: 7.55 sec)
+[2026.01.24-18.11.24:724][294]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.24-18.11.24:724][294]LogContentValidation: Enabled validators:
+[2026.01.24-18.11.24:724][294]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-18.11.24:724][294]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-18.11.24:724][294]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-18.11.24:724][294]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-18.11.24:724][294]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-18.11.24:724][294]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-18.11.24:724][294]AssetCheck: /Game/_Project/03_characters/Enemies/Types/BP_EnemyGoblin Validating asset
+[2026.01.24-18.12.11:096][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.01.24-18.12.11:630][438]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-18.12.11:729][438]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Project/03_characters/Enemies/Types/BP_EnemyMage] ([2] browsable assets)...
+[2026.01.24-18.12.11:768][438]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Project/03_characters/Enemies/Types/BP_EnemyMage.BP_EnemyMage]
+[2026.01.24-18.12.11:768][438]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/03_characters/Enemies/Types/BP_EnemyMage]
+[2026.01.24-18.12.11:783][438]LogSavePackage: Moving output files for package: /Game/_Project/03_characters/Enemies/Types/BP_EnemyMage
+[2026.01.24-18.12.11:783][438]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/BP_EnemyMage7B1C04D3407B93CE5FBFACAC1D443A19.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Content/_Project/03_characters/Enemies/Types/BP_EnemyMage.uasset'
+[2026.01.24-18.12.11:799][438]LogFileHelpers: InternalPromptForCheckoutAndSave took 168.396 ms (total: 7.71 sec)
+[2026.01.24-18.12.11:881][438]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.24-18.12.11:881][438]LogContentValidation: Enabled validators:
+[2026.01.24-18.12.11:881][438]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-18.12.11:881][438]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-18.12.11:881][438]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-18.12.11:881][438]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-18.12.11:881][438]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-18.12.11:881][438]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-18.12.11:881][438]AssetCheck: /Game/_Project/03_characters/Enemies/Types/BP_EnemyMage Validating asset
+[2026.01.24-18.13.26:772][959]LogSlate: Window 'Pick Skeleton' being destroyed
+[2026.01.24-18.13.26:783][959]LogContentBrowser: Deferred new asset file creation: NewAnimComposite
+[2026.01.24-18.13.26:802][959]LogContentBrowser: Creating deferred item: NewAnimComposite
+[2026.01.24-18.13.26:850][960]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimComposite).
+[2026.01.24-18.13.26:862][961]LogContentBrowser: Attempting asset rename: NewAnimComposite -> NewAnimComposite
+[2026.01.24-18.13.26:864][961]LogContentBrowser: End creating deferred item NewAnimComposite
+[2026.01.24-18.13.40:501][544]LogContentBrowser: Attempting asset rename: NewAnimComposite -> NewAnimComposite
+[2026.01.24-18.13.42:866][637]LogAssetEditorSubsystem: Opening Asset editor for AnimComposite /Game/_Project/03_characters/Enemies/Golem/source/NewAnimComposite.NewAnimComposite
+[2026.01.24-18.13.42:869][637]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_155
+[2026.01.24-18.13.42:902][637]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_155:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.24-18.13.43:180][637]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_156
+[2026.01.24-18.13.43:875][638]LogPSOHitching: Encountered 800 PSO creation hitches so far (355 graphics, 445 compute). 0 of them were precached.
+[2026.01.24-18.14.03:145][401]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/_Project/03_characters/Enemies/Golem/source/MutantGolem1_Skeleton.MutantGolem1_Skeleton
+[2026.01.24-18.14.03:146][401]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_157
+[2026.01.24-18.14.03:168][401]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_157:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.24-18.14.03:445][401]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_158
+[2026.01.24-18.14.17:065][895]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/_Project/03_characters/Enemies/Golem/source/MutantGolem1.MutantGolem1
+[2026.01.24-18.14.17:066][895]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_159
+[2026.01.24-18.14.17:094][895]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_159:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.24-18.14.37:168][574]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/_Project/03_characters/Enemies/Goblin/goblin_d_shareyko_Anim_Take_001.goblin_d_shareyko_Anim_Take_001
+[2026.01.24-18.14.37:168][574]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_160
+[2026.01.24-18.14.37:180][574]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_160:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.24-18.14.37:530][574]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_161
+[2026.01.24-18.14.38:299][574]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_162
+[2026.01.24-18.14.40:001][626]LogWorld: UWorld::CleanupWorld for World_162, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-18.14.40:001][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-18.14.40:013][626]LogWorld: UWorld::CleanupWorld for World_160, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-18.14.40:013][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-18.14.40:059][626]LogWorld: UWorld::CleanupWorld for World_161, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-18.14.40:060][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-18.14.40:191][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.01.24-18.14.43:154][689]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/_Project/03_characters/Enemies/Goblin/goblin_d_shareyko.goblin_d_shareyko
+[2026.01.24-18.14.43:155][689]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_163
+[2026.01.24-18.14.43:166][689]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_163:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.24-18.14.50:896][903]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/_Project/03_characters/Enemies/Mage/Nightshade_J_Friedrich.Nightshade_J_Friedrich
+[2026.01.24-18.14.50:897][903]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_164
+[2026.01.24-18.14.50:906][903]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_164:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.24-18.14.54:416][976]LogWorld: UWorld::CleanupWorld for World_164, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-18.14.54:416][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-18.14.54:508][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.01.24-18.14.54:975][978]LogWorld: UWorld::CleanupWorld for World_159, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-18.14.54:975][978]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-18.14.55:020][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.01.24-18.14.55:889][  7]LogWorld: UWorld::CleanupWorld for World_163, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-18.14.55:889][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-18.14.55:934][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.01.24-18.14.57:503][ 60]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/_Project/03_characters/Enemies/Golem/source/MutantGolem1.MutantGolem1
+[2026.01.24-18.14.57:503][ 60]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_165
+[2026.01.24-18.14.57:528][ 60]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_165:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.24-18.15.00:423][126]LogWorld: UWorld::CleanupWorld for World_155, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-18.15.00:423][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-18.15.00:471][126]LogWorld: UWorld::CleanupWorld for World_156, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-18.15.00:471][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-18.15.00:531][126]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.01.24-18.15.11:858][574]LogStreaming: Display: FlushAsyncLoading(828): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.24-18.15.11:937][574]LogInteractiveToolsContext: Display: Creates a rigid binding for the skin weights.
+[2026.01.24-18.15.12:879][611]LogInteractiveToolsContext: Display: Inspect and Modify Attributes of a StaticMesh Asset
+[2026.01.24-18.15.13:658][638]LogStreaming: Display: FlushAsyncLoading(829): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.24-18.15.14:142][638]LogInteractiveToolsContext: Display: Paint per-bone skin weights. [ and ] change brush size, Ctrl to Erase/Subtract, Shift to Smooth
+[2026.01.24-18.15.16:863][711]LogInteractiveToolsContext: Display: Creates a rigid binding for the skin weights.
+[2026.01.24-18.15.19:947][835]LogInteractiveToolsContext: Display: Creates a rigid binding for the skin weights.
+[2026.01.24-18.15.21:382][873]LogInteractiveToolsContext: Display: Paint per-bone skin weights. [ and ] change brush size, Ctrl to Erase/Subtract, Shift to Smooth
+[2026.01.24-18.16.14:119][925]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-18.16.14:200][925]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Project/03_characters/Enemies/Types/BP_EnemyGolem] ([2] browsable assets)...
+[2026.01.24-18.16.14:200][925]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/03_characters/Enemies/Types/BP_EnemyGolem]
+[2026.01.24-18.16.14:212][925]LogSavePackage: Moving output files for package: /Game/_Project/03_characters/Enemies/Types/BP_EnemyGolem
+[2026.01.24-18.16.14:213][925]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/BP_EnemyGolemF9EAA78C40FE7E8EA9C4ECA9DE18C9DC.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Content/_Project/03_characters/Enemies/Types/BP_EnemyGolem.uasset'
+[2026.01.24-18.16.14:255][925]LogFileHelpers: InternalPromptForCheckoutAndSave took 135.193 ms (total: 7.85 sec)
+[2026.01.24-18.16.14:330][925]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.24-18.16.14:330][925]LogContentValidation: Enabled validators:
+[2026.01.24-18.16.14:330][925]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-18.16.14:330][925]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-18.16.14:330][925]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-18.16.14:330][925]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-18.16.14:330][925]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-18.16.14:330][925]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-18.16.14:330][925]AssetCheck: /Game/_Project/03_characters/Enemies/Types/BP_EnemyGolem Validating asset
+[2026.01.24-18.16.27:363][429]LogWorld: UWorld::CleanupWorld for World_165, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-18.16.27:363][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-18.16.27:462][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2026.01.24-18.16.36:496][743]LogAssetEditorSubsystem: Opening Asset editor for AnimComposite /Game/_Project/03_characters/Enemies/Golem/source/NewAnimComposite.NewAnimComposite
+[2026.01.24-18.16.36:497][743]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_166
+[2026.01.24-18.16.36:525][743]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_166:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.24-18.16.36:795][743]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_167
+[2026.01.24-18.16.39:615][813]LogShaderCompilers: Display: ================================================
+[2026.01.24-18.16.39:615][813]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.01.24-18.16.39:615][813]LogShaderCompilers: Display: Total job queries 662, among them cache hits 99 (14.95%), DDC hits 369 (55.74%), Duplicates 123 (18.58%)
+[2026.01.24-18.16.39:615][813]LogShaderCompilers: Display: Tracking 440 distinct input hashes that result in 301 distinct outputs (68.41%)
+[2026.01.24-18.16.39:615][813]LogShaderCompilers: Display: RAM used: 3,75 MiB of 1,60 GiB budget. Usage: 0.23%
+[2026.01.24-18.16.39:615][813]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.01.24-18.16.39:615][813]LogShaderCompilers: Display: Shaders Compiled: 71
+[2026.01.24-18.16.39:615][813]LogShaderCompilers: Display: Jobs assigned 71, completed 71 (100%)
+[2026.01.24-18.16.39:615][813]LogShaderCompilers: Display: Average time worker was idle: 290.53 s
+[2026.01.24-18.16.39:615][813]LogShaderCompilers: Display: Time job spent in pending queue: average 0.11 s, longest 0.21 s
+[2026.01.24-18.16.39:615][813]LogShaderCompilers: Display: Job execution time: average 4.33 s, max 8.89 s
+[2026.01.24-18.16.39:615][813]LogShaderCompilers: Display: Job life time (pending + execution): average 4.44 s, max 9.09
+[2026.01.24-18.16.39:615][813]LogShaderCompilers: Display: Shader code size: total 648,566 KiB, numShaders 75, average 8,647 KiB, min 3,387 KiB, max 15,947 KiB
+[2026.01.24-18.16.39:615][813]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 25.63 s
+[2026.01.24-18.16.39:615][813]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.01.24-18.16.39:615][813]LogShaderCompilers: Display: Jobs were issued in 31 batches (only local compilation was used), average 2.29 jobs/batch
+[2026.01.24-18.16.39:615][813]LogShaderCompilers: Display: Average processing rate: 2.77 jobs/sec
+[2026.01.24-18.16.39:615][813]LogShaderCompilers: Display: Total thread time: 84,01 s
+[2026.01.24-18.16.39:615][813]LogShaderCompilers: Display: Total thread preprocess time: 12,971 s
+[2026.01.24-18.16.39:615][813]LogShaderCompilers: Display: Percentage time preprocessing: 15.44%
+[2026.01.24-18.16.39:615][813]LogShaderCompilers: Display: Effective parallelization: 3.28 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.409688
+[2026.01.24-18.16.39:615][813]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.01.24-18.16.39:615][813]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    6 times, average 2.90 sec, max 3.35 sec, min 2.66 sec)
+[2026.01.24-18.16.39:615][813]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    1 times, average 2.61 sec, max 2.61 sec, min 2.61 sec)
+[2026.01.24-18.16.39:615][813]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 2.32 sec, max 2.49 sec, min 2.15 sec)
+[2026.01.24-18.16.39:615][813]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 1.88 sec, max 1.88 sec, min 1.88 sec)
+[2026.01.24-18.16.39:615][813]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    2 times, average 1.70 sec, max 1.79 sec, min 1.62 sec)
+[2026.01.24-18.16.39:615][813]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.01.24-18.16.39:615][813]LogShaderCompilers: Display:                                             FDebugViewModePS - 20.68% of total time (compiled    6 times, average 2.90 sec, max 3.35 sec, min 2.66 sec)
+[2026.01.24-18.16.39:615][813]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.89% of total time (compiled    7 times, average 1.19 sec, max 1.39 sec, min 0.89 sec)
+[2026.01.24-18.16.39:615][813]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 7.55% of total time (compiled    6 times, average 1.06 sec, max 1.28 sec, min 0.67 sec)
+[2026.01.24-18.16.39:615][813]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 5.60% of total time (compiled    7 times, average 0.67 sec, max 0.94 sec, min 0.47 sec)
+[2026.01.24-18.16.39:615][813]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 5.53% of total time (compiled    2 times, average 2.32 sec, max 2.49 sec, min 2.15 sec)
+[2026.01.24-18.16.39:615][813]LogShaderCompilers: Display: === Material stats ===
+[2026.01.24-18.16.39:615][813]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.01.24-18.16.39:616][813]LogShaderCompilers: Display: Materials Translated:    165
+[2026.01.24-18.16.39:616][813]LogShaderCompilers: Display: Material Total Translate Time: 0.15 s
+[2026.01.24-18.16.39:616][813]LogShaderCompilers: Display: Material Translation Only: 0.05 s (34%)
+[2026.01.24-18.16.39:616][813]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.01.24-18.16.39:616][813]LogShaderCompilers: Display: Material Cache Hits: 15 (9%)
+[2026.01.24-18.16.39:616][813]LogShaderCompilers: Display: ================================================
+[2026.01.24-18.17.03:290][721]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_168
+[2026.01.24-18.17.05:023][782]LogWorld: UWorld::CleanupWorld for World_168, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-18.17.05:023][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-18.17.05:139][783]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.01.24-18.17.16:433][236]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_169
+[2026.01.24-18.17.20:553][410]LogWorld: UWorld::CleanupWorld for World_169, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-18.17.20:553][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-18.17.20:632][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.01.24-18.17.21:030][429]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_170
+[2026.01.24-18.17.21:766][453]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10052.526367
+[2026.01.24-18.17.21:986][461]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.24-18.17.21:986][461]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10052.714844, Update Interval: 343.342377
+[2026.01.24-18.17.25:604][601]Cmd: TRANSACTION UNDO
+[2026.01.24-18.17.25:605][601]LogEditorTransaction: Undo Add Segments
+[2026.01.24-18.17.25:971][601]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_157:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.24-18.17.25:975][601]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_166:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.24-18.17.26:083][601]LogWorld: UWorld::CleanupWorld for World_170, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-18.17.26:083][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-18.17.26:137][602]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.01.24-18.17.27:816][654]LogAnimation: Warning: Remove Empty Sequence (AnimComposite /Game/_Project/03_characters/Enemies/Golem/source/NewAnimComposite.NewAnimComposite)
+[2026.01.24-18.17.27:854][655]LogAnimation: Warning: Remove Empty Sequence (AnimComposite /Game/_Project/03_characters/Enemies/Golem/source/NewAnimComposite.NewAnimComposite)
+[2026.01.24-18.17.31:602][800]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_171
+[2026.01.24-18.18.25:851][927]LogWorld: UWorld::CleanupWorld for World_171, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-18.18.25:851][927]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-18.18.25:918][928]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.01.24-18.18.30:388][ 93]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_172
+[2026.01.24-18.18.43:305][607]LogWorld: UWorld::CleanupWorld for World_172, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-18.18.43:305][607]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-18.18.43:386][608]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.01.24-18.18.59:719][250]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_173
+[2026.01.24-18.19.06:333][508]LogWorld: UWorld::CleanupWorld for World_173, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-18.19.06:333][508]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-18.19.06:409][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.01.24-18.19.25:001][238]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_174
+[2026.01.24-18.19.28:069][351]LogWorld: UWorld::CleanupWorld for World_174, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-18.19.28:069][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-18.19.28:150][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.01.24-18.19.34:791][609]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-18.19.34:883][609]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Project/03_characters/Enemies/Golem/source/NewAnimComposite] ([1] browsable assets)...
+[2026.01.24-18.19.34:962][609]OBJ SavePackage:     Rendered thumbnail for [AnimComposite /Game/_Project/03_characters/Enemies/Golem/source/NewAnimComposite.NewAnimComposite]
+[2026.01.24-18.19.34:962][609]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/03_characters/Enemies/Golem/source/NewAnimComposite]
+[2026.01.24-18.19.34:973][609]LogSavePackage: Moving output files for package: /Game/_Project/03_characters/Enemies/Golem/source/NewAnimComposite
+[2026.01.24-18.19.34:974][609]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/NewAnimComposite07A9442A42FBC4B631FB86913C32A70C.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Content/_Project/03_characters/Enemies/Golem/source/NewAnimComposite.uasset'
+[2026.01.24-18.19.35:028][609]LogFileHelpers: InternalPromptForCheckoutAndSave took 237.244 ms (total: 8.09 sec)
+[2026.01.24-18.19.35:105][609]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.24-18.19.35:105][609]LogContentValidation: Enabled validators:
+[2026.01.24-18.19.35:105][609]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-18.19.35:105][609]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-18.19.35:105][609]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-18.19.35:105][609]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-18.19.35:105][609]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-18.19.35:105][609]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-18.19.35:105][609]AssetCheck: /Game/_Project/03_characters/Enemies/Golem/source/NewAnimComposite Validating asset
+[2026.01.24-18.19.35:144][609]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.24-18.19.47:795][104]LogContentBrowser: Attempting asset rename: NewAnimComposite -> Anim_Golem_Attack
+[2026.01.24-18.19.47:960][104]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-18.19.47:960][104]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Project/03_characters/Enemies/Golem/source/Anim_Golem_Attack] ([1] browsable assets)...
+[2026.01.24-18.19.47:960][104]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/03_characters/Enemies/Golem/source/Anim_Golem_Attack]
+[2026.01.24-18.19.47:969][104]LogSavePackage: Moving output files for package: /Game/_Project/03_characters/Enemies/Golem/source/Anim_Golem_Attack
+[2026.01.24-18.19.47:969][104]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/Anim_Golem_AttackE541A1D84A55433918FF0E92566C39E8.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Content/_Project/03_characters/Enemies/Golem/source/Anim_Golem_Attack.uasset'
+[2026.01.24-18.19.48:003][104]LogFileHelpers: InternalPromptForCheckoutAndSave took 42.514 ms (total: 8.13 sec)
+[2026.01.24-18.19.48:119][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.01.24-18.19.48:157][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.01.24-18.19.48:190][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.01.24-18.19.48:287][104]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.24-18.19.48:287][104]LogContentValidation: Enabled validators:
+[2026.01.24-18.19.48:287][104]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-18.19.48:287][104]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-18.19.48:287][104]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-18.19.48:287][104]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-18.19.48:287][104]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-18.19.48:287][104]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-18.19.48:287][104]AssetCheck: /Game/_Project/03_characters/Enemies/Golem/source/Anim_Golem_Attack Validating asset
+[2026.01.24-18.19.48:342][104]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.24-18.19.55:893][325]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.01.24-18.19.55:965][325]LogContentBrowser: Creating deferred item: NewFolder
+[2026.01.24-18.19.55:999][326]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.01.24-18.19.58:327][406]LogContentBrowser: Attempting asset rename: NewFolder -> Animation
+[2026.01.24-18.19.58:327][406]LogContentBrowser: End creating deferred item NewFolder
+[2026.01.24-18.20.02:233][528]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-18.20.02:233][528]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_Attack] ([1] browsable assets)...
+[2026.01.24-18.20.02:234][528]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_Attack]
+[2026.01.24-18.20.02:242][528]LogSavePackage: Moving output files for package: /Game/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_Attack
+[2026.01.24-18.20.02:242][528]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/Anim_Golem_Attack08CAD50D4E8BB717966BF7B4FE7D0BE6.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Content/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_Attack.uasset'
+[2026.01.24-18.20.02:284][528]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.055 ms (total: 8.18 sec)
+[2026.01.24-18.20.02:390][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.01.24-18.20.02:428][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.01.24-18.20.02:461][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2026.01.24-18.20.02:521][528]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.01.24-18.20.02:521][528]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.24-18.20.02:521][528]LogContentValidation: Enabled validators:
+[2026.01.24-18.20.02:522][528]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-18.20.02:522][528]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-18.20.02:522][528]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-18.20.02:522][528]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-18.20.02:522][528]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-18.20.02:522][528]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-18.20.02:522][528]AssetCheck: /Game/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_Attack Validating asset
+[2026.01.24-18.20.02:541][528]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.24-18.20.05:745][637]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-18.20.05:746][637]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_Attack] ([1] browsable assets)...
+[2026.01.24-18.20.05:746][637]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_Attack]
+[2026.01.24-18.20.05:755][637]LogSavePackage: Moving output files for package: /Game/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_Attack
+[2026.01.24-18.20.05:755][637]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/Anim_Golem_Attack30A23D884E67E56F4761149ED4A21EEC.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Content/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_Attack.uasset'
+[2026.01.24-18.20.05:757][637]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Project/03_characters/Enemies/Golem/source/Animation/MutantGolem1_Anim] ([1] browsable assets)...
+[2026.01.24-18.20.05:757][637]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/03_characters/Enemies/Golem/source/Animation/MutantGolem1_Anim]
+[2026.01.24-18.20.05:830][637]LogSavePackage: Moving output files for package: /Game/_Project/03_characters/Enemies/Golem/source/Animation/MutantGolem1_Anim
+[2026.01.24-18.20.05:830][637]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/MutantGolem1_AnimAA4CA03241807C47B2B0DAB3A4819538.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Content/_Project/03_characters/Enemies/Golem/source/Animation/MutantGolem1_Anim.uasset'
+[2026.01.24-18.20.05:887][637]LogFileHelpers: InternalPromptForCheckoutAndSave took 141.699 ms (total: 8.32 sec)
+[2026.01.24-18.20.06:013][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.01.24-18.20.06:046][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.01.24-18.20.06:078][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.01.24-18.20.06:147][637]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.01.24-18.20.06:147][637]LogContentValidation: Display: Starting to validate 2 assets
+[2026.01.24-18.20.06:147][637]LogContentValidation: Enabled validators:
+[2026.01.24-18.20.06:147][637]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-18.20.06:147][637]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-18.20.06:147][637]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-18.20.06:147][637]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-18.20.06:147][637]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-18.20.06:147][637]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-18.20.06:147][637]AssetCheck: /Game/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_Attack Validating asset
+[2026.01.24-18.20.06:147][637]AssetCheck: /Game/_Project/03_characters/Enemies/Golem/source/Animation/MutantGolem1_Anim Validating asset
+[2026.01.24-18.20.06:163][637]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.24-18.20.19:574][ 84]LogSlate: Window 'Pick Skeleton' being destroyed
+[2026.01.24-18.20.19:605][ 84]LogContentBrowser: Deferred new asset file creation: NewAnimComposite
+[2026.01.24-18.20.19:636][ 84]LogContentBrowser: Creating deferred item: NewAnimComposite
+[2026.01.24-18.20.25:542][309]Cmd: TRANSACTION UNDO
+[2026.01.24-18.20.25:542][309]LogEditorTransaction: Undo Add Segments
+[2026.01.24-18.20.25:902][309]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_157:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.24-18.20.25:906][309]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_166:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.24-18.20.27:797][375]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-18.20.27:887][375]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_Attack] ([1] browsable assets)...
+[2026.01.24-18.20.27:902][375]OBJ SavePackage:     Rendered thumbnail for [AnimComposite /Game/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_Attack.Anim_Golem_Attack]
+[2026.01.24-18.20.27:902][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_Attack]
+[2026.01.24-18.20.27:912][375]LogSavePackage: Moving output files for package: /Game/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_Attack
+[2026.01.24-18.20.27:912][375]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/Anim_Golem_Attack46DA38714909055C274588966DD1EEE8.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Content/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_Attack.uasset'
+[2026.01.24-18.20.27:931][375]LogFileHelpers: InternalPromptForCheckoutAndSave took 134.385 ms (total: 8.46 sec)
+[2026.01.24-18.20.28:018][375]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.24-18.20.28:019][375]LogContentValidation: Enabled validators:
+[2026.01.24-18.20.28:019][375]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-18.20.28:019][375]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-18.20.28:019][375]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-18.20.28:019][375]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-18.20.28:019][375]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-18.20.28:019][375]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-18.20.28:019][375]AssetCheck: /Game/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_Attack Validating asset
+[2026.01.24-18.20.36:970][714]LogWorld: UWorld::CleanupWorld for World_166, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-18.20.36:970][714]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-18.20.37:021][714]LogWorld: UWorld::CleanupWorld for World_167, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-18.20.37:021][714]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-18.20.37:073][714]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2026.01.24-18.20.37:786][739]LogWorld: UWorld::CleanupWorld for World_157, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-18.20.37:786][739]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-18.20.37:836][739]LogWorld: UWorld::CleanupWorld for World_158, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-18.20.37:836][739]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-18.20.37:875][739]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2026.01.24-18.20.38:012][742]LogPSOHitching: Encountered 850 PSO creation hitches so far (396 graphics, 454 compute). 0 of them were precached.
+[2026.01.24-18.20.43:205][953]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/_Project/03_characters/Enemies/Golem/source/Animation/MutantGolem1_Anim.MutantGolem1_Anim
+[2026.01.24-18.20.43:205][953]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_175
+[2026.01.24-18.20.43:214][953]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_175:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.24-18.20.43:485][953]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_176
+[2026.01.24-18.20.44:015][953]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_177
+[2026.01.24-18.20.45:374][997]LogWorld: UWorld::CleanupWorld for World_177, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-18.20.45:374][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-18.20.45:386][997]LogWorld: UWorld::CleanupWorld for World_175, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-18.20.45:386][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-18.20.45:432][997]LogWorld: UWorld::CleanupWorld for World_176, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-18.20.45:432][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-18.20.45:490][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.01.24-18.21.51:945][965]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-18.21.52:045][965]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.01.24-18.21.52:045][965]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.01.24-18.21.52:115][965]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.01.24-18.21.52:115][965]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/BP_ThirdPersonCharacterC8AB9F4F470FDF6DFF49D0855B35A1D6.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.01.24-18.21.52:131][965]LogFileHelpers: InternalPromptForCheckoutAndSave took 184.775 ms (total: 8.64 sec)
+[2026.01.24-18.21.52:218][965]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.24-18.21.52:218][965]LogContentValidation: Enabled validators:
+[2026.01.24-18.21.52:218][965]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-18.21.52:218][965]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-18.21.52:218][965]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-18.21.52:218][965]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-18.21.52:218][965]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-18.21.52:218][965]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-18.21.52:218][965]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.01.24-18.21.54:105][ 42]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2026.01.24-18.21.54:111][ 42]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2026.01.24-18.21.54:116][ 42]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-18.21.54:116][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-18.21.54:285][ 42]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.01.24-18.21.54:285][ 42]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-18.21.54:285][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-18.21.54:416][ 42]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.01.24-18.21.54:416][ 42]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-18.21.54:416][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-18.21.54:517][ 42]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.01.24-18.21.54:517][ 42]LogWorld: UWorld::CleanupWorld for World_148, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-18.21.54:518][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-18.21.54:650][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2026.01.24-18.22.14:577][ 51]LogSlate: Window 'Pick Skeleton' being destroyed
+[2026.01.24-18.22.14:588][ 51]LogOutputDevice: Warning: 
+
+Script Stack (0 frames) :
+
+[2026.01.24-18.22.14:635][ 51]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.047 s
+[2026.01.24-18.22.14:635][ 51]LogOutputDevice: Error: === Handled ensure: ===
+[2026.01.24-18.22.14:635][ 51]LogOutputDevice: Error: 
+[2026.01.24-18.22.14:635][ 51]LogOutputDevice: Error: Ensure condition failed: !DeferredItemToCreate.IsValid()  [File:D:\build\++UE5\Sync\Engine\Source\Editor\ContentBrowser\Private\SAssetView.cpp] [Line: 1736] 
+[2026.01.24-18.22.14:635][ 51]LogOutputDevice: Error: Deferred new asset file creation while there is already a deferred item creation: NewAnimComposite
+[2026.01.24-18.22.14:635][ 51]LogOutputDevice: Error: Stack: 
+[2026.01.24-18.22.14:635][ 51]LogOutputDevice: Error: [Callstack] 0x00007ffa57d54466 UnrealEditor-ContentBrowser.dll!UnknownFunction []
+[2026.01.24-18.22.14:635][ 51]LogOutputDevice: Error: [Callstack] 0x00007ffa57b540c3 UnrealEditor-ContentBrowser.dll!UnknownFunction []
+[2026.01.24-18.22.14:635][ 51]LogOutputDevice: Error: [Callstack] 0x00007ffa57b00ef5 UnrealEditor-ContentBrowser.dll!UnknownFunction []
+[2026.01.24-18.22.14:635][ 51]LogOutputDevice: Error: [Callstack] 0x00000281bc7f3add UnrealEditor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2026.01.24-18.22.14:635][ 51]LogOutputDevice: Error: [Callstack] 0x00000281bc7f5b83 UnrealEditor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2026.01.24-18.22.14:635][ 51]LogOutputDevice: Error: [Callstack] 0x00000281bc7ce08d UnrealEditor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2026.01.24-18.22.14:635][ 51]LogOutputDevice: Error: [Callstack] 0x00000281bc7ced6d UnrealEditor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2026.01.24-18.22.14:635][ 51]LogOutputDevice: Error: [Callstack] 0x00000281bc7ccf20 UnrealEditor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2026.01.24-18.22.14:635][ 51]LogOutputDevice: Error: [Callstack] 0x00007ffa9e98d5c5 UnrealEditor-Slate.dll!UnknownFunction []
+[2026.01.24-18.22.14:635][ 51]LogOutputDevice: Error: [Callstack] 0x00007ffa9eab502b UnrealEditor-Slate.dll!UnknownFunction []
+[2026.01.24-18.22.14:635][ 51]LogOutputDevice: Error: [Callstack] 0x00007ffa9eaba5a0 UnrealEditor-Slate.dll!UnknownFunction []
+[2026.01.24-18.22.14:635][ 51]LogOutputDevice: Error: [Callstack] 0x00007ffa9ea8af3a UnrealEditor-Slate.dll!UnknownFunction []
+[2026.01.24-18.22.14:635][ 51]LogOutputDevice: Error: [Callstack] 0x00007ffa9eb1961e UnrealEditor-Slate.dll!UnknownFunction []
+[2026.01.24-18.22.14:635][ 51]LogOutputDevice: Error: [Callstack] 0x00007ffa9eb381e2 UnrealEditor-Slate.dll!UnknownFunction []
+[2026.01.24-18.22.14:635][ 51]LogOutputDevice: Error: [Callstack] 0x00007ffa9eabce49 UnrealEditor-Slate.dll!UnknownFunction []
+[2026.01.24-18.22.14:635][ 51]LogOutputDevice: Error: [Callstack] 0x00007ffa9e8cbe6b UnrealEditor-Slate.dll!UnknownFunction []
+[2026.01.24-18.22.14:635][ 51]LogOutputDevice: Error: [Callstack] 0x00007ffa9e8b743d UnrealEditor-Slate.dll!UnknownFunction []
+[2026.01.24-18.22.14:635][ 51]LogOutputDevice: Error: [Callstack] 0x00007ffa9e911ec8 UnrealEditor-Slate.dll!UnknownFunction []
+[2026.01.24-18.22.14:635][ 51]LogOutputDevice: Error: [Callstack] 0x00007ffa9e9013bb UnrealEditor-Slate.dll!UnknownFunction []
+[2026.01.24-18.22.14:635][ 51]LogOutputDevice: Error: [Callstack] 0x00007ffa9e8f4091 UnrealEditor-Slate.dll!UnknownFunction []
+[2026.01.24-18.22.14:636][ 51]LogOutputDevice: Error: [Callstack] 0x00007ffaf4aaf956 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2026.01.24-18.22.14:636][ 51]LogOutputDevice: Error: [Callstack] 0x00007ffaf4a97137 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2026.01.24-18.22.14:636][ 51]LogOutputDevice: Error: [Callstack] 0x00007ffaf4ab299c UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2026.01.24-18.22.14:636][ 51]LogOutputDevice: Error: [Callstack] 0x00007ffaf4a91171 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2026.01.24-18.22.14:636][ 51]LogOutputDevice: Error: [Callstack] 0x00007ffb7cde7846 USER32.dll!UnknownFunction []
+[2026.01.24-18.22.14:636][ 51]LogOutputDevice: Error: [Callstack] 0x00007ffb7cde539d USER32.dll!UnknownFunction []
+[2026.01.24-18.22.14:636][ 51]LogOutputDevice: Error: [Callstack] 0x00007ffaf4ad2316 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2026.01.24-18.22.14:636][ 51]LogOutputDevice: Error: [Callstack] 0x00007ff794ba871b UnrealEditor.exe!UnknownFunction []
+[2026.01.24-18.22.14:636][ 51]LogOutputDevice: Error: [Callstack] 0x00007ff794bce5ac UnrealEditor.exe!UnknownFunction []
+[2026.01.24-18.22.14:636][ 51]LogOutputDevice: Error: [Callstack] 0x00007ff794bce6ba UnrealEditor.exe!UnknownFunction []
+[2026.01.24-18.22.14:636][ 51]LogOutputDevice: Error: [Callstack] 0x00007ff794bd209e UnrealEditor.exe!UnknownFunction []
+[2026.01.24-18.22.14:636][ 51]LogOutputDevice: Error: [Callstack] 0x00007ff794be4e44 UnrealEditor.exe!UnknownFunction []
+[2026.01.24-18.22.14:636][ 51]LogOutputDevice: Error: [Callstack] 0x00007ff794be80fa UnrealEditor.exe!UnknownFunction []
+[2026.01.24-18.22.14:636][ 51]LogOutputDevice: Error: [Callstack] 0x00007ffb7cb0e8d7 KERNEL32.DLL!UnknownFunction []
+[2026.01.24-18.22.14:636][ 51]LogOutputDevice: Error: [Callstack] 0x00007ffb7d1ec53c ntdll.dll!UnknownFunction []
+[2026.01.24-18.22.14:636][ 51]LogOutputDevice: Error: 
+[2026.01.24-18.22.14:638][ 51]LogStats:                SubmitErrorReport -  0.000 s
+[2026.01.24-18.22.16:035][ 51]LogStats:                    SendNewReport -  1.397 s
+[2026.01.24-18.22.16:035][ 51]LogStats:             FDebug::EnsureFailed -  1.446 s
+[2026.01.24-18.22.16:035][ 51]LogContentBrowser: Deferred new asset file creation: NewAnimComposite
+[2026.01.24-18.22.16:047][ 51]LogContentBrowser: Creating deferred item: NewAnimComposite
+[2026.01.24-18.22.16:061][ 52]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimComposite).
+[2026.01.24-18.22.28:147][766]LogContentBrowser: Attempting asset rename: NewAnimComposite -> Anim_Golem_AOE_Attack
+[2026.01.24-18.22.28:148][766]LogContentBrowser: End creating deferred item NewAnimComposite
+[2026.01.24-18.22.28:918][811]LogAssetEditorSubsystem: Opening Asset editor for AnimComposite /Game/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_AOE_Attack.Anim_Golem_AOE_Attack
+[2026.01.24-18.22.28:918][811]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_178
+[2026.01.24-18.22.28:944][811]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_178:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.24-18.22.29:376][811]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_179
+[2026.01.24-18.23.09:250][141]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-18.23.09:368][141]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_AOE_Attack] ([1] browsable assets)...
+[2026.01.24-18.23.09:377][141]OBJ SavePackage:     Rendered thumbnail for [AnimComposite /Game/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_AOE_Attack.Anim_Golem_AOE_Attack]
+[2026.01.24-18.23.09:377][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_AOE_Attack]
+[2026.01.24-18.23.09:388][141]LogSavePackage: Moving output files for package: /Game/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_AOE_Attack
+[2026.01.24-18.23.09:388][141]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/Anim_Golem_AOE_AttackEC69AC1B43C4657B28B094AEDD59C459.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Content/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_AOE_Attack.uasset'
+[2026.01.24-18.23.09:407][141]LogFileHelpers: InternalPromptForCheckoutAndSave took 157.732 ms (total: 8.80 sec)
+[2026.01.24-18.23.09:482][141]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.24-18.23.09:482][141]LogContentValidation: Enabled validators:
+[2026.01.24-18.23.09:482][141]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-18.23.09:482][141]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-18.23.09:482][141]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-18.23.09:482][141]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-18.23.09:482][141]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-18.23.09:482][141]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-18.23.09:482][141]AssetCheck: /Game/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_AOE_Attack Validating asset
+[2026.01.24-18.23.09:506][141]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.24-18.23.12:001][198]LogSlate: Window 'Create New Animation Object' being destroyed
+[2026.01.24-18.23.13:035][246]LogSlate: Window 'Anim_Golem_AOE_Attack' being destroyed
+[2026.01.24-18.23.13:042][246]LogSlate: Window 'Anim_Golem_AOE_Attack' being destroyed
+[2026.01.24-18.23.13:063][246]LogWorld: UWorld::CleanupWorld for World_178, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-18.23.13:063][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-18.23.13:119][246]LogWorld: UWorld::CleanupWorld for World_179, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-18.23.13:119][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-18.23.13:187][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.01.24-18.23.16:618][436]LogAssetEditorSubsystem: Opening Asset editor for AnimComposite /Game/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_AOE_Attack.Anim_Golem_AOE_Attack
+[2026.01.24-18.23.16:619][436]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_180
+[2026.01.24-18.23.16:636][436]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_180:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.24-18.23.17:002][436]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_181
+[2026.01.24-18.23.22:565][679]LogSlate: Window 'Anim_Golem_AOE_Attack' being destroyed
+[2026.01.24-18.23.22:581][679]LogSlate: Window 'Anim_Golem_AOE_Attack' being destroyed
+[2026.01.24-18.23.22:600][679]LogWorld: UWorld::CleanupWorld for World_180, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-18.23.22:600][679]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-18.23.22:655][679]LogWorld: UWorld::CleanupWorld for World_181, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-18.23.22:655][679]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-18.23.22:718][679]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2026.01.24-18.23.25:522][829]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.01.24-18.23.27:586][829]LogSlate: Window 'Delete Assets' being destroyed
+[2026.01.24-18.23.27:620][829]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_AOE_Attack.Anim_Golem_AOE_Attack
+	Asset Type: AnimComposite
+[2026.01.24-18.23.28:147][829]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.01.24-18.23.28:175][829]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.01.24-18.23.28:202][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.01.24-18.23.35:733][237]LogAssetEditorSubsystem: Opening Asset editor for AnimComposite /Game/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_Attack.Anim_Golem_Attack
+[2026.01.24-18.23.35:733][237]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_182
+[2026.01.24-18.23.35:742][237]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_182:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.24-18.23.36:106][237]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_183
+[2026.01.24-18.23.41:326][495]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10432.125000
+[2026.01.24-18.23.41:530][506]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.24-18.23.41:530][506]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10432.309570, Update Interval: 314.852142
+[2026.01.24-18.23.48:819][900]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_184
+[2026.01.24-18.23.51:353][ 30]LogSlate: Window 'Anim_Golem_Attack' being destroyed
+[2026.01.24-18.23.51:405][ 30]LogWorld: UWorld::CleanupWorld for World_182, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-18.23.51:405][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-18.23.51:457][ 30]LogWorld: UWorld::CleanupWorld for World_184, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-18.23.51:458][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-18.23.51:464][ 30]LogWorld: UWorld::CleanupWorld for World_183, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-18.23.51:464][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-18.23.51:525][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.01.24-18.24.07:243][860]LogSlate: Window 'Pick Skeleton' being destroyed
+[2026.01.24-18.24.07:253][860]LogContentBrowser: Deferred new asset file creation: NewAnimComposite
+[2026.01.24-18.24.07:264][860]LogContentBrowser: Creating deferred item: NewAnimComposite
+[2026.01.24-18.24.07:277][861]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimComposite).
+[2026.01.24-18.24.07:345][864]LogContentBrowser: Attempting asset rename: NewAnimComposite -> NewAnimComposite
+[2026.01.24-18.24.07:346][864]LogContentBrowser: End creating deferred item NewAnimComposite
+[2026.01.24-18.24.10:797][ 54]LogAssetEditorSubsystem: Opening Asset editor for AnimComposite /Game/_Project/03_characters/Enemies/Golem/source/Animation/NewAnimComposite.NewAnimComposite
+[2026.01.24-18.24.10:798][ 54]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_185
+[2026.01.24-18.24.10:806][ 54]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_185:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.24-18.24.11:163][ 54]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_186
+[2026.01.24-18.24.22:239][578]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_187
+[2026.01.24-18.24.23:459][633]LogWorld: UWorld::CleanupWorld for World_187, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-18.24.23:459][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-18.24.23:544][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.01.24-18.24.30:259][969]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_188
+[2026.01.24-18.24.31:189][ 10]LogWorld: UWorld::CleanupWorld for World_188, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-18.24.31:189][ 10]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-18.24.31:272][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.01.24-18.24.33:909][131]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_189
+[2026.01.24-18.24.35:256][190]LogWorld: UWorld::CleanupWorld for World_189, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-18.24.35:256][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-18.24.35:332][191]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.01.24-18.24.55:317][129]LogAnimation: Warning: Remove Empty Sequence (AnimComposite /Game/_Project/03_characters/Enemies/Golem/source/Animation/NewAnimComposite.NewAnimComposite)
+[2026.01.24-18.24.55:347][130]LogAnimation: Warning: Remove Empty Sequence (AnimComposite /Game/_Project/03_characters/Enemies/Golem/source/Animation/NewAnimComposite.NewAnimComposite)
+[2026.01.24-18.24.55:679][150]LogAnimation: Warning: Remove Empty Sequence (AnimComposite /Game/_Project/03_characters/Enemies/Golem/source/Animation/NewAnimComposite.NewAnimComposite)
+[2026.01.24-18.25.13:741][ 10]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_190
+[2026.01.24-18.25.42:990][395]LogWorld: UWorld::CleanupWorld for World_190, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-18.25.42:990][395]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-18.25.43:046][396]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.01.24-18.26.06:350][518]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_191
+[2026.01.24-18.26.17:765][ 60]LogWorld: UWorld::CleanupWorld for World_191, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-18.26.17:765][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-18.26.17:826][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.01.24-18.26.22:300][278]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_192
+[2026.01.24-18.26.24:503][383]Cmd: TRANSACTION UNDO
+[2026.01.24-18.26.24:503][383]LogEditorTransaction: Undo Edit End Time
+[2026.01.24-18.26.24:665][383]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_185:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.24-18.26.24:749][383]LogPSOHitching: Encountered 900 PSO creation hitches so far (417 graphics, 483 compute). 0 of them were precached.
+[2026.01.24-18.26.24:823][383]LogWorld: UWorld::CleanupWorld for World_192, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-18.26.24:824][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-18.26.24:871][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.01.24-18.26.26:865][477]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_193
+[2026.01.24-18.26.29:474][596]Cmd: TRANSACTION UNDO
+[2026.01.24-18.26.29:475][596]LogEditorTransaction: Undo Edit Start Time
+[2026.01.24-18.26.29:659][596]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_185:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.24-18.26.29:804][596]LogWorld: UWorld::CleanupWorld for World_193, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-18.26.29:804][596]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-18.26.29:853][597]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.01.24-18.26.50:795][597]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_194
+[2026.01.24-18.26.55:174][800]LogWorld: UWorld::CleanupWorld for World_194, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-18.26.55:174][800]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-18.26.55:216][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.01.24-18.26.59:002][979]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_195
+[2026.01.24-18.27.18:315][902]LogWorld: UWorld::CleanupWorld for World_195, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-18.27.18:315][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-18.27.18:372][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.01.24-18.27.28:229][378]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-18.27.28:308][378]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Project/03_characters/Enemies/Golem/source/Animation/NewAnimComposite] ([1] browsable assets)...
+[2026.01.24-18.27.28:318][378]OBJ SavePackage:     Rendered thumbnail for [AnimComposite /Game/_Project/03_characters/Enemies/Golem/source/Animation/NewAnimComposite.NewAnimComposite]
+[2026.01.24-18.27.28:318][378]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/03_characters/Enemies/Golem/source/Animation/NewAnimComposite]
+[2026.01.24-18.27.28:329][378]LogSavePackage: Moving output files for package: /Game/_Project/03_characters/Enemies/Golem/source/Animation/NewAnimComposite
+[2026.01.24-18.27.28:329][378]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/NewAnimComposite3CF8403E4DD552C5E907A7A4D123EBA8.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Content/_Project/03_characters/Enemies/Golem/source/Animation/NewAnimComposite.uasset'
+[2026.01.24-18.27.28:349][378]LogFileHelpers: InternalPromptForCheckoutAndSave took 119.496 ms (total: 8.92 sec)
+[2026.01.24-18.27.28:486][378]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.24-18.27.28:486][378]LogContentValidation: Enabled validators:
+[2026.01.24-18.27.28:486][378]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-18.27.28:486][378]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-18.27.28:486][378]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-18.27.28:486][378]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-18.27.28:486][378]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-18.27.28:486][378]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-18.27.28:486][378]AssetCheck: /Game/_Project/03_characters/Enemies/Golem/source/Animation/NewAnimComposite Validating asset
+[2026.01.24-18.27.28:513][378]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.24-18.27.42:116][ 29]LogContentBrowser: Attempting asset rename: NewAnimComposite -> Anim_Golem_AOEattack
+[2026.01.24-18.27.42:316][ 29]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-18.27.42:316][ 29]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_AOEattack] ([1] browsable assets)...
+[2026.01.24-18.27.42:316][ 29]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_AOEattack]
+[2026.01.24-18.27.42:323][ 29]LogSavePackage: Moving output files for package: /Game/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_AOEattack
+[2026.01.24-18.27.42:324][ 29]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/Anim_Golem_AOEattack9B213EBA4B5DB9DA6F92359374C2B0CB.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Content/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_AOEattack.uasset'
+[2026.01.24-18.27.42:331][ 29]LogFileHelpers: InternalPromptForCheckoutAndSave took 16.675 ms (total: 8.93 sec)
+[2026.01.24-18.27.42:383][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2026.01.24-18.27.42:415][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2026.01.24-18.27.42:446][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.01.24-18.27.42:539][ 29]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.24-18.27.42:539][ 29]LogContentValidation: Enabled validators:
+[2026.01.24-18.27.42:539][ 29]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-18.27.42:539][ 29]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-18.27.42:539][ 29]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-18.27.42:539][ 29]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-18.27.42:539][ 29]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-18.27.42:539][ 29]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-18.27.42:540][ 29]AssetCheck: /Game/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_AOEattack Validating asset
+[2026.01.24-18.27.42:589][ 29]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.24-18.27.44:429][116]LogSlate: Window 'Anim_Golem_AOEattack' being destroyed
+[2026.01.24-18.27.44:494][116]LogWorld: UWorld::CleanupWorld for World_185, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-18.27.44:494][116]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-18.27.44:542][116]LogWorld: UWorld::CleanupWorld for World_186, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-18.27.44:542][116]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-18.27.44:586][116]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.01.24-18.28.00:833][964]LogSlate: Window 'Pick Skeleton' being destroyed
+[2026.01.24-18.28.00:844][964]LogContentBrowser: Deferred new asset file creation: NewAnimComposite
+[2026.01.24-18.28.00:855][964]LogContentBrowser: Creating deferred item: NewAnimComposite
+[2026.01.24-18.28.00:868][965]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimComposite).
+[2026.01.24-18.28.13:208][699]LogContentBrowser: Attempting asset rename: NewAnimComposite -> Anim_Golem_Idle
+[2026.01.24-18.28.13:209][699]LogContentBrowser: End creating deferred item NewAnimComposite
+[2026.01.24-18.28.20:936][ 29]LogSlate: Window 'Pick Skeleton' being destroyed
+[2026.01.24-18.28.20:948][ 29]LogContentBrowser: Deferred new asset file creation: NewAnimComposite
+[2026.01.24-18.28.20:961][ 29]LogContentBrowser: Creating deferred item: NewAnimComposite
+[2026.01.24-18.28.20:977][ 30]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimComposite).
+[2026.01.24-18.28.32:140][700]LogContentBrowser: Attempting asset rename: NewAnimComposite -> Anim_Golem_Walk
+[2026.01.24-18.28.32:141][700]LogContentBrowser: End creating deferred item NewAnimComposite
+[2026.01.24-18.28.42:319][180]LogSlate: Window 'Pick Skeleton' being destroyed
+[2026.01.24-18.28.42:331][180]LogContentBrowser: Deferred new asset file creation: NewAnimComposite
+[2026.01.24-18.28.42:342][180]LogContentBrowser: Creating deferred item: NewAnimComposite
+[2026.01.24-18.28.42:357][181]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimComposite).
+[2026.01.24-18.28.50:209][651]LogContentBrowser: Attempting asset rename: NewAnimComposite -> Anim_Golem_Charge
+[2026.01.24-18.28.50:210][651]LogContentBrowser: End creating deferred item NewAnimComposite
+[2026.01.24-18.29.05:378][447]LogSlate: Window 'Pick Skeleton' being destroyed
+[2026.01.24-18.29.05:390][447]LogContentBrowser: Deferred new asset file creation: NewAnimComposite
+[2026.01.24-18.29.05:402][447]LogContentBrowser: Creating deferred item: NewAnimComposite
+[2026.01.24-18.29.05:415][448]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimComposite).
+[2026.01.24-18.29.12:889][886]LogContentBrowser: Attempting asset rename: NewAnimComposite -> Anim_Golem_Dead
+[2026.01.24-18.29.12:890][886]LogContentBrowser: End creating deferred item NewAnimComposite
+[2026.01.24-18.29.16:088][ 63]LogAssetEditorSubsystem: Opening Asset editor for AnimComposite /Game/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_Charge.Anim_Golem_Charge
+[2026.01.24-18.29.16:088][ 63]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_196
+[2026.01.24-18.29.16:110][ 63]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_196:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.24-18.29.16:480][ 63]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_197
+[2026.01.24-18.29.20:163][228]LogAssetEditorSubsystem: Opening Asset editor for AnimComposite /Game/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_Dead.Anim_Golem_Dead
+[2026.01.24-18.29.21:463][281]LogAssetEditorSubsystem: Opening Asset editor for AnimComposite /Game/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_Idle.Anim_Golem_Idle
+[2026.01.24-18.29.22:342][313]LogAssetEditorSubsystem: Opening Asset editor for AnimComposite /Game/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_Charge.Anim_Golem_Charge
+[2026.01.24-18.29.55:769][945]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10806.533203
+[2026.01.24-18.29.55:963][956]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.24-18.29.55:963][956]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10806.706055, Update Interval: 333.002106
+[2026.01.24-18.29.56:149][966]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_198
+[2026.01.24-18.30.01:114][199]LogWorld: UWorld::CleanupWorld for World_198, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-18.30.01:114][199]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-18.30.01:193][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.01.24-18.30.03:030][282]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_199
+[2026.01.24-18.30.12:459][739]LogWorld: UWorld::CleanupWorld for World_199, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-18.30.12:459][739]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-18.30.12:515][740]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.01.24-18.30.14:524][833]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-18.30.14:589][833]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_Charge] ([1] browsable assets)...
+[2026.01.24-18.30.14:600][833]OBJ SavePackage:     Rendered thumbnail for [AnimComposite /Game/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_Charge.Anim_Golem_Charge]
+[2026.01.24-18.30.14:600][833]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_Charge]
+[2026.01.24-18.30.14:611][833]LogSavePackage: Moving output files for package: /Game/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_Charge
+[2026.01.24-18.30.14:611][833]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/Anim_Golem_ChargeBEBD400F4398BEAE256B51A5B9017668.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Content/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_Charge.uasset'
+[2026.01.24-18.30.14:629][833]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.892 ms (total: 9.04 sec)
+[2026.01.24-18.30.14:699][833]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.24-18.30.14:699][833]LogContentValidation: Enabled validators:
+[2026.01.24-18.30.14:699][833]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-18.30.14:699][833]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-18.30.14:699][833]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-18.30.14:699][833]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-18.30.14:699][833]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-18.30.14:699][833]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-18.30.14:699][833]AssetCheck: /Game/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_Charge Validating asset
+[2026.01.24-18.30.14:727][833]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.24-18.30.51:385][605]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-18.30.51:450][605]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_AOEattack] ([1] browsable assets)...
+[2026.01.24-18.30.51:462][605]OBJ SavePackage:     Rendered thumbnail for [AnimComposite /Game/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_AOEattack.Anim_Golem_AOEattack]
+[2026.01.24-18.30.51:462][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_AOEattack]
+[2026.01.24-18.30.51:473][605]LogSavePackage: Moving output files for package: /Game/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_AOEattack
+[2026.01.24-18.30.51:473][605]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/Anim_Golem_AOEattack3794709E416E8C97C1C8E2A4F56387DA.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Content/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_AOEattack.uasset'
+[2026.01.24-18.30.51:483][605]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.286 ms (total: 9.14 sec)
+[2026.01.24-18.30.51:595][605]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.24-18.30.51:595][605]LogContentValidation: Enabled validators:
+[2026.01.24-18.30.51:595][605]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-18.30.51:595][605]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-18.30.51:595][605]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-18.30.51:595][605]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-18.30.51:595][605]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-18.30.51:595][605]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-18.30.51:595][605]AssetCheck: /Game/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_AOEattack Validating asset
+[2026.01.24-18.31.02:769][144]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_200
+[2026.01.24-18.31.39:941][968]LogWorld: UWorld::CleanupWorld for World_200, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-18.31.39:941][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-18.31.39:999][969]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.01.24-18.31.45:217][222]LogDerivedDataCache: C:/Users/2004i/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.01.24-18.31.45:398][230]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-18.31.45:467][230]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_Dead] ([1] browsable assets)...
+[2026.01.24-18.31.45:476][230]OBJ SavePackage:     Rendered thumbnail for [AnimComposite /Game/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_Dead.Anim_Golem_Dead]
+[2026.01.24-18.31.45:476][230]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_Dead]
+[2026.01.24-18.31.45:487][230]LogSavePackage: Moving output files for package: /Game/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_Dead
+[2026.01.24-18.31.45:487][230]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/Anim_Golem_Dead7926BB344544AD7D03C550B5FCE2DF5E.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Content/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_Dead.uasset'
+[2026.01.24-18.31.45:504][230]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.924 ms (total: 9.24 sec)
+[2026.01.24-18.31.45:596][230]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.24-18.31.45:596][230]LogContentValidation: Enabled validators:
+[2026.01.24-18.31.45:596][230]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-18.31.45:596][230]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-18.31.45:596][230]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-18.31.45:596][230]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-18.31.45:596][230]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-18.31.45:596][230]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-18.31.45:596][230]AssetCheck: /Game/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_Dead Validating asset
+[2026.01.24-18.31.45:623][230]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.24-18.32.04:716][169]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_201
+[2026.01.24-18.32.10:373][441]LogWorld: UWorld::CleanupWorld for World_201, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-18.32.10:374][441]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-18.32.10:413][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.01.24-18.32.11:787][504]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_202
+[2026.01.24-18.32.20:764][941]LogWorld: UWorld::CleanupWorld for World_202, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-18.32.20:764][941]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-18.32.20:806][942]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.01.24-18.32.24:774][137]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-18.32.24:840][137]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_Idle] ([1] browsable assets)...
+[2026.01.24-18.32.24:851][137]OBJ SavePackage:     Rendered thumbnail for [AnimComposite /Game/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_Idle.Anim_Golem_Idle]
+[2026.01.24-18.32.24:851][137]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_Idle]
+[2026.01.24-18.32.24:863][137]LogSavePackage: Moving output files for package: /Game/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_Idle
+[2026.01.24-18.32.24:863][137]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/Anim_Golem_IdleC637A7F2465CC9E0F584188413357645.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Content/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_Idle.uasset'
+[2026.01.24-18.32.24:882][137]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.638 ms (total: 9.35 sec)
+[2026.01.24-18.32.24:992][137]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.24-18.32.24:992][137]LogContentValidation: Enabled validators:
+[2026.01.24-18.32.24:992][137]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-18.32.24:992][137]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-18.32.24:992][137]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-18.32.24:992][137]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-18.32.24:992][137]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-18.32.24:992][137]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-18.32.24:992][137]AssetCheck: /Game/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_Idle Validating asset
+[2026.01.24-18.32.25:019][137]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.24-18.32.37:873][767]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_203
+[2026.01.24-18.32.41:613][947]LogWorld: UWorld::CleanupWorld for World_203, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-18.32.41:613][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-18.32.41:671][948]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.01.24-18.32.50:701][388]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_204
+[2026.01.24-18.32.55:045][598]LogWorld: UWorld::CleanupWorld for World_204, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-18.32.55:045][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-18.32.55:108][599]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2026.01.24-18.33.00:814][881]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-18.33.00:879][881]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_Walk] ([1] browsable assets)...
+[2026.01.24-18.33.00:892][881]OBJ SavePackage:     Rendered thumbnail for [AnimComposite /Game/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_Walk.Anim_Golem_Walk]
+[2026.01.24-18.33.00:892][881]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_Walk]
+[2026.01.24-18.33.00:903][881]LogSavePackage: Moving output files for package: /Game/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_Walk
+[2026.01.24-18.33.00:904][881]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/Anim_Golem_Walk397E43B2413D27D202B48CAF69D6488A.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Content/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_Walk.uasset'
+[2026.01.24-18.33.00:921][881]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.627 ms (total: 9.46 sec)
+[2026.01.24-18.33.01:015][881]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.24-18.33.01:015][881]LogContentValidation: Enabled validators:
+[2026.01.24-18.33.01:015][881]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-18.33.01:015][881]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-18.33.01:015][881]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-18.33.01:015][881]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-18.33.01:015][881]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-18.33.01:015][881]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-18.33.01:015][881]AssetCheck: /Game/_Project/03_characters/Enemies/Golem/source/Animation/Anim_Golem_Walk Validating asset
+[2026.01.24-18.33.01:040][881]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.24-18.33.02:527][953]LogSlate: Window 'Anim_Golem_Walk' being destroyed
+[2026.01.24-18.33.02:533][953]LogSlate: Window 'Anim_Golem_Walk' being destroyed
+[2026.01.24-18.33.02:551][953]LogWorld: UWorld::CleanupWorld for World_196, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-18.33.02:552][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-18.33.02:604][953]LogWorld: UWorld::CleanupWorld for World_197, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-18.33.02:604][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-18.33.02:648][953]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.01.24-18.34.15:825][333]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/_Project/03_characters/Enemies/Golem/source/Animation/MutantGolem1_Anim.MutantGolem1_Anim
+[2026.01.24-18.34.15:826][333]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_205
+[2026.01.24-18.34.15:834][333]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_205:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.24-18.34.16:199][333]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_206
+[2026.01.24-18.34.16:597][333]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_207
+[2026.01.24-18.34.27:752][922]LogSlate: Window 'MutantGolem1_Anim' being destroyed
+[2026.01.24-18.34.27:770][922]LogSlate: Window 'MutantGolem1_Anim' being destroyed
+[2026.01.24-18.34.27:791][922]LogWorld: UWorld::CleanupWorld for World_207, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-18.34.27:791][922]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-18.34.27:811][922]LogWorld: UWorld::CleanupWorld for World_205, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-18.34.27:811][922]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-18.34.27:864][922]LogWorld: UWorld::CleanupWorld for World_206, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-18.34.27:864][922]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-18.34.27:951][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2026.01.24-18.34.54:584][ 46]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.01.24-18.34.54:584][ 46]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.01.24-18.35.49:417][438]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Project/03_characters/Enemies/Core/BP_EnemyBase.BP_EnemyBase
+[2026.01.24-18.35.49:417][438]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_208
+[2026.01.24-18.36.08:124][438]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Project/03_characters/Enemies/Types/BP_EnemyGoblin.BP_EnemyGoblin
+[2026.01.24-18.36.08:125][438]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_209
+[2026.01.24-18.36.11:267][569]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11181.997070
+[2026.01.24-18.36.11:435][579]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.24-18.36.11:435][579]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11182.149414, Update Interval: 314.593964
+[2026.01.24-18.36.13:013][665]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Project/03_characters/Enemies/Types/BP_EnemyGolem.BP_EnemyGolem
+[2026.01.24-18.36.13:013][665]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_210
+[2026.01.24-18.36.17:994][908]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Project/03_characters/Enemies/Types/BP_EnemyMage.BP_EnemyMage
+[2026.01.24-18.36.17:994][908]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_211
+[2026.01.24-18.36.19:837][988]LogWorld: UWorld::CleanupWorld for World_211, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-18.36.19:837][988]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-18.36.19:855][988]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Project/03_characters/Enemies/Types/BP_EnemyMage.BP_EnemyMage
+[2026.01.24-18.36.19:855][988]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_212
+[2026.01.24-18.36.20:380][988]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.01.24-18.36.43:183][252]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.01.24-18.36.43:801][282]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-18.36.43:912][282]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Project/03_characters/Enemies/Types/BP_EnemyGolem] ([2] browsable assets)...
+[2026.01.24-18.36.43:944][282]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Project/03_characters/Enemies/Types/BP_EnemyGolem.BP_EnemyGolem]
+[2026.01.24-18.36.43:944][282]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/03_characters/Enemies/Types/BP_EnemyGolem]
+[2026.01.24-18.36.43:958][282]LogSavePackage: Moving output files for package: /Game/_Project/03_characters/Enemies/Types/BP_EnemyGolem
+[2026.01.24-18.36.43:958][282]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/BP_EnemyGolem247C83AC49584FA99748688B74864E9B.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Content/_Project/03_characters/Enemies/Types/BP_EnemyGolem.uasset'
+[2026.01.24-18.36.43:969][282]LogFileHelpers: InternalPromptForCheckoutAndSave took 168.346 ms (total: 9.63 sec)
+[2026.01.24-18.36.44:044][282]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.24-18.36.44:044][282]LogContentValidation: Enabled validators:
+[2026.01.24-18.36.44:044][282]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-18.36.44:044][282]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-18.36.44:044][282]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-18.36.44:044][282]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-18.36.44:044][282]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-18.36.44:044][282]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-18.36.44:044][282]AssetCheck: /Game/_Project/03_characters/Enemies/Types/BP_EnemyGolem Validating asset
+[2026.01.24-18.36.45:401][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.01.24-18.36.45:847][375]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-18.36.45:947][375]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Project/03_characters/Enemies/Types/BP_EnemyMage] ([2] browsable assets)...
+[2026.01.24-18.36.45:979][375]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Project/03_characters/Enemies/Types/BP_EnemyMage.BP_EnemyMage]
+[2026.01.24-18.36.45:979][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/03_characters/Enemies/Types/BP_EnemyMage]
+[2026.01.24-18.36.45:992][375]LogSavePackage: Moving output files for package: /Game/_Project/03_characters/Enemies/Types/BP_EnemyMage
+[2026.01.24-18.36.45:993][375]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/BP_EnemyMage91BFD0334BF4C86FC2DCF099CF4DFE2A.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Content/_Project/03_characters/Enemies/Types/BP_EnemyMage.uasset'
+[2026.01.24-18.36.46:003][375]LogFileHelpers: InternalPromptForCheckoutAndSave took 156.548 ms (total: 9.78 sec)
+[2026.01.24-18.36.46:076][375]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.24-18.36.46:076][375]LogContentValidation: Enabled validators:
+[2026.01.24-18.36.46:076][375]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-18.36.46:076][375]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-18.36.46:076][375]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-18.36.46:076][375]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-18.36.46:076][375]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-18.36.46:076][375]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-18.36.46:076][375]AssetCheck: /Game/_Project/03_characters/Enemies/Types/BP_EnemyMage Validating asset
+[2026.01.24-18.38.07:687][317]LogPSOHitching: Encountered 950 PSO creation hitches so far (437 graphics, 513 compute). 0 of them were precached.
+[2026.01.24-18.38.30:086][548]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2026.01.24-18.38.30:990][548]LogSlate: Window 'Save Content' being destroyed
+[2026.01.24-18.38.31:023][548]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-18.38.31:096][548]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Project/03_characters/Enemies/Core/BP_EnemyBase] ([2] browsable assets)...
+[2026.01.24-18.38.31:096][548]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/03_characters/Enemies/Core/BP_EnemyBase]
+[2026.01.24-18.38.31:118][548]LogSavePackage: Moving output files for package: /Game/_Project/03_characters/Enemies/Core/BP_EnemyBase
+[2026.01.24-18.38.31:119][548]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Saved/BP_EnemyBaseD2E0E1B04E3B653010A670AE9414ADBF.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/UNREAL MY GAME/Unreal5_Game/BattleGame/Content/_Project/03_characters/Enemies/Core/BP_EnemyBase.uasset'
+[2026.01.24-18.38.31:132][548]LogFileHelpers: InternalPromptForCheckoutAndSave took 107.047 ms (total: 9.89 sec)
+[2026.01.24-18.38.31:214][548]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.24-18.38.31:214][548]LogContentValidation: Enabled validators:
+[2026.01.24-18.38.31:214][548]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-18.38.31:214][548]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-18.38.31:214][548]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-18.38.31:214][548]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-18.38.31:214][548]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-18.38.31:214][548]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-18.38.31:214][548]AssetCheck: /Game/_Project/03_characters/Enemies/Core/BP_EnemyBase Validating asset
+[2026.01.24-18.42.03:796][293]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11534.513672
+[2026.01.24-18.42.04:794][296]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.24-18.42.04:794][296]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11535.180664, Update Interval: 357.392487
+[2026.01.24-18.48.58:203][536]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11948.932617
+[2026.01.24-18.48.59:204][539]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.24-18.48.59:204][539]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11949.601562, Update Interval: 317.379059
