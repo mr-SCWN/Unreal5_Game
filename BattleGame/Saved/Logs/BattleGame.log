@@ -4874,3 +4874,1256 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.01.25-16.43.09:245][848]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.01.25-16.43.09:245][848]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.01.25-16.43.09:245][848]AssetCheck: /Game/_Project/01_Blueprints/Enemies/BP_EnemyBase Validating asset
+[2026.01.25-16.44.36:462][590]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/_Project/03_characters/Animation/Player/Paladin_dead.Paladin_dead
+[2026.01.25-16.44.36:463][590]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_78
+[2026.01.25-16.44.36:471][590]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_78:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.25-16.44.36:730][590]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_79
+[2026.01.25-16.44.37:386][591]LogPSOHitching: Encountered 1100 PSO creation hitches so far (443 graphics, 657 compute). 0 of them were precached.
+[2026.01.25-16.44.55:517][382]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.25-16.44.55:608][382]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Project/03_characters/Animation/Player/Paladin_dead] ([1] browsable assets)...
+[2026.01.25-16.44.55:619][382]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/_Project/03_characters/Animation/Player/Paladin_dead.Paladin_dead]
+[2026.01.25-16.44.55:619][382]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/03_characters/Animation/Player/Paladin_dead]
+[2026.01.25-16.44.55:629][382]LogSavePackage: Moving output files for package: /Game/_Project/03_characters/Animation/Player/Paladin_dead
+[2026.01.25-16.44.55:630][382]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/Paladin_deadFA88B625470A7F81AF6BD9874631D384.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Content/_Project/03_characters/Animation/Player/Paladin_dead.uasset'
+[2026.01.25-16.44.55:642][382]LogFileHelpers: InternalPromptForCheckoutAndSave took 125.994 ms (total: 5.32 sec)
+[2026.01.25-16.44.55:735][382]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.25-16.44.55:735][382]LogContentValidation: Enabled validators:
+[2026.01.25-16.44.55:735][382]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.25-16.44.55:735][382]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.25-16.44.55:735][382]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.25-16.44.55:735][382]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.25-16.44.55:735][382]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.25-16.44.55:735][382]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.25-16.44.55:735][382]AssetCheck: /Game/_Project/03_characters/Animation/Player/Paladin_dead Validating asset
+[2026.01.25-16.45.07:615][897]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.25-16.45.07:704][897]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Project/03_characters/Animation/Goblin/Goblin_death] ([1] browsable assets)...
+[2026.01.25-16.45.07:714][897]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/_Project/03_characters/Animation/Goblin/Goblin_death.Goblin_death]
+[2026.01.25-16.45.07:714][897]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/03_characters/Animation/Goblin/Goblin_death]
+[2026.01.25-16.45.07:724][897]LogSavePackage: Moving output files for package: /Game/_Project/03_characters/Animation/Goblin/Goblin_death
+[2026.01.25-16.45.07:724][897]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/Goblin_death8EFD48A744BE9233978B8F87FEB2784F.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Content/_Project/03_characters/Animation/Goblin/Goblin_death.uasset'
+[2026.01.25-16.45.07:738][897]LogFileHelpers: InternalPromptForCheckoutAndSave took 122.869 ms (total: 5.45 sec)
+[2026.01.25-16.45.07:831][897]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.25-16.45.07:831][897]LogContentValidation: Enabled validators:
+[2026.01.25-16.45.07:831][897]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.25-16.45.07:831][897]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.25-16.45.07:831][897]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.25-16.45.07:831][897]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.25-16.45.07:831][897]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.25-16.45.07:831][897]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.25-16.45.07:831][897]AssetCheck: /Game/_Project/03_characters/Animation/Goblin/Goblin_death Validating asset
+[2026.01.25-16.45.09:246][963]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.25-16.45.09:255][963]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.25-16.45.09:255][963]LogPlayLevel: Creating play world package: /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.25-16.45.09:300][963]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044744s)
+[2026.01.25-16.45.09:300][963]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Project/00_Maps/Map_Game.Map_Game to /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game (0.044836s)
+[2026.01.25-16.45.09:346][963]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.01.25-16.45.09:356][963]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Game
+[2026.01.25-16.45.09:357][963]LogPlayLevel: PIE: World Init took: (0.001674s)
+[2026.01.25-16.45.09:358][963]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2026.01.25-16.45.09:358][963]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.25-16.45.09:358][963]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.25-16.45.09:358][963]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.25-16.45.09:358][963]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.25-16.45.09:358][963]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.25-16.45.09:358][963]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.25-16.45.09:358][963]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.25-16.45.09:358][963]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.25-16.45.09:358][963]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.25-16.45.09:358][963]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.25-16.45.09:358][963]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.25-16.45.09:361][963]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.25-16.45.09:389][963]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2026.01.25-16.45.09:389][963]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.25-16.45.09:389][963]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.25-16.45.09:389][963]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.25-16.45.09:390][963]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2026.01.25-16.45.09:390][963]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=20
+[2026.01.25-16.45.09:391][963]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2026.01.25-16.45.09:391][963]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2026.01.25-16.45.09:391][963]LogInit: FAudioDevice initialized with ID 20.
+[2026.01.25-16.45.09:391][963]LogAudio: Display: Audio Device (ID: 20) registered with world 'Map_Game'.
+[2026.01.25-16.45.09:391][963]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2026.01.25-16.45.09:395][963]LogLoad: Game class is 'BP_GM_Game_C'
+[2026.01.25-16.45.09:398][963]LogWorld: Bringing World /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game up for play (max tick rate 60) at 2026.01.25-17.45.09
+[2026.01.25-16.45.09:398][963]LogWorld: Bringing up level for play took: 0.002457
+[2026.01.25-16.45.09:401][963]LogOnline: OSS: Created online subsystem instance for: :Context_99
+[2026.01.25-16.45.09:404][963]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.01.25-16.45.09:405][963]PIE: Server logged in
+[2026.01.25-16.45.09:407][963]PIE: Play in editor total start time 0,152 seconds.
+[2026.01.25-16.45.09:468][964]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.25-16.45.23:214][779]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2026.01.25-16.45.23:214][779]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.01.25-16.45.23:214][779]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2026.01.25-16.45.27:216][ 19]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2026.01.25-16.45.30:047][189]Cmd: quit
+[2026.01.25-16.45.30:048][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.25-16.45.30:048][189]LogWorld: BeginTearingDown for /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.25-16.45.30:048][189]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.01.25-16.45.30:083][189]LogWorld: UWorld::CleanupWorld for Map_Game, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-16.45.30:083][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-16.45.30:086][189]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.25-16.45.30:091][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-16.45.30:114][189]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.25-16.45.30:115][189]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2026.01.25-16.45.30:115][189]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=4
+[2026.01.25-16.45.30:117][189]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=2
+[2026.01.25-16.45.30:121][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.25-16.45.30:125][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.01.25-16.45.30:236][190]LogPlayLevel: Display: Destroying online subsystem :Context_99
+[2026.01.25-16.45.37:096][458]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.25-16.45.37:106][458]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.25-16.45.37:106][458]LogPlayLevel: Creating play world package: /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.25-16.45.37:149][458]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041811s)
+[2026.01.25-16.45.37:149][458]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Project/00_Maps/Map_Game.Map_Game to /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game (0.041856s)
+[2026.01.25-16.45.37:170][458]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.01.25-16.45.37:174][458]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Game
+[2026.01.25-16.45.37:176][458]LogPlayLevel: PIE: World Init took: (0.001756s)
+[2026.01.25-16.45.37:176][458]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2026.01.25-16.45.37:177][458]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.25-16.45.37:177][458]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.25-16.45.37:177][458]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.25-16.45.37:177][458]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.25-16.45.37:177][458]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.25-16.45.37:177][458]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.25-16.45.37:177][458]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.25-16.45.37:177][458]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.25-16.45.37:177][458]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.25-16.45.37:177][458]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.25-16.45.37:177][458]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.25-16.45.37:179][458]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.25-16.45.37:205][458]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2026.01.25-16.45.37:206][458]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.25-16.45.37:206][458]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.25-16.45.37:206][458]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.25-16.45.37:206][458]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2026.01.25-16.45.37:206][458]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=21
+[2026.01.25-16.45.37:208][458]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2026.01.25-16.45.37:208][458]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2026.01.25-16.45.37:208][458]LogInit: FAudioDevice initialized with ID 21.
+[2026.01.25-16.45.37:208][458]LogAudio: Display: Audio Device (ID: 21) registered with world 'Map_Game'.
+[2026.01.25-16.45.37:209][458]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2026.01.25-16.45.37:212][458]LogLoad: Game class is 'BP_GM_Game_C'
+[2026.01.25-16.45.37:214][458]LogWorld: Bringing World /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game up for play (max tick rate 60) at 2026.01.25-17.45.37
+[2026.01.25-16.45.37:215][458]LogWorld: Bringing up level for play took: 0.002337
+[2026.01.25-16.45.37:217][458]LogOnline: OSS: Created online subsystem instance for: :Context_100
+[2026.01.25-16.45.37:219][458]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.01.25-16.45.37:220][458]PIE: Server logged in
+[2026.01.25-16.45.37:223][458]PIE: Play in editor total start time 0,117 seconds.
+[2026.01.25-16.45.37:259][459]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.25-16.45.40:379][644]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] KillAll pressed
+[2026.01.25-16.45.40:379][644]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_0] Damage 1000.0
+[2026.01.25-16.45.40:379][644]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_1] Damage 1000.0
+[2026.01.25-16.45.40:379][644]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_2] Damage 1000.0
+[2026.01.25-16.45.40:379][644]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_3] Damage 1000.0
+[2026.01.25-16.45.40:379][644]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_4] Damage 1000.0
+[2026.01.25-16.45.40:379][644]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_5] Damage 1000.0
+[2026.01.25-16.45.44:743][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.25-16.45.44:743][903]LogWorld: BeginTearingDown for /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.25-16.45.44:743][903]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.01.25-16.45.44:744][903]LogWorld: UWorld::CleanupWorld for Map_Game, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-16.45.44:745][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-16.45.44:747][903]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.25-16.45.44:752][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-16.45.44:774][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.25-16.45.44:775][903]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2026.01.25-16.45.44:775][903]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21, StreamState=4
+[2026.01.25-16.45.44:777][903]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21, StreamState=2
+[2026.01.25-16.45.44:788][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.01.25-16.45.44:860][904]LogPlayLevel: Display: Destroying online subsystem :Context_100
+[2026.01.25-16.47.04:717][470]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4758.171387
+[2026.01.25-16.47.05:720][473]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.25-16.47.05:720][473]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4758.838867, Update Interval: 316.567902
+[2026.01.25-16.49.42:232][943]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.01.25-16.49.42:232][943]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.01.25-16.49.42:919][945]LogPSOHitching: Encountered 1150 PSO creation hitches so far (457 graphics, 693 compute). 0 of them were precached.
+[2026.01.25-16.49.43:306][945]LogPSOHitching: Encountered 1200 PSO creation hitches so far (462 graphics, 738 compute). 0 of them were precached.
+[2026.01.25-16.49.51:187][249]LogPSOHitching: Encountered 1250 PSO creation hitches so far (489 graphics, 761 compute). 0 of them were precached.
+[2026.01.25-16.50.07:894][805]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2026.01.25-16.50.07:908][805]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2026.01.25-16.50.07:924][805]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2026.01.25-16.50.07:980][807]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimBlueprint).
+[2026.01.25-16.50.11:079][930]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.01.25-16.50.11:079][930]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.01.25-16.50.16:764][181]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> ABP_Mage
+[2026.01.25-16.50.16:775][181]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2026.01.25-16.50.16:781][181]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_80
+[2026.01.25-16.50.18:838][267]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/_Project/03_characters/Animation/Mage/ABP_Mage.ABP_Mage
+[2026.01.25-16.50.18:839][267]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_81
+[2026.01.25-16.50.18:846][267]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_82
+[2026.01.25-16.50.18:854][267]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_82:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.25-16.50.19:149][267]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_83
+[2026.01.25-16.50.19:675][267]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_84
+[2026.01.25-16.50.26:180][482]LogWorld: UWorld::CleanupWorld for World_78, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-16.50.26:180][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-16.50.26:224][482]LogWorld: UWorld::CleanupWorld for World_79, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-16.50.26:224][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-16.50.26:280][482]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.01.25-16.51.09:760][149]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.01.25-16.51.09:767][149]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/_Project/00_Maps/Map_Game' took 0.029
+[2026.01.25-16.51.09:767][149]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Project/03_characters/Animation/Mage/ABP_Mage] ([2] browsable assets)...
+[2026.01.25-16.51.09:776][149]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/_Project/03_characters/Animation/Mage/ABP_Mage.ABP_Mage]
+[2026.01.25-16.51.09:776][149]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/03_characters/Animation/Mage/ABP_Mage]
+[2026.01.25-16.51.09:789][149]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Project/03_characters/Animation/Mage/ABP_Mage_Auto4
+[2026.01.25-16.51.09:789][149]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/ABP_Mage_Auto427E27D5949A04B9C5973EF8FDFFA21C5.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/Autosaves/Game/_Project/03_characters/Animation/Mage/ABP_Mage_Auto4.uasset'
+[2026.01.25-16.51.09:789][149]LogFileHelpers: Auto-saving content packages took 0.023
+[2026.01.25-16.53.07:237][700]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5120.711426
+[2026.01.25-16.53.07:446][708]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.25-16.53.07:446][708]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5120.893555, Update Interval: 302.785126
+[2026.01.25-16.59.02:157][486]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5475.638672
+[2026.01.25-16.59.02:361][494]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.25-16.59.02:361][494]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5475.816895, Update Interval: 326.225159
+[2026.01.25-17.05.19:883][104]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5853.375000
+[2026.01.25-17.05.20:094][112]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.25-17.05.20:094][112]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5853.560059, Update Interval: 325.357208
+[2026.01.25-17.08.58:487][174]LogHttp: Warning: 00000237F59CE700: request failed, libcurl error: 26 (Failed to open/read local data from file/application)
+[2026.01.25-17.08.58:487][174]LogHttp: Warning: 00000237F59CE700: libcurl info message cache 0 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2026.01.25-17.08.58:487][174]LogHttp: Warning: 00000237F59CE700: libcurl info message cache 1 (upload completely sent off: 441 bytes)
+[2026.01.25-17.08.58:487][174]LogHttp: Warning: 00000237F59CE700: libcurl info message cache 2 (TLSv1.3 (IN), TLS alert, close notify (256):)
+[2026.01.25-17.08.58:487][174]LogHttp: Warning: 00000237F59CE700: libcurl info message cache 3 (Connection died, retrying a fresh connect (retry count: 1))
+[2026.01.25-17.08.58:487][174]LogHttp: Warning: 00000237F59CE700: libcurl info message cache 4 (shutting down connection #1)
+[2026.01.25-17.08.58:487][174]LogHttp: Warning: 00000237F59CE700: libcurl info message cache 5 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2026.01.25-17.08.58:487][174]LogHttp: Warning: 00000237F59CE700: libcurl info message cache 6 (necessary data rewind was not possible)
+[2026.01.25-17.08.58:487][174]LogHttp: Warning: 00000237F59CE700: libcurl info message cache 7 (rewind of client reader 'cr-in' failed: 65)
+[2026.01.25-17.08.58:487][174]LogHttp: Warning: 00000237F59CE700: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8CFA0088-49CA-90A3-7204-0D8ED11620AD%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=25a8b2354dfe3f5e7cf5a0af20e17994%7C09ce619097e5402a90e347dd0e08787d%7Cebe360d7-1c6d-4cb5-ba5e-b550df4650a1&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2026.01.25-17.08.58:487][174]LogHttp: Warning: 00000237F59CE700: libcurl info message cache 9 (necessary data rewind was not possible)
+[2026.01.25-17.08.58:487][174]LogHttp: Warning: 00000237F59CE700: libcurl info message cache 10 (rewind of client reader 'cr-in' failed: 65)
+[2026.01.25-17.08.58:487][174]LogHttp: Warning: 00000237F59CE700: libcurl info message cache 11 (Host datarouter.ol.epicgames.com:443 was resolved.)
+[2026.01.25-17.08.58:487][174]LogHttp: Warning: 00000237F59CE700: libcurl info message cache 12 (IPv6: (none))
+[2026.01.25-17.08.58:487][174]LogHttp: Warning: 00000237F59CE700: libcurl info message cache 13 (IPv4: 3.93.112.186, 52.44.248.28, 54.156.120.85, 3.225.246.224, 34.198.1.249, 23.21.9.147, 34.194.204.81, 98.85.37.93)
+[2026.01.25-17.08.58:487][174]LogHttp: Warning: 00000237F59CE700: libcurl info message cache 14 (  Trying 3.93.112.186:443...)
+[2026.01.25-17.08.58:487][174]LogHttp: Warning: 00000237F59CE700: libcurl info message cache 15 (SSL reusing session)
+[2026.01.25-17.08.58:487][174]LogHttp: Warning: 00000237F59CE700: libcurl info message cache 16 (ALPN: curl offers http/1.1)
+[2026.01.25-17.08.58:487][174]LogHttp: Warning: 00000237F59CE700: libcurl info message cache 17 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2026.01.25-17.08.58:487][174]LogHttp: Warning: 00000237F59CE700: libcurl info message cache 18 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2026.01.25-17.08.58:487][174]LogHttp: Warning: 00000237F59CE700: libcurl info message cache 19 (TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):)
+[2026.01.25-17.08.58:487][174]LogHttp: Warning: 00000237F59CE700: libcurl info message cache 20 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2026.01.25-17.08.58:487][174]LogHttp: Warning: 00000237F59CE700: libcurl info message cache 21 (TLSv1.3 (IN), TLS handshake, CERT verify (15):)
+[2026.01.25-17.08.58:487][174]LogHttp: Warning: 00000237F59CE700: libcurl info message cache 22 (TLSv1.3 (IN), TLS handshake, Finished (20):)
+[2026.01.25-17.08.58:487][174]LogHttp: Warning: 00000237F59CE700: libcurl info message cache 23 (TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):)
+[2026.01.25-17.08.58:487][174]LogHttp: Warning: 00000237F59CE700: libcurl info message cache 24 (TLSv1.3 (OUT), TLS handshake, Finished (20):)
+[2026.01.25-17.08.58:487][174]LogHttp: Warning: 00000237F59CE700: libcurl info message cache 25 (SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256 / [blank] / UNDEF)
+[2026.01.25-17.08.58:487][174]LogHttp: Warning: 00000237F59CE700: libcurl info message cache 26 (ALPN: server accepted http/1.1)
+[2026.01.25-17.08.58:487][174]LogHttp: Warning: 00000237F59CE700: libcurl info message cache 27 (Server certificate:)
+[2026.01.25-17.08.58:487][174]LogHttp: Warning: 00000237F59CE700: libcurl info message cache 28 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2026.01.25-17.08.58:487][174]LogHttp: Warning: 00000237F59CE700: libcurl info message cache 29 ( start date: Jan  3 00:00:00 2026 GMT)
+[2026.01.25-17.08.58:487][174]LogHttp: Warning: 00000237F59CE700: libcurl info message cache 30 ( expire date: Feb  1 23:59:59 2027 GMT)
+[2026.01.25-17.08.58:487][174]LogHttp: Warning: 00000237F59CE700: libcurl info message cache 31 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2026.01.25-17.08.58:487][174]LogHttp: Warning: 00000237F59CE700: libcurl info message cache 32 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M04)
+[2026.01.25-17.08.58:487][174]LogHttp: Warning: 00000237F59CE700: libcurl info message cache 33 ( SSL certificate verify ok.)
+[2026.01.25-17.08.58:487][174]LogHttp: Warning: 00000237F59CE700: libcurl info message cache 34 (  Certificate level 0: Public key type ? (2048/112 Bits/secBits), signed using sha256WithRSAEncryption)
+[2026.01.25-17.08.58:487][174]LogHttp: Warning: 00000237F59CE700: libcurl info message cache 35 (  Certificate level 1: Public key type ? (2048/112 Bits/secBits), signed using sha256WithRSAEncryption)
+[2026.01.25-17.08.58:487][174]LogHttp: Warning: 00000237F59CE700: libcurl info message cache 36 (  Certificate level 2: Public key type ? (2048/112 Bits/secBits), signed using sha256WithRSAEncryption)
+[2026.01.25-17.08.58:487][174]LogHttp: Warning: 00000237F59CE700: libcurl info message cache 37 (Connected to datarouter.ol.epicgames.com (3.93.112.186) port 443)
+[2026.01.25-17.08.58:487][174]LogHttp: Warning: 00000237F59CE700: libcurl info message cache 38 (using HTTP/1.x)
+[2026.01.25-17.08.58:487][174]LogHttp: Warning: 00000237F59CE700: libcurl info message cache 39 (client read function EOF fail, only 0/441 of needed bytes read)
+[2026.01.25-17.08.58:487][174]LogHttp: Warning: 00000237F59CE700: libcurl info message cache 40 (closing connection #2)
+[2026.01.25-17.08.58:487][174]LogHttp: Warning: 00000237F59CE700 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8CFA0088-49CA-90A3-7204-0D8ED11620AD%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=25a8b2354dfe3f5e7cf5a0af20e17994%7C09ce619097e5402a90e347dd0e08787d%7Cebe360d7-1c6d-4cb5-ba5e-b550df4650a1&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'Other' after 11.33s
+[2026.01.25-17.11.43:520][670]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6237.008789
+[2026.01.25-17.11.44:523][672]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.25-17.11.44:523][672]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6237.675781, Update Interval: 338.900116
+[2026.01.25-17.12.36:694][274]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/_Project/03_characters/Enemies/03_Textures/Goblin/Creature_Pack/mutant_dying.mutant_dying
+[2026.01.25-17.12.36:783][274]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_85
+[2026.01.25-17.14.29:920][127]LogBlueprint: Warning: [AssetLog] /Game/_Project/03_characters/Animation/Mage/ABP_Mage.ABP_Mage: [Compiler] locomotion to death  will never be taken, please connect something to  Can Enter Transition
+[2026.01.25-17.14.29:920][127]LogBlueprint: Warning: [AssetLog] /Game/_Project/03_characters/Animation/Mage/ABP_Mage.ABP_Mage: [Compiler] locomotion to Attack  will never be taken, please connect something to  Can Enter Transition
+[2026.01.25-17.14.29:920][127]LogBlueprint: Warning: [AssetLog] /Game/_Project/03_characters/Animation/Mage/ABP_Mage.ABP_Mage: [Compiler] Attack to locomotion  will never be taken, please connect something to  Can Enter Transition
+[2026.01.25-17.14.29:983][127]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.01.25-17.14.31:208][166]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.25-17.14.31:247][166]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Project/03_characters/Animation/Mage/ABP_Mage] ([2] browsable assets)...
+[2026.01.25-17.14.31:255][166]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/_Project/03_characters/Animation/Mage/ABP_Mage.ABP_Mage]
+[2026.01.25-17.14.31:255][166]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/03_characters/Animation/Mage/ABP_Mage]
+[2026.01.25-17.14.31:273][166]LogSavePackage: Moving output files for package: /Game/_Project/03_characters/Animation/Mage/ABP_Mage
+[2026.01.25-17.14.31:273][166]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/ABP_Mage85B829D84631CA01C6C904B1C0478C19.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Content/_Project/03_characters/Animation/Mage/ABP_Mage.uasset'
+[2026.01.25-17.14.31:298][166]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.359 ms (total: 5.54 sec)
+[2026.01.25-17.14.31:344][166]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.25-17.14.31:344][166]LogContentValidation: Enabled validators:
+[2026.01.25-17.14.31:344][166]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.25-17.14.31:344][166]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.25-17.14.31:344][166]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.25-17.14.31:344][166]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.25-17.14.31:344][166]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.25-17.14.31:344][166]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.25-17.14.31:344][166]AssetCheck: /Game/_Project/03_characters/Animation/Mage/ABP_Mage Validating asset
+[2026.01.25-17.14.31:386][166]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.25-17.14.57:394][ 21]LogStreaming: Display: FlushAsyncLoading(621): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.25-17.14.57:405][ 21]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/_Project/03_characters/Enemies/03_Textures/Mage/Pro_Magic_Pack/Crouch_Idle.Crouch_Idle
+[2026.01.25-17.14.57:406][ 21]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_86
+[2026.01.25-17.14.57:427][ 21]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_86:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.25-17.14.57:691][ 21]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_87
+[2026.01.25-17.14.58:202][ 21]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_88
+[2026.01.25-17.15.00:342][ 71]LogPSOHitching: Encountered 1300 PSO creation hitches so far (512 graphics, 788 compute). 0 of them were precached.
+[2026.01.25-17.15.11:120][385]LogStreaming: Display: FlushAsyncLoading(622): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.25-17.15.11:187][385]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_89
+[2026.01.25-17.15.11:261][385]LogWorld: UWorld::CleanupWorld for World_88, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.15.11:261][385]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.15.11:336][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.01.25-17.15.18:817][600]LogStreaming: Display: FlushAsyncLoading(623): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.25-17.15.18:886][600]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_90
+[2026.01.25-17.15.18:955][600]LogWorld: UWorld::CleanupWorld for World_89, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.15.18:955][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.15.19:006][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.01.25-17.15.22:980][710]LogStreaming: Display: FlushAsyncLoading(624): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.25-17.15.23:047][710]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_91
+[2026.01.25-17.15.23:116][710]LogWorld: UWorld::CleanupWorld for World_90, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.15.23:116][710]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.15.23:164][711]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.01.25-17.15.24:390][746]LogStreaming: Display: FlushAsyncLoading(625): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.25-17.15.24:455][746]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_92
+[2026.01.25-17.15.24:524][746]LogWorld: UWorld::CleanupWorld for World_91, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.15.24:524][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.15.24:581][747]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.01.25-17.15.26:062][788]LogStreaming: Display: FlushAsyncLoading(626): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.25-17.15.26:129][788]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_93
+[2026.01.25-17.15.26:198][788]LogWorld: UWorld::CleanupWorld for World_92, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.15.26:198][788]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.15.26:248][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.01.25-17.15.30:760][923]LogStreaming: Display: FlushAsyncLoading(627): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.25-17.15.30:827][923]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_94
+[2026.01.25-17.15.30:895][923]LogWorld: UWorld::CleanupWorld for World_93, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.15.30:895][923]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.15.30:943][924]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.01.25-17.15.31:735][946]LogStreaming: Display: FlushAsyncLoading(628): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.25-17.15.31:805][946]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_95
+[2026.01.25-17.15.31:878][946]LogWorld: UWorld::CleanupWorld for World_94, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.15.31:878][946]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.15.31:933][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2026.01.25-17.15.32:736][967]LogStreaming: Display: FlushAsyncLoading(629): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.25-17.15.32:806][967]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_96
+[2026.01.25-17.15.32:873][967]LogWorld: UWorld::CleanupWorld for World_95, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.15.32:873][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.15.32:920][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.01.25-17.15.33:759][991]LogStreaming: Display: FlushAsyncLoading(630): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.25-17.15.33:826][991]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_97
+[2026.01.25-17.15.33:895][991]LogWorld: UWorld::CleanupWorld for World_96, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.15.33:895][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.15.33:945][992]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.01.25-17.15.34:593][  9]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_98
+[2026.01.25-17.15.34:659][  9]LogWorld: UWorld::CleanupWorld for World_97, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.15.34:659][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.15.34:711][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.01.25-17.15.37:673][ 99]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_99
+[2026.01.25-17.15.37:742][ 99]LogWorld: UWorld::CleanupWorld for World_98, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.15.37:742][ 99]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.15.37:793][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2026.01.25-17.15.40:236][174]LogStreaming: Display: FlushAsyncLoading(631): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.25-17.15.40:305][174]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_100
+[2026.01.25-17.15.40:374][174]LogWorld: UWorld::CleanupWorld for World_99, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.15.40:374][174]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.15.40:426][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.01.25-17.15.43:017][253]LogStreaming: Display: FlushAsyncLoading(632): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.25-17.15.43:083][253]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_101
+[2026.01.25-17.15.43:153][253]LogWorld: UWorld::CleanupWorld for World_100, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.15.43:153][253]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.15.43:206][254]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.01.25-17.15.46:319][346]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_102
+[2026.01.25-17.15.46:388][346]LogWorld: UWorld::CleanupWorld for World_101, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.15.46:388][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.15.46:436][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.01.25-17.15.47:152][365]LogStreaming: Display: FlushAsyncLoading(633): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.25-17.15.47:224][365]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_103
+[2026.01.25-17.15.47:294][365]LogWorld: UWorld::CleanupWorld for World_102, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.15.47:294][365]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.15.47:347][366]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.01.25-17.15.48:467][398]LogStreaming: Display: FlushAsyncLoading(634): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.25-17.15.48:533][398]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_104
+[2026.01.25-17.15.48:605][398]LogWorld: UWorld::CleanupWorld for World_103, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.15.48:605][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.15.48:659][399]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.01.25-17.15.49:872][430]LogStreaming: Display: FlushAsyncLoading(635): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.25-17.15.49:940][430]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_105
+[2026.01.25-17.15.50:009][430]LogWorld: UWorld::CleanupWorld for World_104, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.15.50:009][430]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.15.50:057][431]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.01.25-17.15.52:375][495]LogStreaming: Display: FlushAsyncLoading(636): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.25-17.15.52:442][495]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_106
+[2026.01.25-17.15.52:510][495]LogWorld: UWorld::CleanupWorld for World_105, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.15.52:510][495]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.15.52:560][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.01.25-17.15.55:615][588]LogStreaming: Display: FlushAsyncLoading(637): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.25-17.15.55:682][588]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_107
+[2026.01.25-17.15.55:754][588]LogWorld: UWorld::CleanupWorld for World_106, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.15.55:754][588]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.15.55:802][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.01.25-17.15.57:430][635]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_108
+[2026.01.25-17.15.57:503][635]LogWorld: UWorld::CleanupWorld for World_107, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.15.57:503][635]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.15.57:554][636]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.01.25-17.15.59:710][701]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_109
+[2026.01.25-17.15.59:779][701]LogWorld: UWorld::CleanupWorld for World_108, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.15.59:779][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.15.59:837][702]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.01.25-17.16.00:216][710]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_110
+[2026.01.25-17.16.00:284][710]LogWorld: UWorld::CleanupWorld for World_109, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.16.00:285][710]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.16.00:333][711]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.01.25-17.16.01:433][742]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_111
+[2026.01.25-17.16.01:502][742]LogWorld: UWorld::CleanupWorld for World_110, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.16.01:502][742]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.16.01:550][743]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.01.25-17.16.11:151][ 13]LogStreaming: Display: FlushAsyncLoading(638): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.25-17.16.11:218][ 13]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_112
+[2026.01.25-17.16.11:324][ 13]LogWorld: UWorld::CleanupWorld for World_111, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.16.11:324][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.16.11:377][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.01.25-17.16.11:893][ 28]LogStreaming: Display: FlushAsyncLoading(639): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.25-17.16.11:962][ 28]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_113
+[2026.01.25-17.16.12:030][ 28]LogWorld: UWorld::CleanupWorld for World_112, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.16.12:030][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.16.12:078][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.01.25-17.16.12:590][ 40]LogStreaming: Display: FlushAsyncLoading(640): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.25-17.16.12:670][ 40]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_114
+[2026.01.25-17.16.12:758][ 40]LogWorld: UWorld::CleanupWorld for World_113, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.16.12:759][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.16.12:819][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.01.25-17.16.17:855][188]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_115
+[2026.01.25-17.16.17:924][188]LogWorld: UWorld::CleanupWorld for World_114, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.16.17:924][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.16.17:972][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.01.25-17.16.20:547][267]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_116
+[2026.01.25-17.16.20:615][267]LogWorld: UWorld::CleanupWorld for World_115, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.16.20:615][267]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.16.20:663][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.01.25-17.16.26:327][443]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_117
+[2026.01.25-17.16.26:396][443]LogWorld: UWorld::CleanupWorld for World_116, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.16.26:396][443]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.16.26:449][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.01.25-17.16.31:707][607]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_118
+[2026.01.25-17.16.31:776][607]LogWorld: UWorld::CleanupWorld for World_117, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.16.31:776][607]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.16.31:826][608]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.01.25-17.16.34:767][696]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_119
+[2026.01.25-17.16.34:836][696]LogWorld: UWorld::CleanupWorld for World_118, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.16.34:836][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.16.34:882][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.01.25-17.16.39:818][842]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_120
+[2026.01.25-17.16.39:887][842]LogWorld: UWorld::CleanupWorld for World_119, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.16.39:887][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.16.39:938][843]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.01.25-17.16.42:624][922]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_121
+[2026.01.25-17.16.42:696][922]LogWorld: UWorld::CleanupWorld for World_120, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.16.42:696][922]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.16.42:746][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.01.25-17.16.43:943][957]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_122
+[2026.01.25-17.16.44:012][957]LogWorld: UWorld::CleanupWorld for World_121, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.16.44:012][957]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.16.44:063][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.01.25-17.17.25:320][ 37]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Goblin_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Goblin_C_187
+	Function /Game/_Project/03_characters/Animation/Goblin/ABP_Goblin.ABP_Goblin_C:ExecuteUbergraph_ABP_Goblin:0040
+[2026.01.25-17.17.25:352][ 38]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Goblin_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Goblin_C_188
+	Function /Game/_Project/03_characters/Animation/Goblin/ABP_Goblin.ABP_Goblin_C:ExecuteUbergraph_ABP_Goblin:0040
+[2026.01.25-17.17.25:402][ 39]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Goblin_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Goblin_C_189
+	Function /Game/_Project/03_characters/Animation/Goblin/ABP_Goblin.ABP_Goblin_C:ExecuteUbergraph_ABP_Goblin:0040
+[2026.01.25-17.17.25:452][ 40]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Goblin_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Goblin_C_190
+	Function /Game/_Project/03_characters/Animation/Goblin/ABP_Goblin.ABP_Goblin_C:ExecuteUbergraph_ABP_Goblin:0040
+[2026.01.25-17.17.25:503][ 41]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Goblin_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Goblin_C_191
+	Function /Game/_Project/03_characters/Animation/Goblin/ABP_Goblin.ABP_Goblin_C:ExecuteUbergraph_ABP_Goblin:0040
+[2026.01.25-17.17.25:556][ 42]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Goblin_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Goblin_C_192
+	Function /Game/_Project/03_characters/Animation/Goblin/ABP_Goblin.ABP_Goblin_C:ExecuteUbergraph_ABP_Goblin:0040
+[2026.01.25-17.17.25:588][ 43]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Goblin_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Goblin_C_193
+	Function /Game/_Project/03_characters/Animation/Goblin/ABP_Goblin.ABP_Goblin_C:ExecuteUbergraph_ABP_Goblin:0040
+[2026.01.25-17.17.25:623][ 44]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Goblin_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Goblin_C_194
+	Function /Game/_Project/03_characters/Animation/Goblin/ABP_Goblin.ABP_Goblin_C:ExecuteUbergraph_ABP_Goblin:0040
+[2026.01.25-17.17.25:656][ 45]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Goblin_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Goblin_C_195
+	Function /Game/_Project/03_characters/Animation/Goblin/ABP_Goblin.ABP_Goblin_C:ExecuteUbergraph_ABP_Goblin:0040
+[2026.01.25-17.17.25:692][ 46]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Goblin_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Goblin_C_196
+	Function /Game/_Project/03_characters/Animation/Goblin/ABP_Goblin.ABP_Goblin_C:ExecuteUbergraph_ABP_Goblin:0040
+[2026.01.25-17.17.25:726][ 47]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Goblin_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Goblin_C_197
+	Function /Game/_Project/03_characters/Animation/Goblin/ABP_Goblin.ABP_Goblin_C:ExecuteUbergraph_ABP_Goblin:0040
+[2026.01.25-17.17.25:758][ 48]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Goblin_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Goblin_C_198
+	Function /Game/_Project/03_characters/Animation/Goblin/ABP_Goblin.ABP_Goblin_C:ExecuteUbergraph_ABP_Goblin:0040
+[2026.01.25-17.17.25:792][ 49]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Goblin_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Goblin_C_199
+	Function /Game/_Project/03_characters/Animation/Goblin/ABP_Goblin.ABP_Goblin_C:ExecuteUbergraph_ABP_Goblin:0040
+[2026.01.25-17.17.25:827][ 50]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Goblin_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Goblin_C_200
+	Function /Game/_Project/03_characters/Animation/Goblin/ABP_Goblin.ABP_Goblin_C:ExecuteUbergraph_ABP_Goblin:0040
+[2026.01.25-17.17.39:621][244]LogSlate: Window 'Pick Skeleton' being destroyed
+[2026.01.25-17.17.39:630][244]LogContentBrowser: Deferred new asset file creation: NewAnimMontage
+[2026.01.25-17.17.39:653][244]LogContentBrowser: Creating deferred item: NewAnimMontage
+[2026.01.25-17.17.39:656][244]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 18414092516842294351
+[2026.01.25-17.17.39:656][244]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2026.01.25-17.17.39:657][244]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.17.39:750][245]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimMontage).
+[2026.01.25-17.17.45:558][441]LogContentBrowser: Attempting asset rename: NewAnimMontage -> Mage_death
+[2026.01.25-17.17.45:594][441]LogContentBrowser: End creating deferred item NewAnimMontage
+[2026.01.25-17.17.52:385][570]LogSlate: Window 'Pick Skeleton' being destroyed
+[2026.01.25-17.17.52:394][570]LogContentBrowser: Deferred new asset file creation: NewAnimMontage
+[2026.01.25-17.17.52:416][570]LogContentBrowser: Creating deferred item: NewAnimMontage
+[2026.01.25-17.17.52:456][571]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimMontage).
+[2026.01.25-17.17.52:463][572]LogContentBrowser: Attempting asset rename: NewAnimMontage -> NewAnimMontage
+[2026.01.25-17.17.52:500][572]LogContentBrowser: End creating deferred item NewAnimMontage
+[2026.01.25-17.18.01:259][865]LogContentBrowser: Attempting asset rename: NewAnimMontage -> Mage_punch
+[2026.01.25-17.18.01:333][865]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.25-17.18.01:333][865]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Project/03_characters/Animation/Mage/Mage_punch] ([1] browsable assets)...
+[2026.01.25-17.18.01:344][865]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/_Project/03_characters/Animation/Mage/Mage_punch.Mage_punch]
+[2026.01.25-17.18.01:344][865]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/03_characters/Animation/Mage/Mage_punch]
+[2026.01.25-17.18.01:354][865]LogSavePackage: Moving output files for package: /Game/_Project/03_characters/Animation/Mage/Mage_punch
+[2026.01.25-17.18.01:354][865]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/Mage_punchA57520444FCBA30C90B3EBBF0C4B3265.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Content/_Project/03_characters/Animation/Mage/Mage_punch.uasset'
+[2026.01.25-17.18.01:387][865]LogFileHelpers: InternalPromptForCheckoutAndSave took 53.669 ms (total: 5.59 sec)
+[2026.01.25-17.18.01:460][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.01.25-17.18.01:492][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.01.25-17.18.01:520][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.01.25-17.18.01:572][865]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.25-17.18.01:572][865]LogContentValidation: Enabled validators:
+[2026.01.25-17.18.01:572][865]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.25-17.18.01:572][865]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.25-17.18.01:572][865]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.25-17.18.01:572][865]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.25-17.18.01:572][865]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.25-17.18.01:572][865]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.25-17.18.01:572][865]AssetCheck: /Game/_Project/03_characters/Animation/Mage/Mage_punch Validating asset
+[2026.01.25-17.18.01:632][865]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.25-17.18.08:276][ 93]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6621.775879
+[2026.01.25-17.18.08:508][101]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.25-17.18.08:508][101]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6621.977539, Update Interval: 302.629486
+[2026.01.25-17.18.25:880][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.01.25-17.18.25:884][685]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/_Project/00_Maps/Map_Game' took 0.026
+[2026.01.25-17.18.25:884][685]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Project/03_characters/Animation/Mage/Mage_death] ([1] browsable assets)...
+[2026.01.25-17.18.25:895][685]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/_Project/03_characters/Animation/Mage/Mage_death.Mage_death]
+[2026.01.25-17.18.25:895][685]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/03_characters/Animation/Mage/Mage_death]
+[2026.01.25-17.18.25:906][685]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Project/03_characters/Animation/Mage/Mage_death_Auto5
+[2026.01.25-17.18.25:906][685]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/Mage_death_Auto56548338A4AB0D14350E7C28472993363.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/Autosaves/Game/_Project/03_characters/Animation/Mage/Mage_death_Auto5.uasset'
+[2026.01.25-17.18.25:906][685]LogFileHelpers: Auto-saving content packages took 0.023
+[2026.01.25-17.18.36:288][ 16]LogWorld: UWorld::CleanupWorld for World_122, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.18.36:288][ 16]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.18.36:336][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.01.25-17.18.43:635][239]LogStreaming: Display: FlushAsyncLoading(641): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.25-17.18.43:707][239]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_123
+[2026.01.25-17.18.44:427][256]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_124
+[2026.01.25-17.18.44:494][256]LogWorld: UWorld::CleanupWorld for World_123, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.18.44:494][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.18.44:540][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.01.25-17.18.44:986][269]LogStreaming: Display: FlushAsyncLoading(642): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.25-17.18.45:053][269]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_125
+[2026.01.25-17.18.45:120][269]LogWorld: UWorld::CleanupWorld for World_124, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.18.45:120][269]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.18.45:167][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.01.25-17.18.46:150][296]LogStreaming: Display: FlushAsyncLoading(643): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.25-17.18.46:217][296]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_126
+[2026.01.25-17.18.46:286][296]LogWorld: UWorld::CleanupWorld for World_125, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.18.46:286][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.18.46:336][297]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.01.25-17.18.46:914][314]LogStreaming: Display: FlushAsyncLoading(644): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.25-17.18.46:981][314]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_127
+[2026.01.25-17.18.47:046][314]LogWorld: UWorld::CleanupWorld for World_126, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.18.47:046][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.18.47:096][315]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.01.25-17.18.47:982][340]LogStreaming: Display: FlushAsyncLoading(645): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.25-17.18.48:053][340]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_128
+[2026.01.25-17.18.48:137][340]LogWorld: UWorld::CleanupWorld for World_127, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.18.48:137][340]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.18.48:191][341]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.01.25-17.18.50:723][417]LogStreaming: Display: FlushAsyncLoading(646): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.25-17.18.50:790][417]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_129
+[2026.01.25-17.18.50:858][417]LogWorld: UWorld::CleanupWorld for World_128, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.18.50:858][417]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.18.50:904][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.01.25-17.19.00:794][720]LogWorld: UWorld::CleanupWorld for World_129, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.19.00:794][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.19.00:839][721]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.01.25-17.19.17:592][271]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.25-17.19.17:628][271]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Project/03_characters/Animation/Mage/Mage_punch] ([1] browsable assets)...
+[2026.01.25-17.19.17:639][271]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/_Project/03_characters/Animation/Mage/Mage_punch.Mage_punch]
+[2026.01.25-17.19.17:639][271]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/03_characters/Animation/Mage/Mage_punch]
+[2026.01.25-17.19.17:650][271]LogSavePackage: Moving output files for package: /Game/_Project/03_characters/Animation/Mage/Mage_punch
+[2026.01.25-17.19.17:650][271]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/Mage_punch0E8A37FA43C7EDD936C0E6B431EE2571.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Content/_Project/03_characters/Animation/Mage/Mage_punch.uasset'
+[2026.01.25-17.19.17:666][271]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.635 ms (total: 5.67 sec)
+[2026.01.25-17.19.17:707][271]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.25-17.19.17:707][271]LogContentValidation: Enabled validators:
+[2026.01.25-17.19.17:708][271]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.25-17.19.17:708][271]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.25-17.19.17:708][271]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.25-17.19.17:708][271]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.25-17.19.17:708][271]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.25-17.19.17:708][271]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.25-17.19.17:708][271]AssetCheck: /Game/_Project/03_characters/Animation/Mage/Mage_punch Validating asset
+[2026.01.25-17.19.36:015][824]LogStreaming: Display: FlushAsyncLoading(647): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.25-17.19.44:255][ 98]LogStreaming: Display: FlushAsyncLoading(648): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.25-17.19.45:483][135]LogStreaming: Display: FlushAsyncLoading(649): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.25-17.19.53:284][401]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_130
+[2026.01.25-17.19.54:396][434]LogWorld: UWorld::CleanupWorld for World_130, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.19.54:396][434]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.19.54:493][435]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.01.25-17.20.05:108][807]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.25-17.20.05:148][807]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Project/03_characters/Animation/Mage/Mage_death] ([1] browsable assets)...
+[2026.01.25-17.20.05:159][807]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/_Project/03_characters/Animation/Mage/Mage_death.Mage_death]
+[2026.01.25-17.20.05:159][807]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/03_characters/Animation/Mage/Mage_death]
+[2026.01.25-17.20.05:168][807]LogSavePackage: Moving output files for package: /Game/_Project/03_characters/Animation/Mage/Mage_death
+[2026.01.25-17.20.05:169][807]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/Mage_deathD9483B6C47640E1FA61442A81CD1CF3A.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Content/_Project/03_characters/Animation/Mage/Mage_death.uasset'
+[2026.01.25-17.20.05:220][807]LogFileHelpers: InternalPromptForCheckoutAndSave took 112.809 ms (total: 5.78 sec)
+[2026.01.25-17.20.05:242][807]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.25-17.20.05:242][807]LogContentValidation: Enabled validators:
+[2026.01.25-17.20.05:242][807]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.25-17.20.05:243][807]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.25-17.20.05:243][807]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.25-17.20.05:243][807]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.25-17.20.05:243][807]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.25-17.20.05:243][807]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.25-17.20.05:243][807]AssetCheck: /Game/_Project/03_characters/Animation/Mage/Mage_death Validating asset
+[2026.01.25-17.20.05:286][807]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.25-17.20.14:802][108]LogStreaming: Display: FlushAsyncLoading(650): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.25-17.20.14:880][108]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_131
+[2026.01.25-17.20.22:173][333]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_132
+[2026.01.25-17.20.22:242][333]LogWorld: UWorld::CleanupWorld for World_131, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.20.22:242][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.20.22:292][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.01.25-17.20.56:807][448]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.25-17.20.56:845][448]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Project/03_characters/Enemies/03_Textures/Mage/Pro_Magic_Pack/Standing_Jump_Running] ([1] browsable assets)...
+[2026.01.25-17.20.56:857][448]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/_Project/03_characters/Enemies/03_Textures/Mage/Pro_Magic_Pack/Standing_Jump_Running.Standing_Jump_Running]
+[2026.01.25-17.20.56:857][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/03_characters/Enemies/03_Textures/Mage/Pro_Magic_Pack/Standing_Jump_Running]
+[2026.01.25-17.20.56:872][448]LogSavePackage: Moving output files for package: /Game/_Project/03_characters/Enemies/03_Textures/Mage/Pro_Magic_Pack/Standing_Jump_Running
+[2026.01.25-17.20.56:872][448]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/Standing_Jump_Running5CC00FE746F9D9EC1C7B1BA154A63A36.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Content/_Project/03_characters/Enemies/03_Textures/Mage/Pro_Magic_Pack/Standing_Jump_Running.uasset'
+[2026.01.25-17.20.56:887][448]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.027 ms (total: 5.86 sec)
+[2026.01.25-17.20.56:922][448]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.25-17.20.56:922][448]LogContentValidation: Enabled validators:
+[2026.01.25-17.20.56:922][448]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.25-17.20.56:922][448]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.25-17.20.56:922][448]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.25-17.20.56:922][448]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.25-17.20.56:922][448]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.25-17.20.56:922][448]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.25-17.20.56:922][448]AssetCheck: /Game/_Project/03_characters/Enemies/03_Textures/Mage/Pro_Magic_Pack/Standing_Jump_Running Validating asset
+[2026.01.25-17.20.56:962][448]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.25-17.21.00:343][554]LogStreaming: Display: FlushAsyncLoading(651): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.25-17.21.00:411][554]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_133
+[2026.01.25-17.21.00:479][554]LogWorld: UWorld::CleanupWorld for World_132, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.21.00:479][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.21.00:527][555]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.01.25-17.21.05:921][715]LogStreaming: Display: FlushAsyncLoading(652): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.25-17.21.05:990][715]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_134
+[2026.01.25-17.21.06:061][715]LogWorld: UWorld::CleanupWorld for World_133, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.21.06:061][715]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.21.06:106][716]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.01.25-17.21.15:414][ 20]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.25-17.21.15:456][ 20]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Project/03_characters/Enemies/03_Textures/Mage/Pro_Magic_Pack/Standing_Sprint_Forward] ([1] browsable assets)...
+[2026.01.25-17.21.15:466][ 20]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/_Project/03_characters/Enemies/03_Textures/Mage/Pro_Magic_Pack/Standing_Sprint_Forward.Standing_Sprint_Forward]
+[2026.01.25-17.21.15:466][ 20]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/03_characters/Enemies/03_Textures/Mage/Pro_Magic_Pack/Standing_Sprint_Forward]
+[2026.01.25-17.21.15:482][ 20]LogSavePackage: Moving output files for package: /Game/_Project/03_characters/Enemies/03_Textures/Mage/Pro_Magic_Pack/Standing_Sprint_Forward
+[2026.01.25-17.21.15:482][ 20]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/Standing_Sprint_Forward118E8DD94548E7C87920BE8FA72BFE1B.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Content/_Project/03_characters/Enemies/03_Textures/Mage/Pro_Magic_Pack/Standing_Sprint_Forward.uasset'
+[2026.01.25-17.21.15:497][ 20]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.629 ms (total: 5.94 sec)
+[2026.01.25-17.21.15:533][ 20]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.25-17.21.15:533][ 20]LogContentValidation: Enabled validators:
+[2026.01.25-17.21.15:533][ 20]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.25-17.21.15:533][ 20]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.25-17.21.15:533][ 20]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.25-17.21.15:533][ 20]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.25-17.21.15:533][ 20]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.25-17.21.15:533][ 20]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.25-17.21.15:533][ 20]AssetCheck: /Game/_Project/03_characters/Enemies/03_Textures/Mage/Pro_Magic_Pack/Standing_Sprint_Forward Validating asset
+[2026.01.25-17.21.15:576][ 20]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.25-17.21.19:124][127]LogStreaming: Display: FlushAsyncLoading(653): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.25-17.21.19:191][127]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_135
+[2026.01.25-17.21.19:260][127]LogWorld: UWorld::CleanupWorld for World_134, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.21.19:260][127]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.21.19:307][128]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.01.25-17.21.24:089][279]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.25-17.21.24:128][279]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Project/03_characters/Enemies/03_Textures/Mage/Pro_Magic_Pack/Standing_Walk_Forward] ([1] browsable assets)...
+[2026.01.25-17.21.24:140][279]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/_Project/03_characters/Enemies/03_Textures/Mage/Pro_Magic_Pack/Standing_Walk_Forward.Standing_Walk_Forward]
+[2026.01.25-17.21.24:140][279]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/03_characters/Enemies/03_Textures/Mage/Pro_Magic_Pack/Standing_Walk_Forward]
+[2026.01.25-17.21.24:155][279]LogSavePackage: Moving output files for package: /Game/_Project/03_characters/Enemies/03_Textures/Mage/Pro_Magic_Pack/Standing_Walk_Forward
+[2026.01.25-17.21.24:156][279]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/Standing_Walk_ForwardFAB460204CEB7701104644B766B357D3.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Content/_Project/03_characters/Enemies/03_Textures/Mage/Pro_Magic_Pack/Standing_Walk_Forward.uasset'
+[2026.01.25-17.21.24:171][279]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.397 ms (total: 6.02 sec)
+[2026.01.25-17.21.24:212][279]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.25-17.21.24:212][279]LogContentValidation: Enabled validators:
+[2026.01.25-17.21.24:212][279]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.25-17.21.24:212][279]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.25-17.21.24:212][279]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.25-17.21.24:212][279]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.25-17.21.24:212][279]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.25-17.21.24:212][279]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.25-17.21.24:212][279]AssetCheck: /Game/_Project/03_characters/Enemies/03_Textures/Mage/Pro_Magic_Pack/Standing_Walk_Forward Validating asset
+[2026.01.25-17.21.24:254][279]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.25-17.21.47:080][ 33]LogStreaming: Display: FlushAsyncLoading(654): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.25-17.21.47:157][ 33]LogInterchangeEngine: [Pending] Importing
+[2026.01.25-17.21.47:158][ 33]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/2004i/Downloads/Pro Magic Pack/Standing Walk Forward.fbx]
+[2026.01.25-17.21.47:424][ 35]LogInterchangeCore: Warning: The Interchange.MaxAssetPathLength value (160) is too high for the current setup.
+Content path: 'C:/Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Content/'
+System max path length: 260.
+
+[2026.01.25-17.21.47:692][ 38]LogInterchangeEngine: Display: Interchange import completed [C:/Users/2004i/Downloads/Pro Magic Pack/Standing Walk Forward.fbx]
+[2026.01.25-17.21.47:694][ 38]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.01.25-17.21.47:694][ 38]LogInterchangeEngine: [Success] Import Done
+[2026.01.25-17.21.52:373][184]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.25-17.21.52:410][184]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Project/03_characters/Enemies/03_Textures/Mage/Pro_Magic_Pack/Standing_Walk_Forward] ([1] browsable assets)...
+[2026.01.25-17.21.52:420][184]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/_Project/03_characters/Enemies/03_Textures/Mage/Pro_Magic_Pack/Standing_Walk_Forward.Standing_Walk_Forward]
+[2026.01.25-17.21.52:420][184]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/03_characters/Enemies/03_Textures/Mage/Pro_Magic_Pack/Standing_Walk_Forward]
+[2026.01.25-17.21.52:436][184]LogSavePackage: Moving output files for package: /Game/_Project/03_characters/Enemies/03_Textures/Mage/Pro_Magic_Pack/Standing_Walk_Forward
+[2026.01.25-17.21.52:436][184]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/Standing_Walk_Forward63EF5A79493B945BF047A69342D7232C.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Content/_Project/03_characters/Enemies/03_Textures/Mage/Pro_Magic_Pack/Standing_Walk_Forward.uasset'
+[2026.01.25-17.21.52:451][184]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.640 ms (total: 6.10 sec)
+[2026.01.25-17.21.52:475][184]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.25-17.21.52:475][184]LogContentValidation: Enabled validators:
+[2026.01.25-17.21.52:475][184]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.25-17.21.52:475][184]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.25-17.21.52:475][184]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.25-17.21.52:475][184]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.25-17.21.52:475][184]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.25-17.21.52:475][184]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.25-17.21.52:475][184]AssetCheck: /Game/_Project/03_characters/Enemies/03_Textures/Mage/Pro_Magic_Pack/Standing_Walk_Forward Validating asset
+[2026.01.25-17.22.19:123][998]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/_Project/03_characters/Animation/Mage/Mage_death.Mage_death
+[2026.01.25-17.22.19:242][998]LogWorld: UWorld::CleanupWorld for World_135, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.22.19:242][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.22.19:333][999]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2026.01.25-17.22.44:208][719]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/_Project/03_characters/Animation/Mage/Mage_punch.Mage_punch
+[2026.01.25-17.22.58:878][135]LogBlueprint: Warning: [AssetLog] C:\Users\2004i\Desktop\studia - GiTI PP\semestr 2\Programowanie Gier\Unreal5_Game\BattleGame\Content\_Project\03_characters\Animation\Mage\ABP_Mage.uasset: [Compiler] locomotion to Attack  will never be taken, please connect something to  Can Enter Transition
+[2026.01.25-17.22.58:878][135]LogBlueprint: Warning: [AssetLog] C:\Users\2004i\Desktop\studia - GiTI PP\semestr 2\Programowanie Gier\Unreal5_Game\BattleGame\Content\_Project\03_characters\Animation\Mage\ABP_Mage.uasset: [Compiler] Attack to locomotion  will never be taken, please connect something to  Can Enter Transition
+[2026.01.25-17.22.58:936][135]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2026.01.25-17.23.16:447][640]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.01.25-17.23.53:145][738]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6966.632812
+[2026.01.25-17.23.53:312][744]LogStreaming: Display: FlushAsyncLoading(673): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.25-17.23.53:464][745]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.25-17.23.53:464][745]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6966.904785, Update Interval: 319.246796
+[2026.01.25-17.24.01:787][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.01.25-17.24.19:718][507]LogStreaming: Display: FlushAsyncLoading(674): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.25-17.25.25:749][459]LogSlate: Window 'Create New Animation Object' being destroyed
+[2026.01.25-17.27.05:793][441]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Project/01_Blueprints/Enemies/BP_Enemy_Mage.BP_Enemy_Mage
+[2026.01.25-17.27.05:794][441]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_136
+[2026.01.25-17.27.06:580][445]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Goblin_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Goblin_C_201
+	Function /Game/_Project/03_characters/Animation/Goblin/ABP_Goblin.ABP_Goblin_C:ExecuteUbergraph_ABP_Goblin:0040
+[2026.01.25-17.27.11:629][589]LogWorld: UWorld::CleanupWorld for World_136, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.27.11:629][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.27.11:652][589]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Project/01_Blueprints/Enemies/BP_Enemy_Mage.BP_Enemy_Mage
+[2026.01.25-17.27.11:652][589]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_137
+[2026.01.25-17.27.12:240][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.01.25-17.28.19:973][969]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2026.01.25-17.28.20:735][987]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.25-17.28.20:774][987]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Project/01_Blueprints/Enemies/BP_Enemy_Mage] ([2] browsable assets)...
+[2026.01.25-17.28.20:781][987]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Project/01_Blueprints/Enemies/BP_Enemy_Mage.BP_Enemy_Mage]
+[2026.01.25-17.28.20:781][987]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/01_Blueprints/Enemies/BP_Enemy_Mage]
+[2026.01.25-17.28.20:793][987]LogSavePackage: Moving output files for package: /Game/_Project/01_Blueprints/Enemies/BP_Enemy_Mage
+[2026.01.25-17.28.20:794][987]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/BP_Enemy_MageFC84C2E24E353DB158CA5C88FC200A1D.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Content/_Project/01_Blueprints/Enemies/BP_Enemy_Mage.uasset'
+[2026.01.25-17.28.20:808][987]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.951 ms (total: 6.17 sec)
+[2026.01.25-17.28.20:837][987]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.25-17.28.20:837][987]LogContentValidation: Enabled validators:
+[2026.01.25-17.28.20:837][987]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.25-17.28.20:837][987]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.25-17.28.20:837][987]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.25-17.28.20:837][987]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.25-17.28.20:837][987]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.25-17.28.20:837][987]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.25-17.28.20:837][987]AssetCheck: /Game/_Project/01_Blueprints/Enemies/BP_Enemy_Mage Validating asset
+[2026.01.25-17.28.20:881][987]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.25-17.29.09:433][557]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.01.25-17.29.10:130][572]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.25-17.29.10:173][572]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Project/01_Blueprints/Enemies/BP_Enemy_Mage] ([2] browsable assets)...
+[2026.01.25-17.29.10:180][572]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Project/01_Blueprints/Enemies/BP_Enemy_Mage.BP_Enemy_Mage]
+[2026.01.25-17.29.10:180][572]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/01_Blueprints/Enemies/BP_Enemy_Mage]
+[2026.01.25-17.29.10:193][572]LogSavePackage: Moving output files for package: /Game/_Project/01_Blueprints/Enemies/BP_Enemy_Mage
+[2026.01.25-17.29.10:193][572]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/BP_Enemy_Mage6B20781D4CE0627E85C77781A1FBAFAF.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Content/_Project/01_Blueprints/Enemies/BP_Enemy_Mage.uasset'
+[2026.01.25-17.29.10:208][572]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.154 ms (total: 6.25 sec)
+[2026.01.25-17.29.10:237][572]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.25-17.29.10:237][572]LogContentValidation: Enabled validators:
+[2026.01.25-17.29.10:237][572]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.25-17.29.10:237][572]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.25-17.29.10:237][572]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.25-17.29.10:237][572]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.25-17.29.10:237][572]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.25-17.29.10:238][572]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.25-17.29.10:238][572]AssetCheck: /Game/_Project/01_Blueprints/Enemies/BP_Enemy_Mage Validating asset
+[2026.01.25-17.29.13:247][679]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.25-17.29.13:256][679]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.25-17.29.13:256][679]LogPlayLevel: Creating play world package: /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.25-17.29.13:301][679]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044555s)
+[2026.01.25-17.29.13:301][679]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Project/00_Maps/Map_Game.Map_Game to /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game (0.044620s)
+[2026.01.25-17.29.13:325][679]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.01.25-17.29.13:329][679]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Game
+[2026.01.25-17.29.13:330][679]LogPlayLevel: PIE: World Init took: (0.001798s)
+[2026.01.25-17.29.13:332][679]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2026.01.25-17.29.13:332][679]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.25-17.29.13:332][679]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.25-17.29.13:332][679]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.25-17.29.13:332][679]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.25-17.29.13:332][679]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.25-17.29.13:332][679]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.25-17.29.13:332][679]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.25-17.29.13:332][679]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.25-17.29.13:332][679]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.25-17.29.13:332][679]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.25-17.29.13:332][679]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.25-17.29.13:334][679]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.25-17.29.13:363][679]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2026.01.25-17.29.13:363][679]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.25-17.29.13:363][679]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.25-17.29.13:363][679]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.25-17.29.13:364][679]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2026.01.25-17.29.13:364][679]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=22
+[2026.01.25-17.29.13:366][679]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2026.01.25-17.29.13:366][679]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2026.01.25-17.29.13:366][679]LogInit: FAudioDevice initialized with ID 22.
+[2026.01.25-17.29.13:366][679]LogAudio: Display: Audio Device (ID: 22) registered with world 'Map_Game'.
+[2026.01.25-17.29.13:366][679]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2026.01.25-17.29.13:370][679]LogLoad: Game class is 'BP_GM_Game_C'
+[2026.01.25-17.29.13:372][679]LogWorld: Bringing World /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game up for play (max tick rate 60) at 2026.01.25-18.29.13
+[2026.01.25-17.29.13:372][679]LogWorld: Bringing up level for play took: 0.002161
+[2026.01.25-17.29.13:374][679]LogOnline: OSS: Created online subsystem instance for: :Context_159
+[2026.01.25-17.29.13:377][679]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.01.25-17.29.13:378][679]PIE: Server logged in
+[2026.01.25-17.29.13:380][679]PIE: Play in editor total start time 0,125 seconds.
+[2026.01.25-17.29.13:420][680]LogPSOHitching: Encountered 1350 PSO creation hitches so far (548 graphics, 802 compute). 0 of them were precached.
+[2026.01.25-17.29.13:450][680]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.25-17.29.18:318][938]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] KillAll pressed
+[2026.01.25-17.29.18:318][938]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_0] Damage 1000.0
+[2026.01.25-17.29.18:318][938]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_1] Damage 1000.0
+[2026.01.25-17.29.18:318][938]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_2] Damage 1000.0
+[2026.01.25-17.29.18:318][938]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_3] Damage 1000.0
+[2026.01.25-17.29.18:318][938]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_4] Damage 1000.0
+[2026.01.25-17.29.18:319][938]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_5] Damage 1000.0
+[2026.01.25-17.29.25:765][337]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2026.01.25-17.29.25:765][337]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.01.25-17.29.25:765][337]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2026.01.25-17.29.26:681][391]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.01.25-17.29.26:681][391]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.01.25-17.29.42:610][271]LogDerivedDataCache: C:/Users/2004i/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.01.25-17.29.53:116][865]LogBlueprintUserMessages: [BP_Enemy_Mage_C_0] Damage 45.0
+[2026.01.25-17.29.55:810][ 18]LogBlueprintUserMessages: [BP_Enemy_Mage_C_0] Damage 45.0
+[2026.01.25-17.29.57:674][124]LogBlueprintUserMessages: [BP_Enemy_Mage_C_0] Damage 45.0
+[2026.01.25-17.30.01:060][309]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7334.557129
+[2026.01.25-17.30.01:267][320]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.25-17.30.01:267][320]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7334.744629, Update Interval: 306.101257
+[2026.01.25-17.30.04:691][511]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2026.01.25-17.30.04:691][511]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.01.25-17.30.04:691][511]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2026.01.25-17.30.05:680][569]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.01.25-17.30.05:680][569]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.01.25-17.30.13:108][950]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Goblin_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Goblin_C_202
+	Function /Game/_Project/03_characters/Animation/Goblin/ABP_Goblin.ABP_Goblin_C:ExecuteUbergraph_ABP_Goblin:0040
+[2026.01.25-17.30.14:521][ 12]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] KillAll pressed
+[2026.01.25-17.30.14:521][ 12]LogBlueprintUserMessages: [BP_Enemy_Golem_C_0] Damage 1000.0
+[2026.01.25-17.30.17:510][178]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2026.01.25-17.30.17:510][178]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.01.25-17.30.17:510][178]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2026.01.25-17.30.18:886][254]Cmd: quit
+[2026.01.25-17.30.18:887][254]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.25-17.30.18:888][254]LogWorld: BeginTearingDown for /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.25-17.30.18:888][254]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.01.25-17.30.18:888][254]LogWorld: UWorld::CleanupWorld for Map_Game, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.30.18:891][254]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.30.18:892][254]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.25-17.30.18:897][254]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.30.18:920][254]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.25-17.30.18:920][254]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2026.01.25-17.30.18:920][254]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=4
+[2026.01.25-17.30.18:922][254]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=2
+[2026.01.25-17.30.18:928][254]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.25-17.30.18:932][254]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2026.01.25-17.30.19:159][255]LogPlayLevel: Display: Destroying online subsystem :Context_159
+[2026.01.25-17.30.40:288][131]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.25-17.30.40:356][131]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Project/03_characters/Animation/Mage/ABP_Mage] ([2] browsable assets)...
+[2026.01.25-17.30.40:366][131]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/_Project/03_characters/Animation/Mage/ABP_Mage.ABP_Mage]
+[2026.01.25-17.30.40:366][131]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/03_characters/Animation/Mage/ABP_Mage]
+[2026.01.25-17.30.40:392][131]LogSavePackage: Moving output files for package: /Game/_Project/03_characters/Animation/Mage/ABP_Mage
+[2026.01.25-17.30.40:392][131]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/ABP_MageFDAA6CA4455E8E6801CC1697E58FCCBF.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Content/_Project/03_characters/Animation/Mage/ABP_Mage.uasset'
+[2026.01.25-17.30.40:407][131]LogFileHelpers: InternalPromptForCheckoutAndSave took 118.496 ms (total: 6.37 sec)
+[2026.01.25-17.30.40:439][131]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.25-17.30.40:439][131]LogContentValidation: Enabled validators:
+[2026.01.25-17.30.40:439][131]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.25-17.30.40:439][131]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.25-17.30.40:439][131]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.25-17.30.40:439][131]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.25-17.30.40:439][131]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.25-17.30.40:439][131]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.25-17.30.40:439][131]AssetCheck: /Game/_Project/03_characters/Animation/Mage/ABP_Mage Validating asset
+[2026.01.25-17.31.51:534][450]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.01.25-17.31.51:936][454]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.25-17.31.51:976][454]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Project/01_Blueprints/Enemies/BP_Enemy_Mage] ([2] browsable assets)...
+[2026.01.25-17.31.51:983][454]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Project/01_Blueprints/Enemies/BP_Enemy_Mage.BP_Enemy_Mage]
+[2026.01.25-17.31.51:983][454]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/01_Blueprints/Enemies/BP_Enemy_Mage]
+[2026.01.25-17.31.51:997][454]LogSavePackage: Moving output files for package: /Game/_Project/01_Blueprints/Enemies/BP_Enemy_Mage
+[2026.01.25-17.31.51:998][454]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/BP_Enemy_Mage9A79224F4A157ABD511FB4A51EE35E5B.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Content/_Project/01_Blueprints/Enemies/BP_Enemy_Mage.uasset'
+[2026.01.25-17.31.52:014][454]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.101 ms (total: 6.45 sec)
+[2026.01.25-17.31.52:045][454]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.25-17.31.52:045][454]LogContentValidation: Enabled validators:
+[2026.01.25-17.31.52:045][454]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.25-17.31.52:045][454]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.25-17.31.52:045][454]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.25-17.31.52:045][454]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.25-17.31.52:045][454]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.25-17.31.52:045][454]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.25-17.31.52:045][454]AssetCheck: /Game/_Project/01_Blueprints/Enemies/BP_Enemy_Mage Validating asset
+[2026.01.25-17.32.10:283][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.01.25-17.32.22:240][321]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Goblin_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Goblin_C_203
+	Function /Game/_Project/03_characters/Animation/Goblin/ABP_Goblin.ABP_Goblin_C:ExecuteUbergraph_ABP_Goblin:0040
+[2026.01.25-17.32.22:240][321]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Goblin_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Goblin_C_203
+	Function /Game/_Project/03_characters/Animation/Goblin/ABP_Goblin.ABP_Goblin_C:ExecuteUbergraph_ABP_Goblin:0040
+[2026.01.25-17.32.22:375][323]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Goblin_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Goblin_C_204
+	Function /Game/_Project/03_characters/Animation/Goblin/ABP_Goblin.ABP_Goblin_C:ExecuteUbergraph_ABP_Goblin:0040
+[2026.01.25-17.32.22:375][323]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Goblin_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Goblin_C_204
+	Function /Game/_Project/03_characters/Animation/Goblin/ABP_Goblin.ABP_Goblin_C:ExecuteUbergraph_ABP_Goblin:0040
+[2026.01.25-17.32.23:609][358]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.01.25-17.32.23:633][358]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Goblin_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Goblin_C_205
+	Function /Game/_Project/03_characters/Animation/Goblin/ABP_Goblin.ABP_Goblin_C:ExecuteUbergraph_ABP_Goblin:0040
+[2026.01.25-17.32.23:780][360]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Goblin_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Goblin_C_206
+	Function /Game/_Project/03_characters/Animation/Goblin/ABP_Goblin.ABP_Goblin_C:ExecuteUbergraph_ABP_Goblin:0040
+[2026.01.25-17.32.24:606][382]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.25-17.32.24:683][382]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Project/03_characters/Animation/Goblin/ABP_Goblin] ([2] browsable assets)...
+[2026.01.25-17.32.24:684][382]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Goblin_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Goblin_C_207
+	Function /Game/_Project/03_characters/Animation/Goblin/ABP_Goblin.ABP_Goblin_C:ExecuteUbergraph_ABP_Goblin:0040
+[2026.01.25-17.32.24:692][382]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/_Project/03_characters/Animation/Goblin/ABP_Goblin.ABP_Goblin]
+[2026.01.25-17.32.24:692][382]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/03_characters/Animation/Goblin/ABP_Goblin]
+[2026.01.25-17.32.24:718][382]LogSavePackage: Moving output files for package: /Game/_Project/03_characters/Animation/Goblin/ABP_Goblin
+[2026.01.25-17.32.24:719][382]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/ABP_Goblin1A22CB6B466CFFD6B65C70A93BC17351.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Content/_Project/03_characters/Animation/Goblin/ABP_Goblin.uasset'
+[2026.01.25-17.32.24:738][382]LogFileHelpers: InternalPromptForCheckoutAndSave took 132.224 ms (total: 6.58 sec)
+[2026.01.25-17.32.24:805][382]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.25-17.32.24:805][382]LogContentValidation: Enabled validators:
+[2026.01.25-17.32.24:805][382]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.25-17.32.24:805][382]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.25-17.32.24:805][382]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.25-17.32.24:805][382]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.25-17.32.24:805][382]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.25-17.32.24:805][382]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.25-17.32.24:805][382]AssetCheck: /Game/_Project/03_characters/Animation/Goblin/ABP_Goblin Validating asset
+[2026.01.25-17.32.24:898][384]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Goblin_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Goblin_C_208
+	Function /Game/_Project/03_characters/Animation/Goblin/ABP_Goblin.ABP_Goblin_C:ExecuteUbergraph_ABP_Goblin:0040
+[2026.01.25-17.32.27:371][457]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.25-17.32.27:424][457]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Project/03_characters/Animation/Mage/ABP_Mage] ([2] browsable assets)...
+[2026.01.25-17.32.27:434][457]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/_Project/03_characters/Animation/Mage/ABP_Mage.ABP_Mage]
+[2026.01.25-17.32.27:434][457]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/03_characters/Animation/Mage/ABP_Mage]
+[2026.01.25-17.32.27:460][457]LogSavePackage: Moving output files for package: /Game/_Project/03_characters/Animation/Mage/ABP_Mage
+[2026.01.25-17.32.27:460][457]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/ABP_MageE14C64634C08E5835D87E1B46C59205A.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Content/_Project/03_characters/Animation/Mage/ABP_Mage.uasset'
+[2026.01.25-17.32.27:475][457]LogFileHelpers: InternalPromptForCheckoutAndSave took 104.204 ms (total: 6.68 sec)
+[2026.01.25-17.32.27:500][457]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.25-17.32.27:500][457]LogContentValidation: Enabled validators:
+[2026.01.25-17.32.27:500][457]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.25-17.32.27:500][457]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.25-17.32.27:500][457]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.25-17.32.27:502][457]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.25-17.32.27:502][457]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.25-17.32.27:502][457]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.25-17.32.27:502][457]AssetCheck: /Game/_Project/03_characters/Animation/Mage/ABP_Mage Validating asset
+[2026.01.25-17.32.33:198][628]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.25-17.32.33:206][628]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.25-17.32.33:207][628]LogPlayLevel: Creating play world package: /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.25-17.32.33:260][628]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052910s)
+[2026.01.25-17.32.33:260][628]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Project/00_Maps/Map_Game.Map_Game to /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game (0.052981s)
+[2026.01.25-17.32.33:285][628]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.01.25-17.32.33:289][628]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Game
+[2026.01.25-17.32.33:291][628]LogPlayLevel: PIE: World Init took: (0.001771s)
+[2026.01.25-17.32.33:292][628]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2026.01.25-17.32.33:292][628]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.25-17.32.33:292][628]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.25-17.32.33:292][628]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.25-17.32.33:292][628]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.25-17.32.33:292][628]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.25-17.32.33:292][628]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.25-17.32.33:292][628]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.25-17.32.33:292][628]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.25-17.32.33:292][628]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.25-17.32.33:292][628]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.25-17.32.33:292][628]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.25-17.32.33:295][628]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.25-17.32.33:324][628]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2026.01.25-17.32.33:324][628]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.25-17.32.33:324][628]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.25-17.32.33:324][628]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.25-17.32.33:325][628]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2026.01.25-17.32.33:325][628]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=23
+[2026.01.25-17.32.33:327][628]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2026.01.25-17.32.33:327][628]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2026.01.25-17.32.33:327][628]LogInit: FAudioDevice initialized with ID 23.
+[2026.01.25-17.32.33:327][628]LogAudio: Display: Audio Device (ID: 23) registered with world 'Map_Game'.
+[2026.01.25-17.32.33:327][628]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2026.01.25-17.32.33:332][628]LogLoad: Game class is 'BP_GM_Game_C'
+[2026.01.25-17.32.33:333][628]LogWorld: Bringing World /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game up for play (max tick rate 60) at 2026.01.25-18.32.33
+[2026.01.25-17.32.33:334][628]LogWorld: Bringing up level for play took: 0.002538
+[2026.01.25-17.32.33:336][628]LogOnline: OSS: Created online subsystem instance for: :Context_160
+[2026.01.25-17.32.33:339][628]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.01.25-17.32.33:340][628]PIE: Server logged in
+[2026.01.25-17.32.33:343][628]PIE: Play in editor total start time 0,137 seconds.
+[2026.01.25-17.32.33:387][629]LogPSOHitching: Encountered 1400 PSO creation hitches so far (576 graphics, 824 compute). 0 of them were precached.
+[2026.01.25-17.32.33:422][629]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.25-17.32.50:379][470]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] KillAll pressed
+[2026.01.25-17.32.50:379][470]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_0] Damage 1000.0
+[2026.01.25-17.32.50:380][470]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_1] Damage 1000.0
+[2026.01.25-17.32.50:380][470]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_2] Damage 1000.0
+[2026.01.25-17.32.50:380][470]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_3] Damage 1000.0
+[2026.01.25-17.32.50:380][470]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_4] Damage 1000.0
+[2026.01.25-17.32.50:381][470]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_5] Damage 1000.0
+[2026.01.25-17.33.00:385][983]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2026.01.25-17.33.00:385][983]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.01.25-17.33.00:385][983]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2026.01.25-17.33.01:331][ 34]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.01.25-17.33.01:331][ 34]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.01.25-17.33.21:767][ 81]LogBlueprintUserMessages: [BP_Enemy_Mage_C_0] Damage 45.0
+[2026.01.25-17.33.21:994][ 91]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.25-17.33.21:994][ 91]LogWorld: BeginTearingDown for /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.25-17.33.21:994][ 91]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.01.25-17.33.21:995][ 91]LogWorld: UWorld::CleanupWorld for Map_Game, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.33.21:996][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.33.21:997][ 91]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.25-17.33.22:004][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.33.22:029][ 91]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.25-17.33.22:029][ 91]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2026.01.25-17.33.22:029][ 91]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=4
+[2026.01.25-17.33.22:031][ 91]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=2
+[2026.01.25-17.33.22:036][ 91]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.25-17.33.22:041][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.01.25-17.33.22:142][ 92]LogPlayLevel: Display: Destroying online subsystem :Context_160
+[2026.01.25-17.34.12:352][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2026.01.25-17.34.12:374][601]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Mage_C /Engine/Transient.World_82:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Mage_C_0
+	Function /Game/_Project/03_characters/Animation/Mage/ABP_Mage.ABP_Mage_C:ExecuteUbergraph_ABP_Mage:0040
+[2026.01.25-17.34.12:441][602]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Mage_C /Engine/Transient.World_82:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Mage_C_0
+	Function /Game/_Project/03_characters/Animation/Mage/ABP_Mage.ABP_Mage_C:ExecuteUbergraph_ABP_Mage:0040
+[2026.01.25-17.34.12:508][603]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Mage_C /Engine/Transient.World_82:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Mage_C_0
+	Function /Game/_Project/03_characters/Animation/Mage/ABP_Mage.ABP_Mage_C:ExecuteUbergraph_ABP_Mage:0040
+[2026.01.25-17.34.12:565][604]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Mage_C /Engine/Transient.World_82:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Mage_C_0
+	Function /Game/_Project/03_characters/Animation/Mage/ABP_Mage.ABP_Mage_C:ExecuteUbergraph_ABP_Mage:0040
+[2026.01.25-17.34.12:620][605]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Mage_C /Engine/Transient.World_82:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Mage_C_0
+	Function /Game/_Project/03_characters/Animation/Mage/ABP_Mage.ABP_Mage_C:ExecuteUbergraph_ABP_Mage:0040
+[2026.01.25-17.34.12:676][606]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Mage_C /Engine/Transient.World_82:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Mage_C_0
+	Function /Game/_Project/03_characters/Animation/Mage/ABP_Mage.ABP_Mage_C:ExecuteUbergraph_ABP_Mage:0040
+[2026.01.25-17.34.12:733][607]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Mage_C /Engine/Transient.World_82:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Mage_C_0
+	Function /Game/_Project/03_characters/Animation/Mage/ABP_Mage.ABP_Mage_C:ExecuteUbergraph_ABP_Mage:0040
+[2026.01.25-17.34.12:761][608]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Mage_C /Engine/Transient.World_82:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Mage_C_0
+	Function /Game/_Project/03_characters/Animation/Mage/ABP_Mage.ABP_Mage_C:ExecuteUbergraph_ABP_Mage:0040
+[2026.01.25-17.34.12:790][609]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Mage_C /Engine/Transient.World_82:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Mage_C_0
+	Function /Game/_Project/03_characters/Animation/Mage/ABP_Mage.ABP_Mage_C:ExecuteUbergraph_ABP_Mage:0040
+[2026.01.25-17.34.12:821][610]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Mage_C /Engine/Transient.World_82:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Mage_C_0
+	Function /Game/_Project/03_characters/Animation/Mage/ABP_Mage.ABP_Mage_C:ExecuteUbergraph_ABP_Mage:0040
+[2026.01.25-17.34.12:850][611]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Mage_C /Engine/Transient.World_82:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Mage_C_0
+	Function /Game/_Project/03_characters/Animation/Mage/ABP_Mage.ABP_Mage_C:ExecuteUbergraph_ABP_Mage:0040
+[2026.01.25-17.34.12:880][612]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Mage_C /Engine/Transient.World_82:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Mage_C_0
+	Function /Game/_Project/03_characters/Animation/Mage/ABP_Mage.ABP_Mage_C:ExecuteUbergraph_ABP_Mage:0040
+[2026.01.25-17.34.12:913][613]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Mage_C /Engine/Transient.World_82:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Mage_C_0
+	Function /Game/_Project/03_characters/Animation/Mage/ABP_Mage.ABP_Mage_C:ExecuteUbergraph_ABP_Mage:0040
+[2026.01.25-17.34.12:942][614]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Mage_C /Engine/Transient.World_82:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Mage_C_0
+	Function /Game/_Project/03_characters/Animation/Mage/ABP_Mage.ABP_Mage_C:ExecuteUbergraph_ABP_Mage:0040
+[2026.01.25-17.34.12:974][615]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Mage_C /Engine/Transient.World_82:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Mage_C_0
+	Function /Game/_Project/03_characters/Animation/Mage/ABP_Mage.ABP_Mage_C:ExecuteUbergraph_ABP_Mage:0040
+[2026.01.25-17.34.13:005][616]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Mage_C /Engine/Transient.World_82:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Mage_C_0
+	Function /Game/_Project/03_characters/Animation/Mage/ABP_Mage.ABP_Mage_C:ExecuteUbergraph_ABP_Mage:0040
+[2026.01.25-17.34.13:228][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.01.25-17.34.14:047][645]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.25-17.34.14:119][645]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Project/03_characters/Animation/Mage/ABP_Mage] ([2] browsable assets)...
+[2026.01.25-17.34.14:120][645]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Mage_C /Engine/Transient.World_80:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Mage_C_135
+	Function /Game/_Project/03_characters/Animation/Mage/ABP_Mage.ABP_Mage_C:ExecuteUbergraph_ABP_Mage:0040
+[2026.01.25-17.34.14:131][645]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/_Project/03_characters/Animation/Mage/ABP_Mage.ABP_Mage]
+[2026.01.25-17.34.14:131][645]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/03_characters/Animation/Mage/ABP_Mage]
+[2026.01.25-17.34.14:160][645]LogSavePackage: Moving output files for package: /Game/_Project/03_characters/Animation/Mage/ABP_Mage
+[2026.01.25-17.34.14:160][645]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/ABP_Mage827296774649742F85AD1EBB56858155.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Content/_Project/03_characters/Animation/Mage/ABP_Mage.uasset'
+[2026.01.25-17.34.14:175][645]LogFileHelpers: InternalPromptForCheckoutAndSave took 127.299 ms (total: 6.81 sec)
+[2026.01.25-17.34.14:203][645]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.25-17.34.14:203][645]LogContentValidation: Enabled validators:
+[2026.01.25-17.34.14:203][645]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.25-17.34.14:204][645]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.25-17.34.14:204][645]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.25-17.34.14:204][645]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.25-17.34.14:204][645]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.25-17.34.14:204][645]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.25-17.34.14:204][645]AssetCheck: /Game/_Project/03_characters/Animation/Mage/ABP_Mage Validating asset
+[2026.01.25-17.34.17:373][743]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.25-17.34.17:381][743]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.25-17.34.17:381][743]LogPlayLevel: Creating play world package: /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.25-17.34.17:432][743]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050910s)
+[2026.01.25-17.34.17:432][743]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Project/00_Maps/Map_Game.Map_Game to /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game (0.050960s)
+[2026.01.25-17.34.17:461][743]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.01.25-17.34.17:465][743]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Game
+[2026.01.25-17.34.17:467][743]LogPlayLevel: PIE: World Init took: (0.001635s)
+[2026.01.25-17.34.17:467][743]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2026.01.25-17.34.17:467][743]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.25-17.34.17:468][743]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.25-17.34.17:468][743]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.25-17.34.17:468][743]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.25-17.34.17:468][743]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.25-17.34.17:468][743]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.25-17.34.17:468][743]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.25-17.34.17:468][743]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.25-17.34.17:468][743]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.25-17.34.17:468][743]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.25-17.34.17:468][743]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.25-17.34.17:470][743]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.25-17.34.17:498][743]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2026.01.25-17.34.17:498][743]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.25-17.34.17:498][743]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.25-17.34.17:498][743]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.25-17.34.17:499][743]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2026.01.25-17.34.17:499][743]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=24
+[2026.01.25-17.34.17:502][743]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2026.01.25-17.34.17:502][743]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2026.01.25-17.34.17:502][743]LogInit: FAudioDevice initialized with ID 24.
+[2026.01.25-17.34.17:502][743]LogAudio: Display: Audio Device (ID: 24) registered with world 'Map_Game'.
+[2026.01.25-17.34.17:502][743]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2026.01.25-17.34.17:546][743]LogLoad: Game class is 'BP_GM_Game_C'
+[2026.01.25-17.34.17:549][743]LogWorld: Bringing World /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game up for play (max tick rate 60) at 2026.01.25-18.34.17
+[2026.01.25-17.34.17:549][743]LogWorld: Bringing up level for play took: 0.002341
+[2026.01.25-17.34.17:552][743]LogOnline: OSS: Created online subsystem instance for: :Context_161
+[2026.01.25-17.34.17:555][743]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.01.25-17.34.17:556][743]PIE: Server logged in
+[2026.01.25-17.34.17:558][743]PIE: Play in editor total start time 0,177 seconds.
+[2026.01.25-17.34.17:612][744]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.25-17.34.20:198][868]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] KillAll pressed
+[2026.01.25-17.34.20:198][868]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_0] Damage 1000.0
+[2026.01.25-17.34.20:198][868]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_1] Damage 1000.0
+[2026.01.25-17.34.20:198][868]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_2] Damage 1000.0
+[2026.01.25-17.34.20:198][868]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_3] Damage 1000.0
+[2026.01.25-17.34.20:198][868]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_4] Damage 1000.0
+[2026.01.25-17.34.20:198][868]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_5] Damage 1000.0
+[2026.01.25-17.34.27:921][251]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2026.01.25-17.34.27:921][251]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.01.25-17.34.27:921][251]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2026.01.25-17.34.29:002][305]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.01.25-17.34.29:003][305]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.01.25-17.34.50:925][414]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.25-17.34.50:925][414]LogWorld: BeginTearingDown for /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.25-17.34.50:925][414]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.01.25-17.34.50:925][414]LogWorld: UWorld::CleanupWorld for Map_Game, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.34.50:926][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.34.50:929][414]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.25-17.34.50:934][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.34.50:959][414]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.25-17.34.50:959][414]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2026.01.25-17.34.50:959][414]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24, StreamState=4
+[2026.01.25-17.34.50:962][414]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24, StreamState=2
+[2026.01.25-17.34.50:969][414]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.25-17.34.50:972][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.01.25-17.34.51:056][415]LogPlayLevel: Display: Destroying online subsystem :Context_161
+[2026.01.25-17.35.13:934][ 71]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/_Project/03_characters/Enemies/03_Textures/Mage/Pro_Magic_Pack/Standing_Walk_Forward.Standing_Walk_Forward
+[2026.01.25-17.35.14:008][ 71]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_138
+[2026.01.25-17.35.22:142][299]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/_Project/03_characters/Enemies/03_Textures/Mage/Pro_Magic_Pack/Standing_Run_Forward.Standing_Run_Forward
+[2026.01.25-17.35.22:220][299]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_139
+[2026.01.25-17.35.22:293][299]LogWorld: UWorld::CleanupWorld for World_138, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.35.22:293][299]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.35.22:354][300]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.01.25-17.35.28:482][461]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.25-17.35.28:522][461]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Project/03_characters/Enemies/03_Textures/Mage/Pro_Magic_Pack/Standing_Run_Forward] ([1] browsable assets)...
+[2026.01.25-17.35.28:533][461]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/_Project/03_characters/Enemies/03_Textures/Mage/Pro_Magic_Pack/Standing_Run_Forward.Standing_Run_Forward]
+[2026.01.25-17.35.28:533][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/03_characters/Enemies/03_Textures/Mage/Pro_Magic_Pack/Standing_Run_Forward]
+[2026.01.25-17.35.28:549][461]LogSavePackage: Moving output files for package: /Game/_Project/03_characters/Enemies/03_Textures/Mage/Pro_Magic_Pack/Standing_Run_Forward
+[2026.01.25-17.35.28:550][461]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/Standing_Run_ForwardBC8A9B5B45F1BF6DA004CFA7A0BDAA65.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Content/_Project/03_characters/Enemies/03_Textures/Mage/Pro_Magic_Pack/Standing_Run_Forward.uasset'
+[2026.01.25-17.35.28:565][461]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.099 ms (total: 6.90 sec)
+[2026.01.25-17.35.28:599][461]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.25-17.35.28:599][461]LogContentValidation: Enabled validators:
+[2026.01.25-17.35.28:599][461]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.25-17.35.28:600][461]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.25-17.35.28:600][461]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.25-17.35.28:600][461]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.25-17.35.28:600][461]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.25-17.35.28:600][461]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.25-17.35.28:600][461]AssetCheck: /Game/_Project/03_characters/Enemies/03_Textures/Mage/Pro_Magic_Pack/Standing_Run_Forward Validating asset
+[2026.01.25-17.35.28:648][461]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.25-17.35.31:965][575]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.25-17.35.31:972][575]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.25-17.35.31:973][575]LogPlayLevel: Creating play world package: /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.25-17.35.32:025][575]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052457s)
+[2026.01.25-17.35.32:025][575]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Project/00_Maps/Map_Game.Map_Game to /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game (0.052517s)
+[2026.01.25-17.35.32:049][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.01.25-17.35.32:053][575]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Game
+[2026.01.25-17.35.32:055][575]LogPlayLevel: PIE: World Init took: (0.001784s)
+[2026.01.25-17.35.32:056][575]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2026.01.25-17.35.32:056][575]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.25-17.35.32:056][575]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.25-17.35.32:056][575]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.25-17.35.32:056][575]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.25-17.35.32:056][575]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.25-17.35.32:056][575]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.25-17.35.32:056][575]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.25-17.35.32:056][575]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.25-17.35.32:056][575]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.25-17.35.32:056][575]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.25-17.35.32:056][575]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.25-17.35.32:058][575]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.25-17.35.32:085][575]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2026.01.25-17.35.32:085][575]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.25-17.35.32:085][575]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.25-17.35.32:085][575]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.25-17.35.32:086][575]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2026.01.25-17.35.32:086][575]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=25
+[2026.01.25-17.35.32:088][575]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2026.01.25-17.35.32:088][575]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2026.01.25-17.35.32:088][575]LogInit: FAudioDevice initialized with ID 25.
+[2026.01.25-17.35.32:088][575]LogAudio: Display: Audio Device (ID: 25) registered with world 'Map_Game'.
+[2026.01.25-17.35.32:088][575]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2026.01.25-17.35.32:092][575]LogLoad: Game class is 'BP_GM_Game_C'
+[2026.01.25-17.35.32:094][575]LogWorld: Bringing World /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game up for play (max tick rate 60) at 2026.01.25-18.35.32
+[2026.01.25-17.35.32:095][575]LogWorld: Bringing up level for play took: 0.002597
+[2026.01.25-17.35.32:097][575]LogOnline: OSS: Created online subsystem instance for: :Context_164
+[2026.01.25-17.35.32:100][575]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.01.25-17.35.32:100][575]PIE: Server logged in
+[2026.01.25-17.35.32:104][575]PIE: Play in editor total start time 0,132 seconds.
+[2026.01.25-17.35.32:150][576]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.25-17.35.34:576][716]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] KillAll pressed
+[2026.01.25-17.35.34:576][716]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_0] Damage 1000.0
+[2026.01.25-17.35.34:577][716]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_1] Damage 1000.0
+[2026.01.25-17.35.34:577][716]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_2] Damage 1000.0
+[2026.01.25-17.35.34:577][716]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_3] Damage 1000.0
+[2026.01.25-17.35.34:577][716]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_4] Damage 1000.0
+[2026.01.25-17.35.34:577][716]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_5] Damage 1000.0
+[2026.01.25-17.35.42:327][180]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2026.01.25-17.35.42:327][180]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.01.25-17.35.42:327][180]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2026.01.25-17.35.43:325][240]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.01.25-17.35.43:325][240]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.01.25-17.35.50:854][690]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7684.343262
+[2026.01.25-17.35.51:075][703]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.25-17.35.51:075][703]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7684.544922, Update Interval: 321.702332
+[2026.01.25-17.35.58:331][138]LogBlueprintUserMessages: [BP_Enemy_Mage_C_0] Damage 45.0
+[2026.01.25-17.36.03:284][434]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] No Stamina
+[2026.01.25-17.36.04:219][490]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] No Stamina
+[2026.01.25-17.36.06:704][639]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] KillAll pressed
+[2026.01.25-17.36.06:704][639]LogBlueprintUserMessages: [BP_Enemy_Mage_C_0] Damage 1000.0
+[2026.01.25-17.36.17:667][296]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2026.01.25-17.36.17:667][296]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.01.25-17.36.17:667][296]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2026.01.25-17.36.18:898][370]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.01.25-17.36.18:898][370]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.01.25-17.36.24:505][704]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.25-17.36.24:505][704]LogWorld: BeginTearingDown for /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.25-17.36.24:505][704]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.01.25-17.36.24:506][704]LogWorld: UWorld::CleanupWorld for Map_Game, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.36.24:507][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.36.24:510][704]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.25-17.36.24:514][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.36.24:542][704]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.25-17.36.24:543][704]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2026.01.25-17.36.24:543][704]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25, StreamState=4
+[2026.01.25-17.36.24:545][704]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25, StreamState=2
+[2026.01.25-17.36.24:553][704]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.01.25-17.36.24:655][705]LogPlayLevel: Display: Destroying online subsystem :Context_164
