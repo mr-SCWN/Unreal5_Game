@@ -6127,3 +6127,817 @@ System max path length: 260.
 [2026.01.25-17.36.24:545][704]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25, StreamState=2
 [2026.01.25-17.36.24:553][704]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
 [2026.01.25-17.36.24:655][705]LogPlayLevel: Display: Destroying online subsystem :Context_164
+[2026.01.25-17.41.50:453][867]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.01.25-17.41.50:453][867]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.01.25-17.41.58:481][ 96]LogSlate: Window 'Content Browser' being destroyed
+[2026.01.25-17.42.01:671][234]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8055.155762
+[2026.01.25-17.42.01:885][244]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.25-17.42.01:885][244]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8055.346191, Update Interval: 357.762390
+[2026.01.25-17.42.22:401][624]LogSlate: Window 'Standing_Run_Forward' being destroyed
+[2026.01.25-17.42.22:405][624]LogSlate: Window 'Standing_Run_Forward' being destroyed
+[2026.01.25-17.42.22:420][624]LogWorld: UWorld::CleanupWorld for World_81, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.42.22:421][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.42.22:452][624]LogWorld: UWorld::CleanupWorld for World_82, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.42.22:452][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.42.22:559][624]LogWorld: UWorld::CleanupWorld for World_83, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.42.22:559][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.42.22:576][624]LogWorld: UWorld::CleanupWorld for World_137, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.42.22:576][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.42.22:638][624]LogWorld: UWorld::CleanupWorld for World_139, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.42.22:638][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.42.22:651][624]LogWorld: UWorld::CleanupWorld for World_86, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.42.22:651][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.42.22:696][624]LogWorld: UWorld::CleanupWorld for World_87, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.42.22:696][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.42.22:746][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2026.01.25-17.42.23:394][626]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.01.25-17.42.23:394][626]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.01.25-17.42.34:962][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.01.25-17.42.35:642][160]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.25-17.42.35:741][160]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Project/03_characters/Animation/Goblin/ABP_Goblin] ([2] browsable assets)...
+[2026.01.25-17.42.35:741][160]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Goblin_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Goblin_C_209
+	Function /Game/_Project/03_characters/Animation/Goblin/ABP_Goblin.ABP_Goblin_C:ExecuteUbergraph_ABP_Goblin:0040
+[2026.01.25-17.42.35:790][160]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/_Project/03_characters/Animation/Goblin/ABP_Goblin.ABP_Goblin]
+[2026.01.25-17.42.35:790][160]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/03_characters/Animation/Goblin/ABP_Goblin]
+[2026.01.25-17.42.35:817][160]LogSavePackage: Moving output files for package: /Game/_Project/03_characters/Animation/Goblin/ABP_Goblin
+[2026.01.25-17.42.35:818][160]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/ABP_Goblin431BEF88466FB61CA292BCB053BDCD02.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Content/_Project/03_characters/Animation/Goblin/ABP_Goblin.uasset'
+[2026.01.25-17.42.35:830][160]LogFileHelpers: InternalPromptForCheckoutAndSave took 189.032 ms (total: 7.08 sec)
+[2026.01.25-17.42.35:940][160]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.25-17.42.35:941][160]LogContentValidation: Enabled validators:
+[2026.01.25-17.42.35:941][160]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.25-17.42.35:941][160]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.25-17.42.35:941][160]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.25-17.42.35:941][160]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.25-17.42.35:941][160]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.25-17.42.35:941][160]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.25-17.42.35:941][160]AssetCheck: /Game/_Project/03_characters/Animation/Goblin/ABP_Goblin Validating asset
+[2026.01.25-17.42.39:967][353]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.25-17.42.39:976][353]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.25-17.42.39:976][353]LogPlayLevel: Creating play world package: /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.25-17.42.40:019][353]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043920s)
+[2026.01.25-17.42.40:020][353]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Project/00_Maps/Map_Game.Map_Game to /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game (0.043982s)
+[2026.01.25-17.42.40:048][353]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.01.25-17.42.40:052][353]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Game
+[2026.01.25-17.42.40:054][353]LogPlayLevel: PIE: World Init took: (0.001974s)
+[2026.01.25-17.42.40:055][353]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2026.01.25-17.42.40:055][353]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.25-17.42.40:055][353]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.25-17.42.40:055][353]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.25-17.42.40:055][353]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.25-17.42.40:055][353]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.25-17.42.40:055][353]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.25-17.42.40:055][353]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.25-17.42.40:055][353]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.25-17.42.40:055][353]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.25-17.42.40:055][353]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.25-17.42.40:055][353]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.25-17.42.40:057][353]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.25-17.42.40:086][353]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2026.01.25-17.42.40:087][353]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.25-17.42.40:087][353]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.25-17.42.40:087][353]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.25-17.42.40:087][353]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2026.01.25-17.42.40:087][353]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=26
+[2026.01.25-17.42.40:089][353]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2026.01.25-17.42.40:089][353]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2026.01.25-17.42.40:089][353]LogInit: FAudioDevice initialized with ID 26.
+[2026.01.25-17.42.40:089][353]LogAudio: Display: Audio Device (ID: 26) registered with world 'Map_Game'.
+[2026.01.25-17.42.40:089][353]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2026.01.25-17.42.40:094][353]LogLoad: Game class is 'BP_GM_Game_C'
+[2026.01.25-17.42.40:096][353]LogWorld: Bringing World /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game up for play (max tick rate 60) at 2026.01.25-18.42.40
+[2026.01.25-17.42.40:096][353]LogWorld: Bringing up level for play took: 0.002486
+[2026.01.25-17.42.40:099][353]LogOnline: OSS: Created online subsystem instance for: :Context_165
+[2026.01.25-17.42.40:101][353]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.01.25-17.42.40:103][353]PIE: Server logged in
+[2026.01.25-17.42.40:106][353]PIE: Play in editor total start time 0,13 seconds.
+[2026.01.25-17.42.40:147][354]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.25-17.42.40:152][354]LogPSOHitching: Encountered 1450 PSO creation hitches so far (596 graphics, 854 compute). 0 of them were precached.
+[2026.01.25-17.42.52:315][ 73]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.25-17.42.52:315][ 73]LogWorld: BeginTearingDown for /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.25-17.42.52:315][ 73]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.01.25-17.42.52:315][ 73]LogWorld: UWorld::CleanupWorld for Map_Game, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-17.42.52:316][ 73]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.42.52:318][ 73]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.25-17.42.52:323][ 73]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-17.42.52:345][ 73]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.25-17.42.52:345][ 73]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2026.01.25-17.42.52:345][ 73]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26, StreamState=4
+[2026.01.25-17.42.52:347][ 73]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26, StreamState=2
+[2026.01.25-17.42.52:350][ 73]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.25-17.42.52:355][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2026.01.25-17.42.52:443][ 74]LogPlayLevel: Display: Destroying online subsystem :Context_165
+[2026.01.25-17.43.35:418][408]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.01.25-17.43.35:419][408]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.01.25-17.43.40:243][599]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_140
+[2026.01.25-17.48.49:686][477]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8463.171875
+[2026.01.25-17.48.50:686][480]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.25-17.48.50:686][480]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8463.837891, Update Interval: 325.238190
+[2026.01.25-17.55.09:680][615]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8843.180664
+[2026.01.25-17.55.10:681][618]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.25-17.55.10:682][618]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8843.848633, Update Interval: 352.016357
+[2026.01.25-18.01.58:109][840]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9251.615234
+[2026.01.25-18.01.59:109][843]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.25-18.01.59:110][843]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9252.282227, Update Interval: 300.911896
+[2026.01.25-18.07.53:529][906]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9607.033203
+[2026.01.25-18.07.54:864][910]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.25-18.07.54:864][910]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9608.033203, Update Interval: 359.467163
+[2026.01.25-18.14.30:653][ 97]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10004.153320
+[2026.01.25-18.14.31:651][100]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.25-18.14.31:652][100]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10004.819336, Update Interval: 339.658203
+[2026.01.25-18.15.22:027][251]LogPSOHitching: Encountered 1500 PSO creation hitches so far (613 graphics, 887 compute). 0 of them were precached.
+[2026.01.25-18.15.22:438][251]LogPSOHitching: Encountered 1550 PSO creation hitches so far (614 graphics, 936 compute). 0 of them were precached.
+[2026.01.25-18.15.30:360][520]LogStreaming: Display: FlushAsyncLoading(675): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.25-18.15.30:402][520]LogContentBrowser: Deferred new asset file creation: MutantGolem1_Anim1
+[2026.01.25-18.15.30:430][520]LogContentBrowser: Creating deferred item: MutantGolem1_Anim1
+[2026.01.25-18.15.30:507][521]LogContentBrowser: Renaming the item being created (Deferred Item: MutantGolem1_Anim1).
+[2026.01.25-18.15.36:195][750]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.01.25-18.15.36:195][750]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.01.25-18.15.41:180][956]LogContentBrowser: Attempting asset rename: MutantGolem1_Anim1 -> Golem_Walk
+[2026.01.25-18.15.41:241][956]LogAnimationCompression: Warning: EnsureDependenciesAreLoaded: [ConditionalPostLoad Dependency] /Game/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Walk.Golem_Walk:InterchangeAssetImportData_0
+[2026.01.25-18.15.41:262][956]LogContentBrowser: End creating deferred item MutantGolem1_Anim1
+[2026.01.25-18.15.45:344][101]LogContentBrowser: Deferred new asset file creation: MutantGolem1_Anim1
+[2026.01.25-18.15.45:373][101]LogContentBrowser: Creating deferred item: MutantGolem1_Anim1
+[2026.01.25-18.15.45:424][102]LogContentBrowser: Renaming the item being created (Deferred Item: MutantGolem1_Anim1).
+[2026.01.25-18.15.52:888][445]LogContentBrowser: Attempting asset rename: MutantGolem1_Anim1 -> Golem_Run
+[2026.01.25-18.15.52:951][445]LogAnimationCompression: Warning: EnsureDependenciesAreLoaded: [ConditionalPostLoad Dependency] /Game/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Run.Golem_Run:InterchangeAssetImportData_0
+[2026.01.25-18.15.52:971][445]LogContentBrowser: End creating deferred item MutantGolem1_Anim1
+[2026.01.25-18.15.56:484][585]LogContentBrowser: Deferred new asset file creation: MutantGolem1_Anim1
+[2026.01.25-18.15.56:515][585]LogContentBrowser: Creating deferred item: MutantGolem1_Anim1
+[2026.01.25-18.15.56:553][586]LogContentBrowser: Renaming the item being created (Deferred Item: MutantGolem1_Anim1).
+[2026.01.25-18.16.00:487][765]LogContentBrowser: Attempting asset rename: MutantGolem1_Anim1 -> Golem_Idle
+[2026.01.25-18.16.00:556][765]LogAnimationCompression: Warning: EnsureDependenciesAreLoaded: [ConditionalPostLoad Dependency] /Game/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Idle.Golem_Idle:InterchangeAssetImportData_0
+[2026.01.25-18.16.00:574][765]LogContentBrowser: End creating deferred item MutantGolem1_Anim1
+[2026.01.25-18.16.04:645][918]LogContentBrowser: Deferred new asset file creation: MutantGolem1_Anim1
+[2026.01.25-18.16.04:675][918]LogContentBrowser: Creating deferred item: MutantGolem1_Anim1
+[2026.01.25-18.16.04:717][919]LogContentBrowser: Renaming the item being created (Deferred Item: MutantGolem1_Anim1).
+[2026.01.25-18.16.08:375][ 89]LogContentBrowser: Attempting asset rename: MutantGolem1_Anim1 -> Golem_Death
+[2026.01.25-18.16.08:439][ 89]LogAnimationCompression: Warning: EnsureDependenciesAreLoaded: [ConditionalPostLoad Dependency] /Game/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Death.Golem_Death:InterchangeAssetImportData_0
+[2026.01.25-18.16.08:457][ 89]LogContentBrowser: End creating deferred item MutantGolem1_Anim1
+[2026.01.25-18.16.13:734][291]LogContentBrowser: Deferred new asset file creation: MutantGolem1_Anim1
+[2026.01.25-18.16.13:761][291]LogContentBrowser: Creating deferred item: MutantGolem1_Anim1
+[2026.01.25-18.16.13:807][292]LogContentBrowser: Renaming the item being created (Deferred Item: MutantGolem1_Anim1).
+[2026.01.25-18.16.19:375][548]LogContentBrowser: Attempting asset rename: MutantGolem1_Anim1 -> Golem_Punch
+[2026.01.25-18.16.19:445][548]LogAnimationCompression: Warning: EnsureDependenciesAreLoaded: [ConditionalPostLoad Dependency] /Game/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Punch.Golem_Punch:InterchangeAssetImportData_0
+[2026.01.25-18.16.19:464][548]LogContentBrowser: End creating deferred item MutantGolem1_Anim1
+[2026.01.25-18.16.23:779][714]LogContentBrowser: Deferred new asset file creation: MutantGolem1_Anim1
+[2026.01.25-18.16.23:809][714]LogContentBrowser: Creating deferred item: MutantGolem1_Anim1
+[2026.01.25-18.16.23:873][715]LogContentBrowser: Renaming the item being created (Deferred Item: MutantGolem1_Anim1).
+[2026.01.25-18.16.26:870][839]LogContentBrowser: Attempting asset rename: MutantGolem1_Anim1 -> Golem_Ult
+[2026.01.25-18.16.26:929][839]LogAnimationCompression: Warning: EnsureDependenciesAreLoaded: [ConditionalPostLoad Dependency] /Game/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Ult.Golem_Ult:InterchangeAssetImportData_0
+[2026.01.25-18.16.26:950][839]LogContentBrowser: End creating deferred item MutantGolem1_Anim1
+[2026.01.25-18.16.30:704][975]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Death.Golem_Death
+[2026.01.25-18.16.30:704][975]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_141
+[2026.01.25-18.16.30:728][975]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_141:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.25-18.16.31:000][975]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_142
+[2026.01.25-18.16.31:558][975]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_143
+[2026.01.25-18.17.05:576][249]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Death.Golem_Death (Required Memory Estimate: 5.34 MB)
+[2026.01.25-18.17.10:939][447]LogAnimationCompression: Display: Storing compressed animation data for /Game/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Death.Golem_Death, at AnimationSequence/ab935d9fff5691be68767cd20f61c78dbe922351
+[2026.01.25-18.17.14:579][586]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.25-18.17.14:680][586]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Death] ([1] browsable assets)...
+[2026.01.25-18.17.14:690][586]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Death.Golem_Death]
+[2026.01.25-18.17.14:690][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Death]
+[2026.01.25-18.17.14:713][586]LogSavePackage: Moving output files for package: /Game/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Death
+[2026.01.25-18.17.14:713][586]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/Golem_Death1D8C04F74837ECC8E408B59F3E89B50C.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Content/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Death.uasset'
+[2026.01.25-18.17.14:740][586]LogFileHelpers: InternalPromptForCheckoutAndSave took 160.790 ms (total: 7.24 sec)
+[2026.01.25-18.17.14:855][586]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.25-18.17.14:855][586]LogContentValidation: Enabled validators:
+[2026.01.25-18.17.14:855][586]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.25-18.17.14:855][586]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.25-18.17.14:855][586]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.25-18.17.14:855][586]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.25-18.17.14:855][586]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.25-18.17.14:855][586]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.25-18.17.14:855][586]AssetCheck: /Game/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Death Validating asset
+[2026.01.25-18.17.14:890][586]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.25-18.17.26:172][ 21]LogWorld: UWorld::CleanupWorld for World_85, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-18.17.26:172][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-18.17.26:186][ 21]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-18.17.26:186][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-18.17.26:323][ 21]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-18.17.26:323][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-18.17.26:415][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.01.25-18.17.28:655][107]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_144
+[2026.01.25-18.17.28:679][107]LogWorld: UWorld::CleanupWorld for World_143, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-18.17.28:679][107]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-18.17.28:754][108]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.01.25-18.17.41:038][611]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Idle.Golem_Idle (Required Memory Estimate: 17.87 MB)
+[2026.01.25-18.17.44:607][755]LogAnimationCompression: Display: Storing compressed animation data for /Game/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Idle.Golem_Idle, at AnimationSequence/96eaf0e83eb799d1d0be66faf3be85651a9aeacd
+[2026.01.25-18.17.49:519][955]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Idle.Golem_Idle (Required Memory Estimate: 4.60 MB)
+[2026.01.25-18.17.51:751][ 38]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.25-18.17.51:830][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Idle] ([1] browsable assets)...
+[2026.01.25-18.17.51:841][ 38]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Idle.Golem_Idle]
+[2026.01.25-18.17.51:841][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Idle]
+[2026.01.25-18.17.51:866][ 38]LogSavePackage: Moving output files for package: /Game/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Idle
+[2026.01.25-18.17.51:867][ 38]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/Golem_Idle152494C6414BF52EFC06508BF6E9D632.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Content/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Idle.uasset'
+[2026.01.25-18.17.51:895][ 38]LogFileHelpers: InternalPromptForCheckoutAndSave took 142.791 ms (total: 7.39 sec)
+[2026.01.25-18.17.51:971][ 38]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.25-18.17.51:971][ 38]LogContentValidation: Enabled validators:
+[2026.01.25-18.17.51:971][ 38]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.25-18.17.51:971][ 38]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.25-18.17.51:971][ 38]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.25-18.17.51:971][ 38]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.25-18.17.51:971][ 38]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.25-18.17.51:971][ 38]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.25-18.17.51:971][ 38]AssetCheck: /Game/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Idle Validating asset
+[2026.01.25-18.17.52:011][ 38]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.25-18.17.53:071][ 78]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_145
+[2026.01.25-18.17.53:101][ 78]LogWorld: UWorld::CleanupWorld for World_144, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-18.17.53:101][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-18.17.53:174][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.01.25-18.17.55:738][188]LogAnimationCompression: Display: Storing compressed animation data for /Game/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Idle.Golem_Idle, at AnimationSequence/9a0d2af67965c7fc75a981892daa3248923978be
+[2026.01.25-18.18.01:345][408]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Punch.Golem_Punch (Required Memory Estimate: 31.36 MB)
+[2026.01.25-18.18.07:285][651]LogAnimationCompression: Display: Storing compressed animation data for /Game/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Punch.Golem_Punch, at AnimationSequence/bf3e3fd87fc701c0fd36482bf046a14eac2e359c
+[2026.01.25-18.18.14:136][930]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Punch.Golem_Punch (Required Memory Estimate: 3.65 MB)
+[2026.01.25-18.18.14:627][945]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.25-18.18.14:725][945]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Punch] ([1] browsable assets)...
+[2026.01.25-18.18.14:737][945]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Punch.Golem_Punch]
+[2026.01.25-18.18.14:737][945]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Punch]
+[2026.01.25-18.18.14:759][945]LogSavePackage: Moving output files for package: /Game/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Punch
+[2026.01.25-18.18.14:759][945]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/Golem_Punch35CA18264B391EFA3FBE3C9CB5BADD8B.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Content/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Punch.uasset'
+[2026.01.25-18.18.14:785][945]LogFileHelpers: InternalPromptForCheckoutAndSave took 157.778 ms (total: 7.55 sec)
+[2026.01.25-18.18.14:863][945]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.25-18.18.14:864][945]LogContentValidation: Enabled validators:
+[2026.01.25-18.18.14:864][945]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.25-18.18.14:864][945]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.25-18.18.14:864][945]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.25-18.18.14:864][945]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.25-18.18.14:864][945]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.25-18.18.14:864][945]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.25-18.18.14:864][945]AssetCheck: /Game/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Punch Validating asset
+[2026.01.25-18.18.14:897][945]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.25-18.18.15:750][976]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_146
+[2026.01.25-18.18.15:774][976]LogWorld: UWorld::CleanupWorld for World_145, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-18.18.15:774][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-18.18.15:844][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.01.25-18.18.17:773][ 53]LogAnimationCompression: Display: Storing compressed animation data for /Game/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Punch.Golem_Punch, at AnimationSequence/d3aa06934a5d4a4229f03eed7a24ba2aa130bfb7
+[2026.01.25-18.18.24:990][344]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Run.Golem_Run (Required Memory Estimate: 9.64 MB)
+[2026.01.25-18.18.35:275][764]LogAnimationCompression: Display: Storing compressed animation data for /Game/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Run.Golem_Run, at AnimationSequence/33b91ddefd7d77b3e8cf231b295639a58c66b244
+[2026.01.25-18.18.35:564][771]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Run.Golem_Run (Required Memory Estimate: 2.34 MB)
+[2026.01.25-18.18.37:768][853]LogAnimationCompression: Display: Storing compressed animation data for /Game/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Run.Golem_Run, at AnimationSequence/093fabb3fe943f0c4778515b5e6f064a893b401e
+[2026.01.25-18.18.38:844][899]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.25-18.18.38:940][899]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Run] ([1] browsable assets)...
+[2026.01.25-18.18.38:952][899]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Run.Golem_Run]
+[2026.01.25-18.18.38:952][899]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Run]
+[2026.01.25-18.18.38:970][899]LogSavePackage: Moving output files for package: /Game/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Run
+[2026.01.25-18.18.38:970][899]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/Golem_RunDB41C08646D66C45C411D2A843B62AE8.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Content/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Run.uasset'
+[2026.01.25-18.18.38:996][899]LogFileHelpers: InternalPromptForCheckoutAndSave took 152.294 ms (total: 7.70 sec)
+[2026.01.25-18.18.39:070][899]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.25-18.18.39:070][899]LogContentValidation: Enabled validators:
+[2026.01.25-18.18.39:070][899]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.25-18.18.39:070][899]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.25-18.18.39:070][899]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.25-18.18.39:070][899]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.25-18.18.39:070][899]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.25-18.18.39:070][899]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.25-18.18.39:070][899]AssetCheck: /Game/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Run Validating asset
+[2026.01.25-18.18.39:101][899]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.25-18.18.39:534][916]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_147
+[2026.01.25-18.18.39:558][916]LogWorld: UWorld::CleanupWorld for World_146, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-18.18.39:558][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-18.18.39:626][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.01.25-18.18.52:504][450]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Ult.Golem_Ult (Required Memory Estimate: 23.07 MB)
+[2026.01.25-18.18.57:022][637]LogAnimationCompression: Display: Storing compressed animation data for /Game/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Ult.Golem_Ult, at AnimationSequence/1514b344e7bf88f25b863b8fcabc3f01ba1b2239
+[2026.01.25-18.19.08:859][135]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Ult.Golem_Ult (Required Memory Estimate: 5.14 MB)
+[2026.01.25-18.19.09:397][153]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.25-18.19.09:498][153]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Ult] ([1] browsable assets)...
+[2026.01.25-18.19.09:511][153]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Ult.Golem_Ult]
+[2026.01.25-18.19.09:511][153]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Ult]
+[2026.01.25-18.19.09:535][153]LogSavePackage: Moving output files for package: /Game/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Ult
+[2026.01.25-18.19.09:535][153]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/Golem_Ult3D61FE474B90B208FCB169890E9145B1.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Content/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Ult.uasset'
+[2026.01.25-18.19.09:560][153]LogFileHelpers: InternalPromptForCheckoutAndSave took 164.512 ms (total: 7.86 sec)
+[2026.01.25-18.19.09:634][153]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.25-18.19.09:634][153]LogContentValidation: Enabled validators:
+[2026.01.25-18.19.09:634][153]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.25-18.19.09:634][153]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.25-18.19.09:635][153]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.25-18.19.09:635][153]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.25-18.19.09:635][153]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.25-18.19.09:635][153]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.25-18.19.09:635][153]AssetCheck: /Game/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Ult Validating asset
+[2026.01.25-18.19.09:668][153]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.25-18.19.10:430][181]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_148
+[2026.01.25-18.19.10:460][181]LogWorld: UWorld::CleanupWorld for World_147, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-18.19.10:460][181]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-18.19.10:534][182]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.01.25-18.19.15:198][380]LogAnimationCompression: Display: Storing compressed animation data for /Game/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Ult.Golem_Ult, at AnimationSequence/fa4f156ae0c412abd026df26983bcb45670a6812
+[2026.01.25-18.19.27:112][876]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Walk.Golem_Walk (Required Memory Estimate: 7.66 MB)
+[2026.01.25-18.19.34:914][206]LogAnimationCompression: Display: Storing compressed animation data for /Game/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Walk.Golem_Walk, at AnimationSequence/e815dd7b33a202ebdc51538b64aceddbaa2116d8
+[2026.01.25-18.19.36:207][254]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Walk.Golem_Walk (Required Memory Estimate: 2.70 MB)
+[2026.01.25-18.19.36:609][263]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.25-18.19.36:712][263]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Walk] ([1] browsable assets)...
+[2026.01.25-18.19.36:724][263]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Walk.Golem_Walk]
+[2026.01.25-18.19.36:725][263]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Walk]
+[2026.01.25-18.19.36:744][263]LogSavePackage: Moving output files for package: /Game/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Walk
+[2026.01.25-18.19.36:744][263]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/Golem_WalkA0BC7FE84DB9201C3E7418BF401896C2.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Content/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Walk.uasset'
+[2026.01.25-18.19.36:769][263]LogFileHelpers: InternalPromptForCheckoutAndSave took 159.740 ms (total: 8.02 sec)
+[2026.01.25-18.19.36:844][263]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.25-18.19.36:844][263]LogContentValidation: Enabled validators:
+[2026.01.25-18.19.36:844][263]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.25-18.19.36:844][263]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.25-18.19.36:844][263]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.25-18.19.36:844][263]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.25-18.19.36:844][263]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.25-18.19.36:844][263]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.25-18.19.36:845][263]AssetCheck: /Game/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Walk Validating asset
+[2026.01.25-18.19.36:878][263]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.25-18.19.38:526][319]LogAnimationCompression: Display: Storing compressed animation data for /Game/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Walk.Golem_Walk, at AnimationSequence/fac30ea23f76a27b94a84fcd47ff90a6af8550d0
+[2026.01.25-18.20.34:212][ 88]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Goblin_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Goblin_C_210
+	Function /Game/_Project/03_characters/Animation/Goblin/ABP_Goblin.ABP_Goblin_C:ExecuteUbergraph_ABP_Goblin:0040
+[2026.01.25-18.20.34:218][ 88]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Goblin_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Goblin_C_211
+	Function /Game/_Project/03_characters/Animation/Goblin/ABP_Goblin.ABP_Goblin_C:ExecuteUbergraph_ABP_Goblin:0040
+[2026.01.25-18.20.34:265][ 89]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Goblin_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Goblin_C_212
+	Function /Game/_Project/03_characters/Animation/Goblin/ABP_Goblin.ABP_Goblin_C:ExecuteUbergraph_ABP_Goblin:0040
+[2026.01.25-18.20.34:316][ 90]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Goblin_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Goblin_C_213
+	Function /Game/_Project/03_characters/Animation/Goblin/ABP_Goblin.ABP_Goblin_C:ExecuteUbergraph_ABP_Goblin:0040
+[2026.01.25-18.20.34:351][ 91]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Goblin_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Goblin_C_214
+	Function /Game/_Project/03_characters/Animation/Goblin/ABP_Goblin.ABP_Goblin_C:ExecuteUbergraph_ABP_Goblin:0040
+[2026.01.25-18.20.34:384][ 92]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Goblin_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Goblin_C_215
+	Function /Game/_Project/03_characters/Animation/Goblin/ABP_Goblin.ABP_Goblin_C:ExecuteUbergraph_ABP_Goblin:0040
+[2026.01.25-18.20.34:416][ 93]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Goblin_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Goblin_C_216
+	Function /Game/_Project/03_characters/Animation/Goblin/ABP_Goblin.ABP_Goblin_C:ExecuteUbergraph_ABP_Goblin:0040
+[2026.01.25-18.20.34:448][ 94]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Goblin_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Goblin_C_217
+	Function /Game/_Project/03_characters/Animation/Goblin/ABP_Goblin.ABP_Goblin_C:ExecuteUbergraph_ABP_Goblin:0040
+[2026.01.25-18.20.34:483][ 95]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Goblin_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Goblin_C_218
+	Function /Game/_Project/03_characters/Animation/Goblin/ABP_Goblin.ABP_Goblin_C:ExecuteUbergraph_ABP_Goblin:0040
+[2026.01.25-18.20.34:515][ 96]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Goblin_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Goblin_C_219
+	Function /Game/_Project/03_characters/Animation/Goblin/ABP_Goblin.ABP_Goblin_C:ExecuteUbergraph_ABP_Goblin:0040
+[2026.01.25-18.20.34:550][ 97]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Goblin_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Goblin_C_220
+	Function /Game/_Project/03_characters/Animation/Goblin/ABP_Goblin.ABP_Goblin_C:ExecuteUbergraph_ABP_Goblin:0040
+[2026.01.25-18.20.34:585][ 98]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Goblin_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Goblin_C_221
+	Function /Game/_Project/03_characters/Animation/Goblin/ABP_Goblin.ABP_Goblin_C:ExecuteUbergraph_ABP_Goblin:0040
+[2026.01.25-18.20.48:074][438]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2026.01.25-18.20.48:083][438]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2026.01.25-18.20.48:105][438]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2026.01.25-18.20.48:175][440]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimBlueprint).
+[2026.01.25-18.20.53:763][638]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> ABP_Golem
+[2026.01.25-18.20.53:794][638]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2026.01.25-18.20.53:795][638]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_149
+[2026.01.25-18.21.05:641][913]LogSlate: Window 'Pick Skeleton' being destroyed
+[2026.01.25-18.21.05:650][913]LogContentBrowser: Deferred new asset file creation: NewAnimMontage
+[2026.01.25-18.21.05:673][913]LogContentBrowser: Creating deferred item: NewAnimMontage
+[2026.01.25-18.21.05:712][914]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimMontage).
+[2026.01.25-18.21.08:798][ 19]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10402.316406
+[2026.01.25-18.21.09:024][ 27]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.25-18.21.09:024][ 27]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10402.512695, Update Interval: 341.485657
+[2026.01.25-18.21.22:463][505]LogContentBrowser: Attempting asset rename: NewAnimMontage -> AM_GolemDeath
+[2026.01.25-18.21.22:484][505]LogContentBrowser: End creating deferred item NewAnimMontage
+[2026.01.25-18.21.29:520][638]LogSlate: Window 'Pick Skeleton' being destroyed
+[2026.01.25-18.21.29:529][638]LogContentBrowser: Deferred new asset file creation: NewAnimMontage
+[2026.01.25-18.21.29:551][638]LogContentBrowser: Creating deferred item: NewAnimMontage
+[2026.01.25-18.21.29:590][639]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimMontage).
+[2026.01.25-18.21.29:596][640]LogContentBrowser: Attempting asset rename: NewAnimMontage -> NewAnimMontage
+[2026.01.25-18.21.29:620][640]LogContentBrowser: End creating deferred item NewAnimMontage
+[2026.01.25-18.21.35:591][836]LogContentBrowser: Attempting asset rename: NewAnimMontage -> AM_GolemIdle
+[2026.01.25-18.21.35:671][836]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.25-18.21.35:671][836]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Project/03_characters/Animation/Golem/AM_GolemIdle] ([1] browsable assets)...
+[2026.01.25-18.21.35:683][836]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/_Project/03_characters/Animation/Golem/AM_GolemIdle.AM_GolemIdle]
+[2026.01.25-18.21.35:683][836]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/03_characters/Animation/Golem/AM_GolemIdle]
+[2026.01.25-18.21.35:693][836]LogSavePackage: Moving output files for package: /Game/_Project/03_characters/Animation/Golem/AM_GolemIdle
+[2026.01.25-18.21.35:693][836]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/AM_GolemIdleBC8248E441A4B1939A620F8FB00574BE.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Content/_Project/03_characters/Animation/Golem/AM_GolemIdle.uasset'
+[2026.01.25-18.21.35:713][836]LogFileHelpers: InternalPromptForCheckoutAndSave took 42.139 ms (total: 8.06 sec)
+[2026.01.25-18.21.35:808][836]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2026.01.25-18.21.35:846][836]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.01.25-18.21.35:874][836]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.01.25-18.21.35:918][836]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.25-18.21.35:918][836]LogContentValidation: Enabled validators:
+[2026.01.25-18.21.35:918][836]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.25-18.21.35:918][836]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.25-18.21.35:918][836]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.25-18.21.35:918][836]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.25-18.21.35:918][836]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.25-18.21.35:918][836]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.25-18.21.35:918][836]AssetCheck: /Game/_Project/03_characters/Animation/Golem/AM_GolemIdle Validating asset
+[2026.01.25-18.21.35:987][836]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.25-18.21.37:616][886]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.01.25-18.21.37:731][886]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2026.01.25-18.21.37:742][886]LogSlate: Took 0.010327 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2026.01.25-18.21.38:880][886]LogSlate: Window 'Delete Assets' being destroyed
+[2026.01.25-18.21.38:911][886]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/_Project/03_characters/Animation/Golem/AM_GolemIdle.AM_GolemIdle
+	Asset Type: AnimMontage
+[2026.01.25-18.21.39:425][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.01.25-18.21.39:453][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.01.25-18.21.39:479][886]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.01.25-18.21.39:597][888]LogPSOHitching: Encountered 1600 PSO creation hitches so far (629 graphics, 971 compute). 0 of them were precached.
+[2026.01.25-18.21.44:757][991]LogSlate: Window 'Pick Skeleton' being destroyed
+[2026.01.25-18.21.44:766][991]LogContentBrowser: Deferred new asset file creation: NewAnimMontage
+[2026.01.25-18.21.44:787][991]LogContentBrowser: Creating deferred item: NewAnimMontage
+[2026.01.25-18.21.44:831][992]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimMontage).
+[2026.01.25-18.21.53:106][282]LogContentBrowser: Attempting asset rename: NewAnimMontage -> AM_GolemPunch
+[2026.01.25-18.21.53:128][282]LogContentBrowser: End creating deferred item NewAnimMontage
+[2026.01.25-18.21.56:239][378]LogWorld: UWorld::CleanupWorld for World_148, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-18.21.56:239][378]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-18.21.56:284][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.01.25-18.22.06:651][735]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_150
+[2026.01.25-18.22.17:817][122]LogWorld: UWorld::CleanupWorld for World_150, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-18.22.17:817][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-18.22.17:858][123]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.01.25-18.22.18:115][132]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.25-18.22.18:150][132]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Project/03_characters/Animation/Golem/AM_GolemDeath] ([1] browsable assets)...
+[2026.01.25-18.22.18:161][132]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/_Project/03_characters/Animation/Golem/AM_GolemDeath.AM_GolemDeath]
+[2026.01.25-18.22.18:161][132]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/03_characters/Animation/Golem/AM_GolemDeath]
+[2026.01.25-18.22.18:171][132]LogSavePackage: Moving output files for package: /Game/_Project/03_characters/Animation/Golem/AM_GolemDeath
+[2026.01.25-18.22.18:171][132]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/AM_GolemDeath2C1393DB4F3AF4BE7B73458787FF11C1.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Content/_Project/03_characters/Animation/Golem/AM_GolemDeath.uasset'
+[2026.01.25-18.22.18:207][132]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.176 ms (total: 8.16 sec)
+[2026.01.25-18.22.18:244][132]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.25-18.22.18:244][132]LogContentValidation: Enabled validators:
+[2026.01.25-18.22.18:244][132]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.25-18.22.18:244][132]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.25-18.22.18:244][132]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.25-18.22.18:245][132]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.25-18.22.18:245][132]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.25-18.22.18:245][132]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.25-18.22.18:245][132]AssetCheck: /Game/_Project/03_characters/Animation/Golem/AM_GolemDeath Validating asset
+[2026.01.25-18.22.18:284][132]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.25-18.22.26:888][435]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.25-18.22.26:928][435]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Project/03_characters/Animation/Golem/AM_GolemPunch] ([1] browsable assets)...
+[2026.01.25-18.22.26:939][435]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/_Project/03_characters/Animation/Golem/AM_GolemPunch.AM_GolemPunch]
+[2026.01.25-18.22.26:939][435]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/03_characters/Animation/Golem/AM_GolemPunch]
+[2026.01.25-18.22.26:949][435]LogSavePackage: Moving output files for package: /Game/_Project/03_characters/Animation/Golem/AM_GolemPunch
+[2026.01.25-18.22.26:949][435]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/AM_GolemPunch03FBB8C144D15CFA8B5F3DBA12DC02B8.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Content/_Project/03_characters/Animation/Golem/AM_GolemPunch.uasset'
+[2026.01.25-18.22.26:984][435]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.561 ms (total: 8.25 sec)
+[2026.01.25-18.22.27:011][435]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.25-18.22.27:011][435]LogContentValidation: Enabled validators:
+[2026.01.25-18.22.27:011][435]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.25-18.22.27:011][435]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.25-18.22.27:011][435]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.25-18.22.27:011][435]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.25-18.22.27:011][435]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.25-18.22.27:011][435]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.25-18.22.27:011][435]AssetCheck: /Game/_Project/03_characters/Animation/Golem/AM_GolemPunch Validating asset
+[2026.01.25-18.22.27:049][435]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.25-18.22.44:568][ 74]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Project/01_Blueprints/Enemies/BP_Enemy_Golem.BP_Enemy_Golem
+[2026.01.25-18.22.44:568][ 74]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_151
+[2026.01.25-18.22.46:512][130]LogWorld: UWorld::CleanupWorld for World_151, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-18.22.46:512][130]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-18.22.46:534][130]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Project/01_Blueprints/Enemies/BP_Enemy_Golem.BP_Enemy_Golem
+[2026.01.25-18.22.46:535][130]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_152
+[2026.01.25-18.22.47:098][130]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.01.25-18.22.52:030][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.01.25-18.22.52:528][307]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.25-18.22.52:594][307]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Project/01_Blueprints/Enemies/BP_Enemy_Golem] ([2] browsable assets)...
+[2026.01.25-18.22.52:601][307]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Project/01_Blueprints/Enemies/BP_Enemy_Golem.BP_Enemy_Golem]
+[2026.01.25-18.22.52:601][307]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/01_Blueprints/Enemies/BP_Enemy_Golem]
+[2026.01.25-18.22.52:614][307]LogSavePackage: Moving output files for package: /Game/_Project/01_Blueprints/Enemies/BP_Enemy_Golem
+[2026.01.25-18.22.52:614][307]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/BP_Enemy_Golem388EAF244078F5B87F1D5083562D951B.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Content/_Project/01_Blueprints/Enemies/BP_Enemy_Golem.uasset'
+[2026.01.25-18.22.52:630][307]LogFileHelpers: InternalPromptForCheckoutAndSave took 101.764 ms (total: 8.35 sec)
+[2026.01.25-18.22.52:695][307]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.25-18.22.52:695][307]LogContentValidation: Enabled validators:
+[2026.01.25-18.22.52:695][307]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.25-18.22.52:695][307]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.25-18.22.52:695][307]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.25-18.22.52:695][307]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.25-18.22.52:695][307]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.25-18.22.52:695][307]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.25-18.22.52:696][307]AssetCheck: /Game/_Project/01_Blueprints/Enemies/BP_Enemy_Golem Validating asset
+[2026.01.25-18.22.52:738][307]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.25-18.23.10:647][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.01.25-18.23.11:386][913]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.25-18.23.11:418][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Project/01_Blueprints/Enemies/BP_Enemy_Golem] ([2] browsable assets)...
+[2026.01.25-18.23.11:426][913]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Project/01_Blueprints/Enemies/BP_Enemy_Golem.BP_Enemy_Golem]
+[2026.01.25-18.23.11:426][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/01_Blueprints/Enemies/BP_Enemy_Golem]
+[2026.01.25-18.23.11:438][913]LogSavePackage: Moving output files for package: /Game/_Project/01_Blueprints/Enemies/BP_Enemy_Golem
+[2026.01.25-18.23.11:439][913]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/BP_Enemy_GolemBD5EA3304FCC9E69733AA6BB716402F7.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Content/_Project/01_Blueprints/Enemies/BP_Enemy_Golem.uasset'
+[2026.01.25-18.23.11:455][913]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.965 ms (total: 8.42 sec)
+[2026.01.25-18.23.11:490][913]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.25-18.23.11:490][913]LogContentValidation: Enabled validators:
+[2026.01.25-18.23.11:490][913]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.25-18.23.11:490][913]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.25-18.23.11:490][913]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.25-18.23.11:490][913]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.25-18.23.11:490][913]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.25-18.23.11:490][913]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.25-18.23.11:490][913]AssetCheck: /Game/_Project/01_Blueprints/Enemies/BP_Enemy_Golem Validating asset
+[2026.01.25-18.23.29:513][504]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/_Project/03_characters/Animation/Golem/ABP_Golem.ABP_Golem
+[2026.01.25-18.23.29:514][504]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_153
+[2026.01.25-18.23.29:520][504]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_154
+[2026.01.25-18.23.29:528][504]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_154:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.25-18.23.29:841][504]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_155
+[2026.01.25-18.24.07:134][717]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Goblin_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Goblin_C_222
+	Function /Game/_Project/03_characters/Animation/Goblin/ABP_Goblin.ABP_Goblin_C:ExecuteUbergraph_ABP_Goblin:0040
+[2026.01.25-18.24.07:134][717]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Goblin_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Goblin_C_222
+	Function /Game/_Project/03_characters/Animation/Goblin/ABP_Goblin.ABP_Goblin_C:ExecuteUbergraph_ABP_Goblin:0040
+[2026.01.25-18.24.07:221][719]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Goblin_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Goblin_C_223
+	Function /Game/_Project/03_characters/Animation/Goblin/ABP_Goblin.ABP_Goblin_C:ExecuteUbergraph_ABP_Goblin:0040
+[2026.01.25-18.24.07:221][719]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Goblin_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Goblin_C_223
+	Function /Game/_Project/03_characters/Animation/Goblin/ABP_Goblin.ABP_Goblin_C:ExecuteUbergraph_ABP_Goblin:0040
+[2026.01.25-18.24.08:416][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.01.25-18.24.08:434][756]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Goblin_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Goblin_C_224
+	Function /Game/_Project/03_characters/Animation/Goblin/ABP_Goblin.ABP_Goblin_C:ExecuteUbergraph_ABP_Goblin:0040
+[2026.01.25-18.24.08:554][758]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Goblin_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Goblin_C_225
+	Function /Game/_Project/03_characters/Animation/Goblin/ABP_Goblin.ABP_Goblin_C:ExecuteUbergraph_ABP_Goblin:0040
+[2026.01.25-18.24.09:346][782]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.25-18.24.09:418][782]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Project/03_characters/Animation/Goblin/ABP_Goblin] ([2] browsable assets)...
+[2026.01.25-18.24.09:419][782]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Goblin_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Goblin_C_226
+	Function /Game/_Project/03_characters/Animation/Goblin/ABP_Goblin.ABP_Goblin_C:ExecuteUbergraph_ABP_Goblin:0040
+[2026.01.25-18.24.09:427][782]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/_Project/03_characters/Animation/Goblin/ABP_Goblin.ABP_Goblin]
+[2026.01.25-18.24.09:427][782]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/03_characters/Animation/Goblin/ABP_Goblin]
+[2026.01.25-18.24.09:453][782]LogSavePackage: Moving output files for package: /Game/_Project/03_characters/Animation/Goblin/ABP_Goblin
+[2026.01.25-18.24.09:454][782]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/ABP_Goblin439DF95C42D2DC54986B0AB79F8265B2.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Content/_Project/03_characters/Animation/Goblin/ABP_Goblin.uasset'
+[2026.01.25-18.24.09:470][782]LogFileHelpers: InternalPromptForCheckoutAndSave took 123.610 ms (total: 8.54 sec)
+[2026.01.25-18.24.09:541][782]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.25-18.24.09:541][782]LogContentValidation: Enabled validators:
+[2026.01.25-18.24.09:541][782]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.25-18.24.09:541][782]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.25-18.24.09:541][782]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.25-18.24.09:541][782]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.25-18.24.09:541][782]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.25-18.24.09:541][782]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.25-18.24.09:541][782]AssetCheck: /Game/_Project/03_characters/Animation/Goblin/ABP_Goblin Validating asset
+[2026.01.25-18.24.09:619][784]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Goblin_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Goblin_C_227
+	Function /Game/_Project/03_characters/Animation/Goblin/ABP_Goblin.ABP_Goblin_C:ExecuteUbergraph_ABP_Goblin:0040
+[2026.01.25-18.24.12:803][885]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Mage_C /Engine/Transient.World_80:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Mage_C_136
+	Function /Game/_Project/03_characters/Animation/Mage/ABP_Mage.ABP_Mage_C:ExecuteUbergraph_ABP_Mage:0040
+[2026.01.25-18.24.12:974][889]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Mage_C /Engine/Transient.World_80:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Mage_C_137
+	Function /Game/_Project/03_characters/Animation/Mage/ABP_Mage.ABP_Mage_C:ExecuteUbergraph_ABP_Mage:0040
+[2026.01.25-18.24.13:008][890]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Mage_C /Engine/Transient.World_80:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Mage_C_138
+	Function /Game/_Project/03_characters/Animation/Mage/ABP_Mage.ABP_Mage_C:ExecuteUbergraph_ABP_Mage:0040
+[2026.01.25-18.24.13:041][891]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Mage_C /Engine/Transient.World_80:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Mage_C_139
+	Function /Game/_Project/03_characters/Animation/Mage/ABP_Mage.ABP_Mage_C:ExecuteUbergraph_ABP_Mage:0040
+[2026.01.25-18.24.13:324][899]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Mage_C /Engine/Transient.World_80:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Mage_C_140
+	Function /Game/_Project/03_characters/Animation/Mage/ABP_Mage.ABP_Mage_C:ExecuteUbergraph_ABP_Mage:0040
+[2026.01.25-18.24.13:374][900]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/_Project/03_characters/Animation/Mage/ABP_Mage.ABP_Mage
+[2026.01.25-18.24.13:375][900]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_156
+[2026.01.25-18.24.13:384][900]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_157
+[2026.01.25-18.24.13:391][900]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_157:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.25-18.24.13:686][900]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_158
+[2026.01.25-18.24.25:707][271]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Mage_C /Engine/Transient.World_80:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Mage_C_141
+	Function /Game/_Project/03_characters/Animation/Mage/ABP_Mage.ABP_Mage_C:ExecuteUbergraph_ABP_Mage:0040
+[2026.01.25-18.24.25:707][271]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Mage_C /Engine/Transient.World_80:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Mage_C_141
+	Function /Game/_Project/03_characters/Animation/Mage/ABP_Mage.ABP_Mage_C:ExecuteUbergraph_ABP_Mage:0040
+[2026.01.25-18.24.25:769][272]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Mage_C /Engine/Transient.World_80:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Mage_C_142
+	Function /Game/_Project/03_characters/Animation/Mage/ABP_Mage.ABP_Mage_C:ExecuteUbergraph_ABP_Mage:0040
+[2026.01.25-18.24.25:771][272]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Mage_C /Engine/Transient.World_80:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Mage_C_142
+	Function /Game/_Project/03_characters/Animation/Mage/ABP_Mage.ABP_Mage_C:ExecuteUbergraph_ABP_Mage:0040
+[2026.01.25-18.24.26:899][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.01.25-18.24.26:915][307]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Mage_C /Engine/Transient.World_80:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Mage_C_143
+	Function /Game/_Project/03_characters/Animation/Mage/ABP_Mage.ABP_Mage_C:ExecuteUbergraph_ABP_Mage:0040
+[2026.01.25-18.24.27:063][309]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Mage_C /Engine/Transient.World_80:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Mage_C_144
+	Function /Game/_Project/03_characters/Animation/Mage/ABP_Mage.ABP_Mage_C:ExecuteUbergraph_ABP_Mage:0040
+[2026.01.25-18.24.27:666][327]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.25-18.24.27:740][327]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Project/03_characters/Animation/Mage/ABP_Mage] ([2] browsable assets)...
+[2026.01.25-18.24.27:741][327]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Mage_C /Engine/Transient.World_80:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Mage_C_145
+	Function /Game/_Project/03_characters/Animation/Mage/ABP_Mage.ABP_Mage_C:ExecuteUbergraph_ABP_Mage:0040
+[2026.01.25-18.24.27:749][327]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/_Project/03_characters/Animation/Mage/ABP_Mage.ABP_Mage]
+[2026.01.25-18.24.27:749][327]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/03_characters/Animation/Mage/ABP_Mage]
+[2026.01.25-18.24.27:775][327]LogSavePackage: Moving output files for package: /Game/_Project/03_characters/Animation/Mage/ABP_Mage
+[2026.01.25-18.24.27:775][327]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/ABP_MageE564A3554A2AD047604E41852363B660.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Content/_Project/03_characters/Animation/Mage/ABP_Mage.uasset'
+[2026.01.25-18.24.27:791][327]LogFileHelpers: InternalPromptForCheckoutAndSave took 125.627 ms (total: 8.67 sec)
+[2026.01.25-18.24.27:859][327]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.25-18.24.27:859][327]LogContentValidation: Enabled validators:
+[2026.01.25-18.24.27:859][327]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.25-18.24.27:859][327]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.25-18.24.27:859][327]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.25-18.24.27:859][327]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.25-18.24.27:859][327]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.25-18.24.27:859][327]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.25-18.24.27:859][327]AssetCheck: /Game/_Project/03_characters/Animation/Mage/ABP_Mage Validating asset
+[2026.01.25-18.24.27:933][329]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Mage_C /Engine/Transient.World_80:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Mage_C_146
+	Function /Game/_Project/03_characters/Animation/Mage/ABP_Mage.ABP_Mage_C:ExecuteUbergraph_ABP_Mage:0040
+[2026.01.25-18.24.28:556][349]LogWorld: UWorld::CleanupWorld for World_156, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-18.24.28:556][349]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-18.24.28:574][349]LogWorld: UWorld::CleanupWorld for World_157, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-18.24.28:574][349]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-18.24.28:618][349]LogWorld: UWorld::CleanupWorld for World_158, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-18.24.28:619][349]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-18.24.28:651][349]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.01.25-18.24.31:903][450]LogBlueprint: Warning: [AssetLog] /Game/_Project/03_characters/Animation/Golem/ABP_Golem.ABP_Golem: [Compiler] Entry node  State Machine Golem  is not connected to state
+[2026.01.25-18.24.31:903][450]LogBlueprint: Warning: [AssetLog] /Game/_Project/03_characters/Animation/Golem/ABP_Golem.ABP_Golem: [Compiler] There was no entry state connection in  State Machine Golem
+[2026.01.25-18.24.31:956][450]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.01.25-18.25.50:459][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.01.25-18.26.44:387][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.01.25-18.27.23:035][962]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10776.548828
+[2026.01.25-18.27.23:249][969]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.25-18.27.23:249][969]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10776.732422, Update Interval: 309.302032
+[2026.01.25-18.27.38:790][456]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/_Project/03_characters/Enemies/03_Textures/Golem/mutant-golem/source/Golem_Run.Golem_Run
+[2026.01.25-18.27.38:898][456]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_159
+[2026.01.25-18.27.42:651][573]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_160
+[2026.01.25-18.27.42:673][573]LogWorld: UWorld::CleanupWorld for World_159, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-18.27.42:673][573]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-18.27.42:726][574]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.01.25-18.27.44:660][630]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_161
+[2026.01.25-18.27.44:680][630]LogWorld: UWorld::CleanupWorld for World_160, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-18.27.44:680][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-18.27.44:726][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.01.25-18.27.49:676][787]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_162
+[2026.01.25-18.27.49:697][787]LogWorld: UWorld::CleanupWorld for World_161, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-18.27.49:697][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-18.27.49:743][788]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.01.25-18.28.20:403][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.01.25-18.28.47:938][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.01.25-18.28.47:964][576]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Golem_C /Engine/Transient.World_149:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Golem_C_87
+	Function /Game/_Project/03_characters/Animation/Golem/ABP_Golem.ABP_Golem_C:ExecuteUbergraph_ABP_Golem:0040
+[2026.01.25-18.28.47:966][576]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Golem_C /Engine/Transient.World_154:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Golem_C_0
+	Function /Game/_Project/03_characters/Animation/Golem/ABP_Golem.ABP_Golem_C:ExecuteUbergraph_ABP_Golem:0040
+[2026.01.25-18.28.48:037][577]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Golem_C /Engine/Transient.World_154:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Golem_C_0
+	Function /Game/_Project/03_characters/Animation/Golem/ABP_Golem.ABP_Golem_C:ExecuteUbergraph_ABP_Golem:0040
+[2026.01.25-18.28.48:100][578]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Golem_C /Engine/Transient.World_154:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Golem_C_0
+	Function /Game/_Project/03_characters/Animation/Golem/ABP_Golem.ABP_Golem_C:ExecuteUbergraph_ABP_Golem:0040
+[2026.01.25-18.28.48:152][579]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Golem_C /Engine/Transient.World_154:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Golem_C_0
+	Function /Game/_Project/03_characters/Animation/Golem/ABP_Golem.ABP_Golem_C:ExecuteUbergraph_ABP_Golem:0040
+[2026.01.25-18.28.48:184][580]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Golem_C /Engine/Transient.World_154:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Golem_C_0
+	Function /Game/_Project/03_characters/Animation/Golem/ABP_Golem.ABP_Golem_C:ExecuteUbergraph_ABP_Golem:0040
+[2026.01.25-18.28.48:213][581]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Golem_C /Engine/Transient.World_154:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Golem_C_0
+	Function /Game/_Project/03_characters/Animation/Golem/ABP_Golem.ABP_Golem_C:ExecuteUbergraph_ABP_Golem:0040
+[2026.01.25-18.28.48:268][582]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Golem_C /Engine/Transient.World_154:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Golem_C_0
+	Function /Game/_Project/03_characters/Animation/Golem/ABP_Golem.ABP_Golem_C:ExecuteUbergraph_ABP_Golem:0040
+[2026.01.25-18.28.48:324][583]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Golem_C /Engine/Transient.World_154:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Golem_C_0
+	Function /Game/_Project/03_characters/Animation/Golem/ABP_Golem.ABP_Golem_C:ExecuteUbergraph_ABP_Golem:0040
+[2026.01.25-18.28.48:357][584]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Golem_C /Engine/Transient.World_154:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Golem_C_0
+	Function /Game/_Project/03_characters/Animation/Golem/ABP_Golem.ABP_Golem_C:ExecuteUbergraph_ABP_Golem:0040
+[2026.01.25-18.28.48:393][585]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Golem_C /Engine/Transient.World_154:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Golem_C_0
+	Function /Game/_Project/03_characters/Animation/Golem/ABP_Golem.ABP_Golem_C:ExecuteUbergraph_ABP_Golem:0040
+[2026.01.25-18.28.48:427][586]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Golem_C /Engine/Transient.World_154:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Golem_C_0
+	Function /Game/_Project/03_characters/Animation/Golem/ABP_Golem.ABP_Golem_C:ExecuteUbergraph_ABP_Golem:0040
+[2026.01.25-18.28.48:461][587]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Golem_C /Engine/Transient.World_154:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Golem_C_0
+	Function /Game/_Project/03_characters/Animation/Golem/ABP_Golem.ABP_Golem_C:ExecuteUbergraph_ABP_Golem:0040
+[2026.01.25-18.28.48:493][588]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Golem_C /Engine/Transient.World_154:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Golem_C_0
+	Function /Game/_Project/03_characters/Animation/Golem/ABP_Golem.ABP_Golem_C:ExecuteUbergraph_ABP_Golem:0040
+[2026.01.25-18.28.48:524][589]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Golem_C /Engine/Transient.World_154:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Golem_C_0
+	Function /Game/_Project/03_characters/Animation/Golem/ABP_Golem.ABP_Golem_C:ExecuteUbergraph_ABP_Golem:0040
+[2026.01.25-18.28.48:557][590]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Golem_C /Engine/Transient.World_154:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Golem_C_0
+	Function /Game/_Project/03_characters/Animation/Golem/ABP_Golem.ABP_Golem_C:ExecuteUbergraph_ABP_Golem:0040
+[2026.01.25-18.28.48:589][591]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Golem_C /Engine/Transient.World_154:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Golem_C_0
+	Function /Game/_Project/03_characters/Animation/Golem/ABP_Golem.ABP_Golem_C:ExecuteUbergraph_ABP_Golem:0040
+[2026.01.25-18.28.49:951][632]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.25-18.28.49:990][632]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Project/03_characters/Animation/Golem/ABP_Golem] ([2] browsable assets)...
+[2026.01.25-18.28.49:990][632]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Golem_C /Engine/Transient.World_149:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Golem_C_88
+	Function /Game/_Project/03_characters/Animation/Golem/ABP_Golem.ABP_Golem_C:ExecuteUbergraph_ABP_Golem:0040
+[2026.01.25-18.28.49:999][632]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/_Project/03_characters/Animation/Golem/ABP_Golem.ABP_Golem]
+[2026.01.25-18.28.49:999][632]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/03_characters/Animation/Golem/ABP_Golem]
+[2026.01.25-18.28.50:027][632]LogSavePackage: Moving output files for package: /Game/_Project/03_characters/Animation/Golem/ABP_Golem
+[2026.01.25-18.28.50:027][632]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/ABP_GolemB8889E7F4721BE3571F02AB64706EFF7.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Content/_Project/03_characters/Animation/Golem/ABP_Golem.uasset'
+[2026.01.25-18.28.50:100][632]LogFileHelpers: InternalPromptForCheckoutAndSave took 149.883 ms (total: 8.82 sec)
+[2026.01.25-18.28.50:128][632]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.25-18.28.50:128][632]LogContentValidation: Enabled validators:
+[2026.01.25-18.28.50:128][632]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.25-18.28.50:128][632]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.25-18.28.50:128][632]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.25-18.28.50:128][632]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.25-18.28.50:128][632]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.25-18.28.50:128][632]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.25-18.28.50:128][632]AssetCheck: /Game/_Project/03_characters/Animation/Golem/ABP_Golem Validating asset
+[2026.01.25-18.28.50:173][632]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.25-18.28.57:128][858]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.25-18.28.57:136][858]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.25-18.28.57:137][858]LogPlayLevel: Creating play world package: /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.25-18.28.57:182][858]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045935s)
+[2026.01.25-18.28.57:182][858]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Project/00_Maps/Map_Game.Map_Game to /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game (0.045994s)
+[2026.01.25-18.28.57:210][858]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.01.25-18.28.57:215][858]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Game
+[2026.01.25-18.28.57:216][858]LogPlayLevel: PIE: World Init took: (0.001796s)
+[2026.01.25-18.28.57:217][858]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2026.01.25-18.28.57:217][858]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.25-18.28.57:217][858]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.25-18.28.57:217][858]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.25-18.28.57:217][858]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.25-18.28.57:217][858]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.25-18.28.57:217][858]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.25-18.28.57:217][858]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.25-18.28.57:217][858]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.25-18.28.57:217][858]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.25-18.28.57:217][858]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.25-18.28.57:217][858]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.25-18.28.57:219][858]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.25-18.28.57:250][858]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2026.01.25-18.28.57:250][858]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.25-18.28.57:250][858]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.25-18.28.57:250][858]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.25-18.28.57:251][858]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2026.01.25-18.28.57:251][858]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=27
+[2026.01.25-18.28.57:252][858]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2026.01.25-18.28.57:253][858]LogInit: FAudioDevice initialized with ID 27.
+[2026.01.25-18.28.57:253][858]LogAudio: Display: Audio Device (ID: 27) registered with world 'Map_Game'.
+[2026.01.25-18.28.57:253][858]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2026.01.25-18.28.57:253][858]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2026.01.25-18.28.57:257][858]LogLoad: Game class is 'BP_GM_Game_C'
+[2026.01.25-18.28.57:259][858]LogWorld: Bringing World /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game up for play (max tick rate 60) at 2026.01.25-19.28.57
+[2026.01.25-18.28.57:260][858]LogWorld: Bringing up level for play took: 0.002560
+[2026.01.25-18.28.57:262][858]LogOnline: OSS: Created online subsystem instance for: :Context_189
+[2026.01.25-18.28.57:265][858]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.01.25-18.28.57:266][858]PIE: Server logged in
+[2026.01.25-18.28.57:268][858]PIE: Play in editor total start time 0,133 seconds.
+[2026.01.25-18.28.57:300][859]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.25-18.29.04:451][220]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] KillAll pressed
+[2026.01.25-18.29.04:451][220]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_0] Damage 1000.0
+[2026.01.25-18.29.04:451][220]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_1] Damage 1000.0
+[2026.01.25-18.29.04:451][220]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_2] Damage 1000.0
+[2026.01.25-18.29.04:451][220]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_3] Damage 1000.0
+[2026.01.25-18.29.04:453][220]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_4] Damage 1000.0
+[2026.01.25-18.29.04:453][220]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_5] Damage 1000.0
+[2026.01.25-18.29.10:531][540]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2026.01.25-18.29.10:531][540]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.01.25-18.29.10:531][540]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2026.01.25-18.29.11:525][596]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.01.25-18.29.11:525][596]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.01.25-18.29.30:490][586]LogBlueprintUserMessages: [BP_Enemy_Mage_C_0] Damage 45.0
+[2026.01.25-18.29.33:692][750]LogBlueprintUserMessages: [BP_Enemy_Mage_C_0] Damage 45.0
+[2026.01.25-18.29.35:624][852]LogBlueprintUserMessages: [BP_Enemy_Mage_C_0] Damage 45.0
+[2026.01.25-18.29.41:260][146]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2026.01.25-18.29.41:260][146]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.01.25-18.29.41:260][146]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2026.01.25-18.29.42:137][196]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.01.25-18.29.42:137][196]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.01.25-18.29.42:611][221]LogDerivedDataCache: C:/Users/2004i/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.01.25-18.30.18:422][ 92]LogBlueprintUserMessages: [BP_Enemy_Golem_C_0] Damage 65.0
+[2026.01.25-18.30.19:815][164]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] No Stamina
+[2026.01.25-18.30.35:179][960]LogBlueprintUserMessages: [BP_Enemy_Golem_C_0] Damage 65.0
+[2026.01.25-18.30.38:168][113]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2026.01.25-18.30.38:168][113]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.01.25-18.30.38:168][113]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2026.01.25-18.30.41:983][316]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/_Project/00_Maps/Map_Game"
+[2026.01.25-18.30.41:983][316]LogNet: Browse: /Game/_Project/00_Maps/Map_Game
+[2026.01.25-18.30.41:983][316]LogLoad: LoadMap: /Game/_Project/00_Maps/Map_Game
+[2026.01.25-18.30.41:983][316]LogWorld: BeginTearingDown for /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.25-18.30.41:984][316]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.01.25-18.30.41:986][316]LogWorld: UWorld::CleanupWorld for Map_Game, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-18.30.41:988][316]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-18.30.42:015][316]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.25-18.30.42:020][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.01.25-18.30.42:023][316]LogPlayLevel: Creating play world package: /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.25-18.30.42:066][316]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042865s)
+[2026.01.25-18.30.42:066][316]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Project/00_Maps/Map_Game.Map_Game to /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game (0.042931s)
+[2026.01.25-18.30.42:066][316]LogAudio: Display: Audio Device (ID: 27) registered with world 'Map_Game'.
+[2026.01.25-18.30.42:066][316]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Game
+[2026.01.25-18.30.42:068][316]LogPlayLevel: PIE: World Init took: (0.001768s)
+[2026.01.25-18.30.42:068][316]LogLoad: Game class is 'BP_GM_Game_C'
+[2026.01.25-18.30.42:070][316]LogWorld: Bringing World /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game up for play (max tick rate 60) at 2026.01.25-19.30.42
+[2026.01.25-18.30.42:070][316]LogWorld: Bringing up level for play took: 0.002064
+[2026.01.25-18.30.42:073][316]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.01.25-18.30.42:073][316]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.01.25-18.30.42:073][316]LogLoad: Took 0.089566 seconds to LoadMap(/Game/_Project/00_Maps/UEDPIE_0_Map_Game)
+[2026.01.25-18.30.42:073][316]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.25-18.30.42:135][317]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.25-18.30.42:726][335]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.25-18.30.42:726][335]LogWorld: BeginTearingDown for /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.25-18.30.42:726][335]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.01.25-18.30.42:726][335]LogWorld: UWorld::CleanupWorld for Map_Game, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-18.30.42:727][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-18.30.42:729][335]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.25-18.30.42:733][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-18.30.42:759][335]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.25-18.30.42:759][335]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2026.01.25-18.30.42:759][335]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27, StreamState=4
+[2026.01.25-18.30.42:762][335]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27, StreamState=2
+[2026.01.25-18.30.42:770][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.01.25-18.30.42:808][335]LogPSOHitching: Encountered 1650 PSO creation hitches so far (637 graphics, 1013 compute). 0 of them were precached.
+[2026.01.25-18.30.42:898][336]LogPlayLevel: Display: Destroying online subsystem :Context_189
+[2026.01.25-18.30.47:639][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
