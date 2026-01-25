@@ -13204,3 +13204,360 @@ Make sure 'BP_ThirdPersonCharacter_C' has been compiled for  Do Backstep Then Ju
 [2026.01.25-21.27.18:482][509]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21571.484375
 [2026.01.25-21.27.18:696][521]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.01.25-21.27.18:696][521]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21571.675781, Update Interval: 333.474548
+[2026.01.25-21.27.55:052][316]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.01.25-21.27.55:052][316]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.01.25-21.27.56:344][370]LogShaderCompilers: Display: ================================================
+[2026.01.25-21.27.56:344][370]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.01.25-21.27.56:344][370]LogShaderCompilers: Display: Total job queries 495, among them cache hits 70 (14.14%), DDC hits 356 (71.92%), Duplicates 68 (13.74%)
+[2026.01.25-21.27.56:344][370]LogShaderCompilers: Display: Tracking 357 distinct input hashes that result in 255 distinct outputs (71.43%)
+[2026.01.25-21.27.56:344][370]LogShaderCompilers: Display: RAM used: 3,39 MiB of 1,60 GiB budget. Usage: 0.21%
+[2026.01.25-21.27.56:344][370]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.01.25-21.27.56:344][370]LogShaderCompilers: Display: Shaders Compiled: 1
+[2026.01.25-21.27.56:344][370]LogShaderCompilers: Display: Jobs assigned 1, completed 1 (100%)
+[2026.01.25-21.27.56:344][370]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.08 s
+[2026.01.25-21.27.56:344][370]LogShaderCompilers: Display: Job execution time: average 1.82 s, max 1.82 s
+[2026.01.25-21.27.56:344][370]LogShaderCompilers: Display: Job life time (pending + execution): average 1.90 s, max 1.90
+[2026.01.25-21.27.56:344][370]LogShaderCompilers: Display: Shader code size: total 11,543 KiB, numShaders 1, average 11,543 KiB, min 11,543 KiB, max 11,543 KiB
+[2026.01.25-21.27.56:344][370]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.90 s
+[2026.01.25-21.27.56:344][370]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.06%
+[2026.01.25-21.27.56:344][370]LogShaderCompilers: Display: Jobs were issued in 1 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.01.25-21.27.56:344][370]LogShaderCompilers: Display: Average processing rate: 0.53 jobs/sec
+[2026.01.25-21.27.56:344][370]LogShaderCompilers: Display: Total thread time: 1,1 s
+[2026.01.25-21.27.56:344][370]LogShaderCompilers: Display: Total thread preprocess time: 8,197 s
+[2026.01.25-21.27.56:344][370]LogShaderCompilers: Display: Percentage time preprocessing: 745.02%
+[2026.01.25-21.27.56:344][370]LogShaderCompilers: Display: Effective parallelization: 0.58 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.072564
+[2026.01.25-21.27.56:344][370]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.01.25-21.27.56:344][370]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 1.10 sec, max 1.10 sec, min 1.10 sec)
+[2026.01.25-21.27.56:344][370]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.01.25-21.27.56:344][370]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.01.25-21.27.56:344][370]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.01.25-21.27.56:344][370]LogShaderCompilers: Display:                                      FLandscapeGrassWeightPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.01.25-21.27.56:344][370]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.01.25-21.27.56:344][370]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 100.00% of total time (compiled    1 times, average 1.10 sec, max 1.10 sec, min 1.10 sec)
+[2026.01.25-21.27.56:344][370]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.01.25-21.27.56:344][370]LogShaderCompilers: Display:                                                 FLumenCardPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.01.25-21.27.56:344][370]LogShaderCompilers: Display:                                      FLandscapeGrassWeightPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.01.25-21.27.56:344][370]LogShaderCompilers: Display:                                                 FLumenCardVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.01.25-21.27.56:344][370]LogShaderCompilers: Display: === Material stats ===
+[2026.01.25-21.27.56:344][370]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.01.25-21.27.56:344][370]LogShaderCompilers: Display: Materials Translated:    150
+[2026.01.25-21.27.56:344][370]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2026.01.25-21.27.56:344][370]LogShaderCompilers: Display: Material Translation Only: 0.04 s (34%)
+[2026.01.25-21.27.56:345][370]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.01.25-21.27.56:345][370]LogShaderCompilers: Display: Material Cache Hits: 17 (11%)
+[2026.01.25-21.27.56:345][370]LogShaderCompilers: Display: ================================================
+[2026.01.25-21.29.42:611][349]LogDerivedDataCache: C:/Users/2004i/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.01.25-21.31.18:584][663]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'Hips' 
+[2026.01.25-21.31.18:585][663]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'Spine1' 
+[2026.01.25-21.31.18:585][663]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'Spine2' 
+[2026.01.25-21.31.18:585][663]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'Head' 
+[2026.01.25-21.31.18:585][663]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'LeftArm' 
+[2026.01.25-21.31.18:585][663]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'LeftHand' 
+[2026.01.25-21.31.18:585][663]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'Shield_joint' 
+[2026.01.25-21.31.18:585][663]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'RightArm' 
+[2026.01.25-21.31.18:585][663]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'RightHand' 
+[2026.01.25-21.31.18:585][663]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'Sword_joint' 
+[2026.01.25-21.31.18:585][663]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'LeftUpLeg' 
+[2026.01.25-21.31.18:585][663]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'LeftLeg' 
+[2026.01.25-21.31.18:585][663]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'LeftFoot' 
+[2026.01.25-21.31.18:585][663]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'RightUpLeg' 
+[2026.01.25-21.31.18:585][663]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'RightLeg' 
+[2026.01.25-21.31.18:585][663]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'RightFoot' 
+[2026.01.25-21.31.18:585][663]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'Hips' 
+[2026.01.25-21.31.18:585][663]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'Spine1' 
+[2026.01.25-21.31.18:585][663]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'Spine2' 
+[2026.01.25-21.31.18:585][663]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'Head' 
+[2026.01.25-21.31.18:585][663]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'LeftArm' 
+[2026.01.25-21.31.18:585][663]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'LeftHand' 
+[2026.01.25-21.31.18:585][663]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'Shield_joint' 
+[2026.01.25-21.31.18:585][663]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'RightArm' 
+[2026.01.25-21.31.18:585][663]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'RightHand' 
+[2026.01.25-21.31.18:585][663]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'Sword_joint' 
+[2026.01.25-21.31.18:585][663]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'LeftUpLeg' 
+[2026.01.25-21.31.18:585][663]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'LeftLeg' 
+[2026.01.25-21.31.18:585][663]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'LeftFoot' 
+[2026.01.25-21.31.18:585][663]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'RightUpLeg' 
+[2026.01.25-21.31.18:585][663]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'RightLeg' 
+[2026.01.25-21.31.18:585][663]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'RightFoot' 
+[2026.01.25-21.31.18:661][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2026.01.25-21.32.06:709][914]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'Hips' 
+[2026.01.25-21.32.06:709][914]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'Spine1' 
+[2026.01.25-21.32.06:709][914]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'Spine2' 
+[2026.01.25-21.32.06:709][914]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'Head' 
+[2026.01.25-21.32.06:709][914]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'LeftArm' 
+[2026.01.25-21.32.06:709][914]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'LeftHand' 
+[2026.01.25-21.32.06:709][914]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'Shield_joint' 
+[2026.01.25-21.32.06:709][914]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'RightArm' 
+[2026.01.25-21.32.06:709][914]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'RightHand' 
+[2026.01.25-21.32.06:709][914]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'Sword_joint' 
+[2026.01.25-21.32.06:709][914]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'LeftUpLeg' 
+[2026.01.25-21.32.06:709][914]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'LeftLeg' 
+[2026.01.25-21.32.06:709][914]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'LeftFoot' 
+[2026.01.25-21.32.06:709][914]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'RightUpLeg' 
+[2026.01.25-21.32.06:709][914]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'RightLeg' 
+[2026.01.25-21.32.06:709][914]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'RightFoot' 
+[2026.01.25-21.32.06:711][914]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'Hips' 
+[2026.01.25-21.32.06:711][914]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'Spine1' 
+[2026.01.25-21.32.06:711][914]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'Spine2' 
+[2026.01.25-21.32.06:711][914]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'Head' 
+[2026.01.25-21.32.06:711][914]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'LeftArm' 
+[2026.01.25-21.32.06:711][914]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'LeftHand' 
+[2026.01.25-21.32.06:711][914]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'Shield_joint' 
+[2026.01.25-21.32.06:711][914]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'RightArm' 
+[2026.01.25-21.32.06:711][914]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'RightHand' 
+[2026.01.25-21.32.06:711][914]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'Sword_joint' 
+[2026.01.25-21.32.06:711][914]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'LeftUpLeg' 
+[2026.01.25-21.32.06:711][914]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'LeftLeg' 
+[2026.01.25-21.32.06:711][914]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'LeftFoot' 
+[2026.01.25-21.32.06:711][914]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'RightUpLeg' 
+[2026.01.25-21.32.06:711][914]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'RightLeg' 
+[2026.01.25-21.32.06:711][914]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_ThirdPersonCharacter_C_0 /Engine/Transient.World_172:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0 Bone: 'RightFoot' 
+[2026.01.25-21.32.06:784][914]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.01.25-21.32.07:197][917]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.25-21.32.07:272][917]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.01.25-21.32.07:279][917]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.01.25-21.32.07:279][917]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.01.25-21.32.07:344][917]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.01.25-21.32.07:344][917]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/BP_ThirdPersonCharacterCD8D394D41A346DC1473778A6D510A90.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.01.25-21.32.07:365][917]LogFileHelpers: InternalPromptForCheckoutAndSave took 167.366 ms (total: 15.5 sec)
+[2026.01.25-21.32.07:441][917]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.25-21.32.07:441][917]LogContentValidation: Enabled validators:
+[2026.01.25-21.32.07:441][917]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.25-21.32.07:441][917]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.25-21.32.07:441][917]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.25-21.32.07:441][917]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.25-21.32.07:442][917]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.25-21.32.07:442][917]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.25-21.32.07:442][917]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.01.25-21.32.09:637][ 18]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.25-21.32.09:645][ 18]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.25-21.32.09:645][ 18]LogPlayLevel: Creating play world package: /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.25-21.32.09:694][ 18]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049615s)
+[2026.01.25-21.32.09:694][ 18]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Project/00_Maps/Map_Game.Map_Game to /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game (0.049679s)
+[2026.01.25-21.32.09:723][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2026.01.25-21.32.09:741][ 18]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Game
+[2026.01.25-21.32.09:743][ 18]LogPlayLevel: PIE: World Init took: (0.002035s)
+[2026.01.25-21.32.09:745][ 18]LogAudio: Display: Creating Audio Device:                 Id: 68, Scope: Unique, Realtime: True
+[2026.01.25-21.32.09:745][ 18]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.25-21.32.09:745][ 18]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.25-21.32.09:745][ 18]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.25-21.32.09:745][ 18]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.25-21.32.09:745][ 18]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.25-21.32.09:745][ 18]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.25-21.32.09:745][ 18]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.25-21.32.09:745][ 18]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.25-21.32.09:745][ 18]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.25-21.32.09:745][ 18]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.25-21.32.09:745][ 18]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.25-21.32.09:747][ 18]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.25-21.32.09:778][ 18]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2026.01.25-21.32.09:779][ 18]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.25-21.32.09:779][ 18]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.25-21.32.09:779][ 18]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.25-21.32.09:779][ 18]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=68
+[2026.01.25-21.32.09:779][ 18]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=68
+[2026.01.25-21.32.09:781][ 18]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=68
+[2026.01.25-21.32.09:781][ 18]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=68
+[2026.01.25-21.32.09:781][ 18]LogInit: FAudioDevice initialized with ID 68.
+[2026.01.25-21.32.09:781][ 18]LogAudio: Display: Audio Device (ID: 68) registered with world 'Map_Game'.
+[2026.01.25-21.32.09:781][ 18]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 68
+[2026.01.25-21.32.09:787][ 18]LogLoad: Game class is 'BP_GM_Game_C'
+[2026.01.25-21.32.09:790][ 18]LogWorld: Bringing World /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game up for play (max tick rate 60) at 2026.01.25-22.32.09
+[2026.01.25-21.32.09:790][ 18]LogWorld: Bringing up level for play took: 0.003006
+[2026.01.25-21.32.09:793][ 18]LogOnline: OSS: Created online subsystem instance for: :Context_241
+[2026.01.25-21.32.09:795][ 18]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.01.25-21.32.09:797][ 18]PIE: Server logged in
+[2026.01.25-21.32.09:800][ 18]PIE: Play in editor total start time 0,155 seconds.
+[2026.01.25-21.32.09:869][ 19]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.25-21.32.10:042][ 20]LogPSOHitching: Encountered 2800 PSO creation hitches so far (1137 graphics, 1663 compute). 0 of them were precached.
+[2026.01.25-21.32.12:735][178]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] HP 70.0
+[2026.01.25-21.32.22:518][763]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.25-21.32.22:518][763]LogWorld: BeginTearingDown for /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.25-21.32.22:518][763]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.01.25-21.32.22:518][763]LogWorld: UWorld::CleanupWorld for Map_Game, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-21.32.22:519][763]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-21.32.22:521][763]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.25-21.32.22:527][763]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-21.32.22:553][763]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.25-21.32.22:553][763]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 68
+[2026.01.25-21.32.22:553][763]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=68, StreamState=4
+[2026.01.25-21.32.22:555][763]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=68, StreamState=2
+[2026.01.25-21.32.22:560][763]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.25-21.32.22:564][763]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.01.25-21.32.22:681][764]LogPlayLevel: Display: Destroying online subsystem :Context_241
+[2026.01.25-21.32.23:229][790]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.25-21.32.23:236][790]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.25-21.32.23:236][790]LogPlayLevel: Creating play world package: /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.25-21.32.23:278][790]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041837s)
+[2026.01.25-21.32.23:278][790]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Project/00_Maps/Map_Game.Map_Game to /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game (0.041881s)
+[2026.01.25-21.32.23:300][790]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.01.25-21.32.23:305][790]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Game
+[2026.01.25-21.32.23:307][790]LogPlayLevel: PIE: World Init took: (0.001875s)
+[2026.01.25-21.32.23:308][790]LogAudio: Display: Creating Audio Device:                 Id: 69, Scope: Unique, Realtime: True
+[2026.01.25-21.32.23:308][790]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.25-21.32.23:308][790]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.25-21.32.23:308][790]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.25-21.32.23:308][790]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.25-21.32.23:308][790]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.25-21.32.23:308][790]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.25-21.32.23:308][790]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.25-21.32.23:308][790]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.25-21.32.23:308][790]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.25-21.32.23:308][790]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.25-21.32.23:308][790]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.25-21.32.23:310][790]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.25-21.32.23:337][790]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2026.01.25-21.32.23:337][790]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.25-21.32.23:337][790]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.25-21.32.23:337][790]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.25-21.32.23:338][790]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=69
+[2026.01.25-21.32.23:338][790]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=69
+[2026.01.25-21.32.23:340][790]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=69
+[2026.01.25-21.32.23:340][790]LogInit: FAudioDevice initialized with ID 69.
+[2026.01.25-21.32.23:340][790]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=69
+[2026.01.25-21.32.23:340][790]LogAudio: Display: Audio Device (ID: 69) registered with world 'Map_Game'.
+[2026.01.25-21.32.23:340][790]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 69
+[2026.01.25-21.32.23:344][790]LogLoad: Game class is 'BP_GM_Game_C'
+[2026.01.25-21.32.23:347][790]LogWorld: Bringing World /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game up for play (max tick rate 60) at 2026.01.25-22.32.23
+[2026.01.25-21.32.23:347][790]LogWorld: Bringing up level for play took: 0.002490
+[2026.01.25-21.32.23:350][790]LogOnline: OSS: Created online subsystem instance for: :Context_242
+[2026.01.25-21.32.23:352][790]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.01.25-21.32.23:354][790]PIE: Server logged in
+[2026.01.25-21.32.23:356][790]PIE: Play in editor total start time 0,12 seconds.
+[2026.01.25-21.32.23:399][791]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.25-21.32.43:547][994]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.25-21.32.43:548][994]LogWorld: BeginTearingDown for /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.25-21.32.43:548][994]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.01.25-21.32.43:548][994]LogWorld: UWorld::CleanupWorld for Map_Game, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-21.32.43:549][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-21.32.43:551][994]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.25-21.32.43:557][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-21.32.43:583][994]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.25-21.32.43:583][994]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 69
+[2026.01.25-21.32.43:584][994]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=69, StreamState=4
+[2026.01.25-21.32.43:585][994]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=69, StreamState=2
+[2026.01.25-21.32.43:593][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.01.25-21.32.43:670][995]LogPlayLevel: Display: Destroying online subsystem :Context_242
+[2026.01.25-21.33.30:643][286]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.01.25-21.33.30:643][286]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.01.25-21.33.30:928][286]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.25-21.33.31:007][286]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.01.25-21.33.31:007][286]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.01.25-21.33.31:074][286]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.01.25-21.33.31:074][286]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/BP_ThirdPersonCharacter1DE957124DB5DE1CFBE929846CBEBC11.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.01.25-21.33.31:094][286]LogFileHelpers: InternalPromptForCheckoutAndSave took 166.011 ms (total: 15.7 sec)
+[2026.01.25-21.33.31:177][286]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.25-21.33.31:177][286]LogContentValidation: Enabled validators:
+[2026.01.25-21.33.31:177][286]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.25-21.33.31:177][286]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.25-21.33.31:177][286]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.25-21.33.31:177][286]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.25-21.33.31:177][286]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.25-21.33.31:177][286]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.25-21.33.31:177][286]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.01.25-21.33.32:706][339]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.25-21.33.32:788][339]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Project/01_Blueprints/Enemies/BP_EnemyBase] ([2] browsable assets)...
+[2026.01.25-21.33.32:788][339]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/01_Blueprints/Enemies/BP_EnemyBase]
+[2026.01.25-21.33.32:825][339]LogSavePackage: Moving output files for package: /Game/_Project/01_Blueprints/Enemies/BP_EnemyBase
+[2026.01.25-21.33.32:826][339]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/BP_EnemyBase96103D6F403618E800AF8E8DAA02AD9F.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Content/_Project/01_Blueprints/Enemies/BP_EnemyBase.uasset'
+[2026.01.25-21.33.32:843][339]LogFileHelpers: InternalPromptForCheckoutAndSave took 138.081 ms (total: 15.8 sec)
+[2026.01.25-21.33.32:924][339]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.25-21.33.32:924][339]LogContentValidation: Enabled validators:
+[2026.01.25-21.33.32:924][339]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.25-21.33.32:924][339]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.25-21.33.32:924][339]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.25-21.33.32:924][339]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.25-21.33.32:924][339]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.25-21.33.32:924][339]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.25-21.33.32:924][339]AssetCheck: /Game/_Project/01_Blueprints/Enemies/BP_EnemyBase Validating asset
+[2026.01.25-21.33.32:959][339]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21945.982422
+[2026.01.25-21.33.33:145][349]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.25-21.33.33:145][349]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21946.150391, Update Interval: 319.695435
+[2026.01.25-21.33.51:135][ 66]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.25-21.33.51:144][ 66]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.25-21.33.51:144][ 66]LogPlayLevel: Creating play world package: /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.25-21.33.51:189][ 66]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045112s)
+[2026.01.25-21.33.51:189][ 66]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Project/00_Maps/Map_Game.Map_Game to /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game (0.045160s)
+[2026.01.25-21.33.51:219][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.01.25-21.33.51:228][ 66]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Game
+[2026.01.25-21.33.51:231][ 66]LogPlayLevel: PIE: World Init took: (0.002418s)
+[2026.01.25-21.33.51:232][ 66]LogAudio: Display: Creating Audio Device:                 Id: 70, Scope: Unique, Realtime: True
+[2026.01.25-21.33.51:232][ 66]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.25-21.33.51:232][ 66]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.25-21.33.51:232][ 66]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.25-21.33.51:232][ 66]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.25-21.33.51:232][ 66]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.25-21.33.51:232][ 66]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.25-21.33.51:232][ 66]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.25-21.33.51:232][ 66]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.25-21.33.51:232][ 66]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.25-21.33.51:232][ 66]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.25-21.33.51:232][ 66]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.25-21.33.51:234][ 66]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.25-21.33.51:264][ 66]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2026.01.25-21.33.51:264][ 66]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.25-21.33.51:264][ 66]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.25-21.33.51:264][ 66]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.25-21.33.51:265][ 66]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=70
+[2026.01.25-21.33.51:265][ 66]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=70
+[2026.01.25-21.33.51:266][ 66]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=70
+[2026.01.25-21.33.51:266][ 66]LogInit: FAudioDevice initialized with ID 70.
+[2026.01.25-21.33.51:266][ 66]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=70
+[2026.01.25-21.33.51:266][ 66]LogAudio: Display: Audio Device (ID: 70) registered with world 'Map_Game'.
+[2026.01.25-21.33.51:266][ 66]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 70
+[2026.01.25-21.33.51:271][ 66]LogLoad: Game class is 'BP_GM_Game_C'
+[2026.01.25-21.33.51:274][ 66]LogWorld: Bringing World /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game up for play (max tick rate 60) at 2026.01.25-22.33.51
+[2026.01.25-21.33.51:274][ 66]LogWorld: Bringing up level for play took: 0.002562
+[2026.01.25-21.33.51:277][ 66]LogOnline: OSS: Created online subsystem instance for: :Context_243
+[2026.01.25-21.33.51:280][ 66]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.01.25-21.33.51:281][ 66]PIE: Server logged in
+[2026.01.25-21.33.51:284][ 66]PIE: Play in editor total start time 0,14 seconds.
+[2026.01.25-21.33.51:349][ 67]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.25-21.34.06:477][965]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] KillAll pressed
+[2026.01.25-21.34.06:477][965]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_0] Damage 1000.0
+[2026.01.25-21.34.06:477][965]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_1] Damage 1000.0
+[2026.01.25-21.34.06:477][965]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_2] Damage 1000.0
+[2026.01.25-21.34.06:477][965]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_3] Damage 1000.0
+[2026.01.25-21.34.06:477][965]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_4] Damage 1000.0
+[2026.01.25-21.34.06:477][965]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_5] Damage 1000.0
+[2026.01.25-21.34.13:825][405]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2026.01.25-21.34.13:825][405]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.01.25-21.34.13:825][405]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2026.01.25-21.34.14:590][451]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.01.25-21.34.14:590][451]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.01.25-21.34.35:565][706]LogBlueprintUserMessages: [BP_Enemy_Mage_C_0] Damage 45.0
+[2026.01.25-21.34.37:265][808]LogBlueprintUserMessages: [BP_Enemy_Mage_C_0] Damage 45.0
+[2026.01.25-21.34.38:968][910]LogBlueprintUserMessages: [BP_Enemy_Mage_C_0] Damage 45.0
+[2026.01.25-21.34.45:973][326]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2026.01.25-21.34.45:973][326]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.01.25-21.34.45:973][326]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2026.01.25-21.34.46:604][364]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.01.25-21.34.46:604][364]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.01.25-21.36.49:908][  6]LogBlueprintUserMessages: [BP_Enemy_Golem_C_0] Damage 45.0
+[2026.01.25-21.36.51:278][ 88]LogBlueprintUserMessages: [BP_Enemy_Golem_C_0] Damage 45.0
+[2026.01.25-21.36.53:028][193]LogBlueprintUserMessages: [BP_Enemy_Golem_C_0] Damage 45.0
+[2026.01.25-21.36.56:013][372]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2026.01.25-21.36.56:013][372]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.01.25-21.36.56:013][372]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2026.01.25-21.36.57:180][442]Cmd: quit
+[2026.01.25-21.36.57:181][442]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.25-21.36.57:181][442]LogWorld: BeginTearingDown for /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.25-21.36.57:181][442]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.01.25-21.36.57:182][442]LogWorld: UWorld::CleanupWorld for Map_Game, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-21.36.57:183][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-21.36.57:184][442]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.25-21.36.57:194][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-21.36.57:225][442]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.25-21.36.57:226][442]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 70
+[2026.01.25-21.36.57:226][442]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=70, StreamState=4
+[2026.01.25-21.36.57:229][442]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=70, StreamState=2
+[2026.01.25-21.36.57:240][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2026.01.25-21.36.57:318][442]LogPSOHitching: Encountered 2850 PSO creation hitches so far (1168 graphics, 1682 compute). 0 of them were precached.
+[2026.01.25-21.36.57:464][443]LogPlayLevel: Display: Destroying online subsystem :Context_243
+[2026.01.25-21.36.57:620][446]LogD3D12RHI: Waited for PSO creation for 100.000000ms
