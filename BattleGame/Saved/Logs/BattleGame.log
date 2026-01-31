@@ -6756,3 +6756,745 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.01.31-14.13.42:455][776]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15085.787109
 [2026.01.31-14.13.42:663][785]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.01.31-14.13.42:663][785]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15085.973633, Update Interval: 347.182220
+[2026.01.31-14.15.25:145][781]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.01.31-14.15.25:145][781]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.01.31-14.16.37:097][491]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2026.01.31-14.16.37:195][492]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2026.01.31-14.16.39:451][575]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Hips' 
+[2026.01.31-14.16.39:451][575]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Spine1' 
+[2026.01.31-14.16.39:451][575]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Spine2' 
+[2026.01.31-14.16.39:451][575]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Head' 
+[2026.01.31-14.16.39:451][575]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftArm' 
+[2026.01.31-14.16.39:451][575]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftForeArm' 
+[2026.01.31-14.16.39:451][575]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftHand' 
+[2026.01.31-14.16.39:451][575]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightArm' 
+[2026.01.31-14.16.39:452][575]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightForeArm' 
+[2026.01.31-14.16.39:452][575]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightHand' 
+[2026.01.31-14.16.39:452][575]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftUpLeg' 
+[2026.01.31-14.16.39:452][575]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftLeg' 
+[2026.01.31-14.16.39:452][575]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftFoot' 
+[2026.01.31-14.16.39:452][575]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightUpLeg' 
+[2026.01.31-14.16.39:452][575]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightLeg' 
+[2026.01.31-14.16.39:452][575]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightFoot' 
+[2026.01.31-14.16.39:452][575]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Ribbon2' 
+[2026.01.31-14.16.39:453][575]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Hips' 
+[2026.01.31-14.16.39:453][575]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Spine1' 
+[2026.01.31-14.16.39:453][575]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Spine2' 
+[2026.01.31-14.16.39:453][575]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Head' 
+[2026.01.31-14.16.39:453][575]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftArm' 
+[2026.01.31-14.16.39:453][575]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftForeArm' 
+[2026.01.31-14.16.39:453][575]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftHand' 
+[2026.01.31-14.16.39:453][575]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightArm' 
+[2026.01.31-14.16.39:453][575]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightForeArm' 
+[2026.01.31-14.16.39:453][575]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightHand' 
+[2026.01.31-14.16.39:453][575]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftUpLeg' 
+[2026.01.31-14.16.39:453][575]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftLeg' 
+[2026.01.31-14.16.39:453][575]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftFoot' 
+[2026.01.31-14.16.39:453][575]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightUpLeg' 
+[2026.01.31-14.16.39:453][575]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightLeg' 
+[2026.01.31-14.16.39:453][575]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightFoot' 
+[2026.01.31-14.16.39:453][575]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Ribbon2' 
+[2026.01.31-14.16.39:516][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.01.31-14.16.40:432][600]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.31-14.16.40:524][600]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Project/01_Blueprints/Enemies/BP_Enemy_Mage] ([2] browsable assets)...
+[2026.01.31-14.16.40:564][600]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Project/01_Blueprints/Enemies/BP_Enemy_Mage.BP_Enemy_Mage]
+[2026.01.31-14.16.40:564][600]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/01_Blueprints/Enemies/BP_Enemy_Mage]
+[2026.01.31-14.16.40:604][600]LogSavePackage: Moving output files for package: /Game/_Project/01_Blueprints/Enemies/BP_Enemy_Mage
+[2026.01.31-14.16.40:605][600]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/BP_Enemy_MageB5236000455AF8AAD518AB8AACCCBC20.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Content/_Project/01_Blueprints/Enemies/BP_Enemy_Mage.uasset'
+[2026.01.31-14.16.40:620][600]LogFileHelpers: InternalPromptForCheckoutAndSave took 187.826 ms (total: 10.2 sec)
+[2026.01.31-14.16.40:716][600]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.31-14.16.40:716][600]LogContentValidation: Enabled validators:
+[2026.01.31-14.16.40:716][600]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.31-14.16.40:718][600]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.31-14.16.40:718][600]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.31-14.16.40:718][600]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.31-14.16.40:718][600]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.31-14.16.40:718][600]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.31-14.16.40:718][600]AssetCheck: /Game/_Project/01_Blueprints/Enemies/BP_Enemy_Mage Validating asset
+[2026.01.31-14.16.42:567][682]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.31-14.16.42:575][682]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.31-14.16.42:576][682]LogPlayLevel: Creating play world package: /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.31-14.16.42:624][682]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047514s)
+[2026.01.31-14.16.42:624][682]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Project/00_Maps/Map_Game.Map_Game to /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game (0.047571s)
+[2026.01.31-14.16.42:655][682]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.01.31-14.16.42:663][682]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Game
+[2026.01.31-14.16.42:665][682]LogPlayLevel: PIE: World Init took: (0.001849s)
+[2026.01.31-14.16.42:666][682]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2026.01.31-14.16.42:666][682]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.31-14.16.42:666][682]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.31-14.16.42:666][682]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.31-14.16.42:666][682]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.31-14.16.42:666][682]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.31-14.16.42:666][682]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.31-14.16.42:666][682]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.31-14.16.42:666][682]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.31-14.16.42:666][682]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.31-14.16.42:666][682]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.31-14.16.42:666][682]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.31-14.16.42:669][682]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.31-14.16.42:702][682]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2026.01.31-14.16.42:702][682]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.31-14.16.42:702][682]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.31-14.16.42:702][682]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.31-14.16.42:703][682]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2026.01.31-14.16.42:703][682]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=21
+[2026.01.31-14.16.42:705][682]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2026.01.31-14.16.42:705][682]LogInit: FAudioDevice initialized with ID 21.
+[2026.01.31-14.16.42:705][682]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2026.01.31-14.16.42:705][682]LogAudio: Display: Audio Device (ID: 21) registered with world 'Map_Game'.
+[2026.01.31-14.16.42:705][682]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2026.01.31-14.16.42:710][682]LogLoad: Game class is 'BP_GM_Game_C'
+[2026.01.31-14.16.42:712][682]LogWorld: Bringing World /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game up for play (max tick rate 60) at 2026.01.31-15.16.42
+[2026.01.31-14.16.42:712][682]LogWorld: Bringing up level for play took: 0.002467
+[2026.01.31-14.16.42:714][682]LogOnline: OSS: Created online subsystem instance for: :Context_71
+[2026.01.31-14.16.42:718][682]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.01.31-14.16.42:719][682]PIE: Server logged in
+[2026.01.31-14.16.42:722][682]PIE: Play in editor total start time 0,147 seconds.
+[2026.01.31-14.16.42:794][683]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.31-14.16.42:935][684]LogPSOHitching: Encountered 1750 PSO creation hitches so far (811 graphics, 939 compute). 0 of them were precached.
+[2026.01.31-14.16.46:075][865]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] KillAll pressed
+[2026.01.31-14.16.46:075][865]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_0] Damage 1000.0
+[2026.01.31-14.16.46:075][865]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_1] Damage 1000.0
+[2026.01.31-14.16.46:076][865]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_2] Damage 1000.0
+[2026.01.31-14.16.46:076][865]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_3] Damage 1000.0
+[2026.01.31-14.16.46:076][865]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_4] Damage 1000.0
+[2026.01.31-14.16.46:076][865]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_5] Damage 1000.0
+[2026.01.31-14.16.53:085][284]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2026.01.31-14.16.53:085][284]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.01.31-14.16.53:085][284]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2026.01.31-14.16.54:133][347]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.01.31-14.16.54:133][347]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.01.31-14.17.25:821][241]LogBlueprintUserMessages: [BP_Enemy_Mage_C_0] Damage 45.0
+[2026.01.31-14.17.27:912][366]LogBlueprintUserMessages: [BP_Enemy_Mage_C_0] Damage 45.0
+[2026.01.31-14.17.34:420][755]LogBlueprintUserMessages: [BP_Enemy_Mage_C_0] Damage 45.0
+[2026.01.31-14.17.35:555][821]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.31-14.17.35:555][821]LogWorld: BeginTearingDown for /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.31-14.17.35:555][821]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.01.31-14.17.35:555][821]LogWorld: UWorld::CleanupWorld for Map_Game, bSessionEnded=true, bCleanupResources=true
+[2026.01.31-14.17.35:556][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.31-14.17.35:560][821]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.31-14.17.35:568][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.31-14.17.35:604][821]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.31-14.17.35:604][821]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2026.01.31-14.17.35:604][821]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21, StreamState=4
+[2026.01.31-14.17.35:607][821]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21, StreamState=2
+[2026.01.31-14.17.35:612][821]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.31-14.17.35:619][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2026.01.31-14.17.35:737][822]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2026.01.31-14.18.04:897][948]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2026.01.31-14.18.04:904][948]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/_Project/00_Maps/Map_Game' took 0.038
+[2026.01.31-14.18.04:904][948]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Project/01_Blueprints/Enemies/BP_Enemy_Mage] ([2] browsable assets)...
+[2026.01.31-14.18.04:944][948]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Project/01_Blueprints/Enemies/BP_Enemy_Mage.BP_Enemy_Mage]
+[2026.01.31-14.18.04:944][948]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/01_Blueprints/Enemies/BP_Enemy_Mage]
+[2026.01.31-14.18.04:986][948]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Project/01_Blueprints/Enemies/BP_Enemy_Mage_Auto8
+[2026.01.31-14.18.04:986][948]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/BP_Enemy_Mage_Auto84082C2F54C21C17CF7A3B6B162B6786F.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/Autosaves/Game/_Project/01_Blueprints/Enemies/BP_Enemy_Mage_Auto8.uasset'
+[2026.01.31-14.18.04:988][948]LogFileHelpers: Auto-saving content packages took 0.085
+[2026.01.31-14.20.10:216][236]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15473.583008
+[2026.01.31-14.20.10:432][245]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.31-14.20.10:432][245]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15473.776367, Update Interval: 309.765320
+[2026.01.31-14.20.24:945][873]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2026.01.31-14.20.25:044][873]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2026.01.31-14.20.28:687][ 24]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.01.31-14.20.28:688][ 24]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.01.31-14.20.37:556][367]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Hips' 
+[2026.01.31-14.20.37:556][367]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Spine1' 
+[2026.01.31-14.20.37:556][367]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Spine2' 
+[2026.01.31-14.20.37:556][367]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Head' 
+[2026.01.31-14.20.37:556][367]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftArm' 
+[2026.01.31-14.20.37:558][367]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftForeArm' 
+[2026.01.31-14.20.37:558][367]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftHand' 
+[2026.01.31-14.20.37:558][367]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightArm' 
+[2026.01.31-14.20.37:558][367]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightForeArm' 
+[2026.01.31-14.20.37:558][367]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightHand' 
+[2026.01.31-14.20.37:558][367]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftUpLeg' 
+[2026.01.31-14.20.37:558][367]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftLeg' 
+[2026.01.31-14.20.37:558][367]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftFoot' 
+[2026.01.31-14.20.37:558][367]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightUpLeg' 
+[2026.01.31-14.20.37:558][367]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightLeg' 
+[2026.01.31-14.20.37:558][367]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightFoot' 
+[2026.01.31-14.20.37:558][367]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Ribbon2' 
+[2026.01.31-14.20.37:559][367]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Hips' 
+[2026.01.31-14.20.37:559][367]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Spine1' 
+[2026.01.31-14.20.37:559][367]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Spine2' 
+[2026.01.31-14.20.37:559][367]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Head' 
+[2026.01.31-14.20.37:559][367]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftArm' 
+[2026.01.31-14.20.37:559][367]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftForeArm' 
+[2026.01.31-14.20.37:559][367]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftHand' 
+[2026.01.31-14.20.37:559][367]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightArm' 
+[2026.01.31-14.20.37:559][367]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightForeArm' 
+[2026.01.31-14.20.37:559][367]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightHand' 
+[2026.01.31-14.20.37:559][367]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftUpLeg' 
+[2026.01.31-14.20.37:559][367]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftLeg' 
+[2026.01.31-14.20.37:559][367]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftFoot' 
+[2026.01.31-14.20.37:559][367]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightUpLeg' 
+[2026.01.31-14.20.37:559][367]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightLeg' 
+[2026.01.31-14.20.37:559][367]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightFoot' 
+[2026.01.31-14.20.37:559][367]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Ribbon2' 
+[2026.01.31-14.20.37:610][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.01.31-14.20.38:391][390]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.31-14.20.38:468][390]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Project/01_Blueprints/Enemies/BP_Enemy_Mage] ([2] browsable assets)...
+[2026.01.31-14.20.38:502][390]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Project/01_Blueprints/Enemies/BP_Enemy_Mage.BP_Enemy_Mage]
+[2026.01.31-14.20.38:502][390]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/01_Blueprints/Enemies/BP_Enemy_Mage]
+[2026.01.31-14.20.38:541][390]LogSavePackage: Moving output files for package: /Game/_Project/01_Blueprints/Enemies/BP_Enemy_Mage
+[2026.01.31-14.20.38:543][390]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/BP_Enemy_Mage3856D4514B13AED65955408CC0138F0D.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Content/_Project/01_Blueprints/Enemies/BP_Enemy_Mage.uasset'
+[2026.01.31-14.20.38:557][390]LogFileHelpers: InternalPromptForCheckoutAndSave took 166.134 ms (total: 10.4 sec)
+[2026.01.31-14.20.38:645][390]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.31-14.20.38:645][390]LogContentValidation: Enabled validators:
+[2026.01.31-14.20.38:645][390]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.31-14.20.38:645][390]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.31-14.20.38:645][390]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.31-14.20.38:645][390]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.31-14.20.38:645][390]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.31-14.20.38:645][390]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.31-14.20.38:645][390]AssetCheck: /Game/_Project/01_Blueprints/Enemies/BP_Enemy_Mage Validating asset
+[2026.01.31-14.21.58:053][619]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Hips' 
+[2026.01.31-14.21.58:053][619]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Spine1' 
+[2026.01.31-14.21.58:053][619]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Spine2' 
+[2026.01.31-14.21.58:053][619]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Head' 
+[2026.01.31-14.21.58:053][619]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftArm' 
+[2026.01.31-14.21.58:053][619]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftForeArm' 
+[2026.01.31-14.21.58:053][619]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftHand' 
+[2026.01.31-14.21.58:053][619]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightArm' 
+[2026.01.31-14.21.58:053][619]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightForeArm' 
+[2026.01.31-14.21.58:053][619]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightHand' 
+[2026.01.31-14.21.58:053][619]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftUpLeg' 
+[2026.01.31-14.21.58:053][619]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftLeg' 
+[2026.01.31-14.21.58:053][619]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftFoot' 
+[2026.01.31-14.21.58:053][619]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightUpLeg' 
+[2026.01.31-14.21.58:053][619]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightLeg' 
+[2026.01.31-14.21.58:053][619]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightFoot' 
+[2026.01.31-14.21.58:053][619]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Ribbon2' 
+[2026.01.31-14.21.58:055][619]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Hips' 
+[2026.01.31-14.21.58:055][619]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Spine1' 
+[2026.01.31-14.21.58:055][619]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Spine2' 
+[2026.01.31-14.21.58:055][619]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Head' 
+[2026.01.31-14.21.58:055][619]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftArm' 
+[2026.01.31-14.21.58:055][619]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftForeArm' 
+[2026.01.31-14.21.58:055][619]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftHand' 
+[2026.01.31-14.21.58:055][619]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightArm' 
+[2026.01.31-14.21.58:055][619]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightForeArm' 
+[2026.01.31-14.21.58:055][619]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightHand' 
+[2026.01.31-14.21.58:055][619]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftUpLeg' 
+[2026.01.31-14.21.58:055][619]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftLeg' 
+[2026.01.31-14.21.58:055][619]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftFoot' 
+[2026.01.31-14.21.58:055][619]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightUpLeg' 
+[2026.01.31-14.21.58:055][619]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightLeg' 
+[2026.01.31-14.21.58:055][619]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightFoot' 
+[2026.01.31-14.21.58:055][619]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Ribbon2' 
+[2026.01.31-14.21.58:116][619]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.01.31-14.21.58:824][637]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.31-14.21.58:899][637]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Project/01_Blueprints/Enemies/BP_Enemy_Mage] ([2] browsable assets)...
+[2026.01.31-14.21.58:933][637]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Project/01_Blueprints/Enemies/BP_Enemy_Mage.BP_Enemy_Mage]
+[2026.01.31-14.21.58:933][637]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/01_Blueprints/Enemies/BP_Enemy_Mage]
+[2026.01.31-14.21.58:977][637]LogSavePackage: Moving output files for package: /Game/_Project/01_Blueprints/Enemies/BP_Enemy_Mage
+[2026.01.31-14.21.58:978][637]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/BP_Enemy_MageB965057E423096A3A041F6B1DE019B80.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Content/_Project/01_Blueprints/Enemies/BP_Enemy_Mage.uasset'
+[2026.01.31-14.21.58:991][637]LogFileHelpers: InternalPromptForCheckoutAndSave took 168.193 ms (total: 10.6 sec)
+[2026.01.31-14.21.59:076][637]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.31-14.21.59:077][637]LogContentValidation: Enabled validators:
+[2026.01.31-14.21.59:077][637]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.31-14.21.59:077][637]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.31-14.21.59:077][637]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.31-14.21.59:077][637]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.31-14.21.59:077][637]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.31-14.21.59:077][637]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.31-14.21.59:077][637]AssetCheck: /Game/_Project/01_Blueprints/Enemies/BP_Enemy_Mage Validating asset
+[2026.01.31-14.22.00:503][705]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.31-14.22.00:510][705]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.31-14.22.00:510][705]LogPlayLevel: Creating play world package: /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.31-14.22.00:554][705]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044567s)
+[2026.01.31-14.22.00:554][705]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Project/00_Maps/Map_Game.Map_Game to /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game (0.044614s)
+[2026.01.31-14.22.00:583][705]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.01.31-14.22.00:591][705]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Game
+[2026.01.31-14.22.00:593][705]LogPlayLevel: PIE: World Init took: (0.002055s)
+[2026.01.31-14.22.00:594][705]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2026.01.31-14.22.00:594][705]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.31-14.22.00:594][705]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.31-14.22.00:594][705]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.31-14.22.00:594][705]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.31-14.22.00:594][705]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.31-14.22.00:594][705]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.31-14.22.00:594][705]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.31-14.22.00:594][705]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.31-14.22.00:594][705]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.31-14.22.00:594][705]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.31-14.22.00:594][705]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.31-14.22.00:596][705]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.31-14.22.00:626][705]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2026.01.31-14.22.00:626][705]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.31-14.22.00:626][705]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.31-14.22.00:626][705]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.31-14.22.00:626][705]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2026.01.31-14.22.00:626][705]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=22
+[2026.01.31-14.22.00:631][705]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2026.01.31-14.22.00:631][705]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2026.01.31-14.22.00:631][705]LogInit: FAudioDevice initialized with ID 22.
+[2026.01.31-14.22.00:631][705]LogAudio: Display: Audio Device (ID: 22) registered with world 'Map_Game'.
+[2026.01.31-14.22.00:631][705]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2026.01.31-14.22.00:635][705]LogLoad: Game class is 'BP_GM_Game_C'
+[2026.01.31-14.22.00:637][705]LogWorld: Bringing World /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game up for play (max tick rate 60) at 2026.01.31-15.22.00
+[2026.01.31-14.22.00:638][705]LogWorld: Bringing up level for play took: 0.003011
+[2026.01.31-14.22.00:641][705]LogOnline: OSS: Created online subsystem instance for: :Context_72
+[2026.01.31-14.22.00:645][705]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.01.31-14.22.00:646][705]PIE: Server logged in
+[2026.01.31-14.22.00:648][705]PIE: Play in editor total start time 0,14 seconds.
+[2026.01.31-14.22.00:721][706]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.31-14.22.00:791][707]LogPSOHitching: Encountered 1800 PSO creation hitches so far (837 graphics, 963 compute). 0 of them were precached.
+[2026.01.31-14.22.04:204][904]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] KillAll pressed
+[2026.01.31-14.22.04:204][904]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_0] Damage 1000.0
+[2026.01.31-14.22.04:204][904]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_1] Damage 1000.0
+[2026.01.31-14.22.04:205][904]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_2] Damage 1000.0
+[2026.01.31-14.22.04:205][904]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_3] Damage 1000.0
+[2026.01.31-14.22.04:205][904]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_4] Damage 1000.0
+[2026.01.31-14.22.04:205][904]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_5] Damage 1000.0
+[2026.01.31-14.22.10:887][303]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2026.01.31-14.22.10:887][303]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.01.31-14.22.10:887][303]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2026.01.31-14.22.11:900][364]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.01.31-14.22.11:900][364]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.01.31-14.22.50:465][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.31-14.22.50:465][672]LogWorld: BeginTearingDown for /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.31-14.22.50:465][672]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.01.31-14.22.50:465][672]LogWorld: UWorld::CleanupWorld for Map_Game, bSessionEnded=true, bCleanupResources=true
+[2026.01.31-14.22.50:466][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.31-14.22.50:470][672]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.31-14.22.50:479][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.31-14.22.50:506][672]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.31-14.22.50:506][672]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2026.01.31-14.22.50:506][672]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=4
+[2026.01.31-14.22.50:508][672]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=2
+[2026.01.31-14.22.50:517][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.31-14.22.50:521][672]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2026.01.31-14.22.50:633][673]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2026.01.31-14.23.58:719][685]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.31-14.23.58:799][685]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Project/01_Blueprints/Enemies/BP_Enemy_Mage] ([2] browsable assets)...
+[2026.01.31-14.23.58:799][685]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/01_Blueprints/Enemies/BP_Enemy_Mage]
+[2026.01.31-14.23.58:841][685]LogSavePackage: Moving output files for package: /Game/_Project/01_Blueprints/Enemies/BP_Enemy_Mage
+[2026.01.31-14.23.58:842][685]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/BP_Enemy_Mage8CE02DB1483A9DC1B58299A75A73BB2B.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Content/_Project/01_Blueprints/Enemies/BP_Enemy_Mage.uasset'
+[2026.01.31-14.23.58:893][685]LogFileHelpers: InternalPromptForCheckoutAndSave took 173.916 ms (total: 10.7 sec)
+[2026.01.31-14.23.59:034][685]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.31-14.23.59:034][685]LogContentValidation: Enabled validators:
+[2026.01.31-14.23.59:034][685]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.31-14.23.59:034][685]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.31-14.23.59:034][685]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.31-14.23.59:034][685]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.31-14.23.59:034][685]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.31-14.23.59:034][685]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.31-14.23.59:034][685]AssetCheck: /Game/_Project/01_Blueprints/Enemies/BP_Enemy_Mage Validating asset
+[2026.01.31-14.24.32:217][ 38]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Hips' 
+[2026.01.31-14.24.32:217][ 38]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Spine1' 
+[2026.01.31-14.24.32:217][ 38]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Spine2' 
+[2026.01.31-14.24.32:217][ 38]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Head' 
+[2026.01.31-14.24.32:217][ 38]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftArm' 
+[2026.01.31-14.24.32:217][ 38]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftForeArm' 
+[2026.01.31-14.24.32:217][ 38]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftHand' 
+[2026.01.31-14.24.32:217][ 38]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightArm' 
+[2026.01.31-14.24.32:217][ 38]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightForeArm' 
+[2026.01.31-14.24.32:217][ 38]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightHand' 
+[2026.01.31-14.24.32:217][ 38]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftUpLeg' 
+[2026.01.31-14.24.32:217][ 38]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftLeg' 
+[2026.01.31-14.24.32:217][ 38]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftFoot' 
+[2026.01.31-14.24.32:217][ 38]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightUpLeg' 
+[2026.01.31-14.24.32:217][ 38]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightLeg' 
+[2026.01.31-14.24.32:217][ 38]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightFoot' 
+[2026.01.31-14.24.32:217][ 38]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Ribbon2' 
+[2026.01.31-14.24.32:218][ 38]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Hips' 
+[2026.01.31-14.24.32:218][ 38]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Spine1' 
+[2026.01.31-14.24.32:218][ 38]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Spine2' 
+[2026.01.31-14.24.32:218][ 38]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Head' 
+[2026.01.31-14.24.32:218][ 38]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftArm' 
+[2026.01.31-14.24.32:219][ 38]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftForeArm' 
+[2026.01.31-14.24.32:219][ 38]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftHand' 
+[2026.01.31-14.24.32:219][ 38]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightArm' 
+[2026.01.31-14.24.32:219][ 38]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightForeArm' 
+[2026.01.31-14.24.32:219][ 38]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightHand' 
+[2026.01.31-14.24.32:219][ 38]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftUpLeg' 
+[2026.01.31-14.24.32:219][ 38]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftLeg' 
+[2026.01.31-14.24.32:219][ 38]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftFoot' 
+[2026.01.31-14.24.32:219][ 38]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightUpLeg' 
+[2026.01.31-14.24.32:219][ 38]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightLeg' 
+[2026.01.31-14.24.32:219][ 38]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightFoot' 
+[2026.01.31-14.24.32:219][ 38]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Ribbon2' 
+[2026.01.31-14.24.32:280][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.01.31-14.24.35:112][148]LogEditorTransaction: Undo Delete current selection
+[2026.01.31-14.24.39:866][327]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Hips' 
+[2026.01.31-14.24.39:866][327]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Spine1' 
+[2026.01.31-14.24.39:866][327]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Spine2' 
+[2026.01.31-14.24.39:866][327]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Head' 
+[2026.01.31-14.24.39:866][327]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftArm' 
+[2026.01.31-14.24.39:866][327]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftForeArm' 
+[2026.01.31-14.24.39:866][327]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftHand' 
+[2026.01.31-14.24.39:866][327]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightArm' 
+[2026.01.31-14.24.39:866][327]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightForeArm' 
+[2026.01.31-14.24.39:866][327]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightHand' 
+[2026.01.31-14.24.39:866][327]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftUpLeg' 
+[2026.01.31-14.24.39:866][327]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftLeg' 
+[2026.01.31-14.24.39:866][327]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftFoot' 
+[2026.01.31-14.24.39:866][327]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightUpLeg' 
+[2026.01.31-14.24.39:866][327]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightLeg' 
+[2026.01.31-14.24.39:866][327]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightFoot' 
+[2026.01.31-14.24.39:866][327]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Ribbon2' 
+[2026.01.31-14.24.39:867][327]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Hips' 
+[2026.01.31-14.24.39:867][327]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Spine1' 
+[2026.01.31-14.24.39:867][327]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Spine2' 
+[2026.01.31-14.24.39:867][327]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Head' 
+[2026.01.31-14.24.39:867][327]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftArm' 
+[2026.01.31-14.24.39:867][327]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftForeArm' 
+[2026.01.31-14.24.39:867][327]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftHand' 
+[2026.01.31-14.24.39:867][327]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightArm' 
+[2026.01.31-14.24.39:867][327]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightForeArm' 
+[2026.01.31-14.24.39:867][327]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightHand' 
+[2026.01.31-14.24.39:867][327]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftUpLeg' 
+[2026.01.31-14.24.39:867][327]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftLeg' 
+[2026.01.31-14.24.39:867][327]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftFoot' 
+[2026.01.31-14.24.39:867][327]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightUpLeg' 
+[2026.01.31-14.24.39:867][327]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightLeg' 
+[2026.01.31-14.24.39:867][327]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightFoot' 
+[2026.01.31-14.24.39:867][327]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Ribbon2' 
+[2026.01.31-14.24.39:926][327]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2026.01.31-14.24.40:472][342]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.31-14.24.40:543][342]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Project/01_Blueprints/Enemies/BP_Enemy_Mage] ([2] browsable assets)...
+[2026.01.31-14.24.40:596][342]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Project/01_Blueprints/Enemies/BP_Enemy_Mage.BP_Enemy_Mage]
+[2026.01.31-14.24.40:596][342]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/01_Blueprints/Enemies/BP_Enemy_Mage]
+[2026.01.31-14.24.40:635][342]LogSavePackage: Moving output files for package: /Game/_Project/01_Blueprints/Enemies/BP_Enemy_Mage
+[2026.01.31-14.24.40:636][342]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/BP_Enemy_Mage4A32452A41E437EA3A4DC9A79F712193.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Content/_Project/01_Blueprints/Enemies/BP_Enemy_Mage.uasset'
+[2026.01.31-14.24.40:649][342]LogFileHelpers: InternalPromptForCheckoutAndSave took 177.713 ms (total: 10.9 sec)
+[2026.01.31-14.24.40:739][342]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.31-14.24.40:740][342]LogContentValidation: Enabled validators:
+[2026.01.31-14.24.40:740][342]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.31-14.24.40:740][342]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.31-14.24.40:740][342]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.31-14.24.40:740][342]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.31-14.24.40:740][342]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.31-14.24.40:740][342]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.31-14.24.40:740][342]AssetCheck: /Game/_Project/01_Blueprints/Enemies/BP_Enemy_Mage Validating asset
+[2026.01.31-14.24.42:526][428]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.31-14.24.42:534][428]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.31-14.24.42:534][428]LogPlayLevel: Creating play world package: /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.31-14.24.42:580][428]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046992s)
+[2026.01.31-14.24.42:581][428]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Project/00_Maps/Map_Game.Map_Game to /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game (0.047039s)
+[2026.01.31-14.24.42:610][428]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.01.31-14.24.42:619][428]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Game
+[2026.01.31-14.24.42:620][428]LogPlayLevel: PIE: World Init took: (0.001680s)
+[2026.01.31-14.24.42:621][428]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2026.01.31-14.24.42:621][428]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.31-14.24.42:621][428]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.31-14.24.42:621][428]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.31-14.24.42:621][428]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.31-14.24.42:621][428]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.31-14.24.42:621][428]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.31-14.24.42:621][428]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.31-14.24.42:621][428]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.31-14.24.42:621][428]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.31-14.24.42:621][428]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.31-14.24.42:621][428]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.31-14.24.42:623][428]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.31-14.24.42:656][428]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2026.01.31-14.24.42:656][428]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.31-14.24.42:656][428]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.31-14.24.42:656][428]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.31-14.24.42:658][428]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2026.01.31-14.24.42:658][428]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=23
+[2026.01.31-14.24.42:662][428]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2026.01.31-14.24.42:662][428]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2026.01.31-14.24.42:662][428]LogInit: FAudioDevice initialized with ID 23.
+[2026.01.31-14.24.42:662][428]LogAudio: Display: Audio Device (ID: 23) registered with world 'Map_Game'.
+[2026.01.31-14.24.42:662][428]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2026.01.31-14.24.42:667][428]LogLoad: Game class is 'BP_GM_Game_C'
+[2026.01.31-14.24.42:669][428]LogWorld: Bringing World /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game up for play (max tick rate 60) at 2026.01.31-15.24.42
+[2026.01.31-14.24.42:669][428]LogWorld: Bringing up level for play took: 0.002535
+[2026.01.31-14.24.42:672][428]LogOnline: OSS: Created online subsystem instance for: :Context_73
+[2026.01.31-14.24.42:674][428]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.01.31-14.24.42:675][428]PIE: Server logged in
+[2026.01.31-14.24.42:678][428]PIE: Play in editor total start time 0,145 seconds.
+[2026.01.31-14.24.42:769][429]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.31-14.24.42:890][430]LogPSOHitching: Encountered 1850 PSO creation hitches so far (857 graphics, 993 compute). 0 of them were precached.
+[2026.01.31-14.24.46:855][662]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] KillAll pressed
+[2026.01.31-14.24.46:857][662]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_0] Damage 1000.0
+[2026.01.31-14.24.46:857][662]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_1] Damage 1000.0
+[2026.01.31-14.24.46:857][662]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_2] Damage 1000.0
+[2026.01.31-14.24.46:857][662]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_3] Damage 1000.0
+[2026.01.31-14.24.46:857][662]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_4] Damage 1000.0
+[2026.01.31-14.24.46:857][662]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_5] Damage 1000.0
+[2026.01.31-14.24.53:118][ 36]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2026.01.31-14.24.53:118][ 36]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.01.31-14.24.53:118][ 36]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2026.01.31-14.24.55:699][191]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.01.31-14.24.55:700][191]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.01.31-14.26.06:114][405]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.31-14.26.06:114][405]LogWorld: BeginTearingDown for /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.31-14.26.06:114][405]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.01.31-14.26.06:115][405]LogWorld: UWorld::CleanupWorld for Map_Game, bSessionEnded=true, bCleanupResources=true
+[2026.01.31-14.26.06:116][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.31-14.26.06:120][405]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.31-14.26.06:125][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.31-14.26.06:156][405]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.31-14.26.06:156][405]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2026.01.31-14.26.06:156][405]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=4
+[2026.01.31-14.26.06:158][405]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=2
+[2026.01.31-14.26.06:165][405]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.31-14.26.06:169][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.01.31-14.26.06:280][406]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2026.01.31-14.26.11:799][628]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15835.185547
+[2026.01.31-14.26.12:102][639]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.31-14.26.12:102][639]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15835.461914, Update Interval: 327.604004
+[2026.01.31-14.28.40:943][102]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.01.31-14.28.40:943][102]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.01.31-14.29.06:928][979]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.01.31-14.29.06:928][979]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.01.31-14.29.09:335][ 50]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2026.01.31-14.29.09:432][ 51]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2026.01.31-14.29.30:112][694]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Hips' 
+[2026.01.31-14.29.30:112][694]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Spine1' 
+[2026.01.31-14.29.30:112][694]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Spine2' 
+[2026.01.31-14.29.30:112][694]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Head' 
+[2026.01.31-14.29.30:112][694]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftArm' 
+[2026.01.31-14.29.30:112][694]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftForeArm' 
+[2026.01.31-14.29.30:112][694]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftHand' 
+[2026.01.31-14.29.30:112][694]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightArm' 
+[2026.01.31-14.29.30:112][694]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightForeArm' 
+[2026.01.31-14.29.30:112][694]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightHand' 
+[2026.01.31-14.29.30:112][694]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftUpLeg' 
+[2026.01.31-14.29.30:112][694]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftLeg' 
+[2026.01.31-14.29.30:113][694]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftFoot' 
+[2026.01.31-14.29.30:113][694]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightUpLeg' 
+[2026.01.31-14.29.30:113][694]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightLeg' 
+[2026.01.31-14.29.30:113][694]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightFoot' 
+[2026.01.31-14.29.30:113][694]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Ribbon2' 
+[2026.01.31-14.29.30:114][694]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Hips' 
+[2026.01.31-14.29.30:114][694]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Spine1' 
+[2026.01.31-14.29.30:114][694]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Spine2' 
+[2026.01.31-14.29.30:114][694]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Head' 
+[2026.01.31-14.29.30:114][694]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftArm' 
+[2026.01.31-14.29.30:114][694]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftForeArm' 
+[2026.01.31-14.29.30:114][694]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftHand' 
+[2026.01.31-14.29.30:114][694]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightArm' 
+[2026.01.31-14.29.30:114][694]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightForeArm' 
+[2026.01.31-14.29.30:114][694]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightHand' 
+[2026.01.31-14.29.30:114][694]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftUpLeg' 
+[2026.01.31-14.29.30:114][694]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftLeg' 
+[2026.01.31-14.29.30:114][694]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftFoot' 
+[2026.01.31-14.29.30:114][694]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightUpLeg' 
+[2026.01.31-14.29.30:114][694]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightLeg' 
+[2026.01.31-14.29.30:114][694]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightFoot' 
+[2026.01.31-14.29.30:114][694]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Ribbon2' 
+[2026.01.31-14.29.30:182][694]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2026.01.31-14.29.30:770][705]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.31-14.29.30:858][705]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Project/01_Blueprints/Enemies/BP_Enemy_Mage] ([2] browsable assets)...
+[2026.01.31-14.29.30:896][705]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Project/01_Blueprints/Enemies/BP_Enemy_Mage.BP_Enemy_Mage]
+[2026.01.31-14.29.30:896][705]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/01_Blueprints/Enemies/BP_Enemy_Mage]
+[2026.01.31-14.29.30:935][705]LogSavePackage: Moving output files for package: /Game/_Project/01_Blueprints/Enemies/BP_Enemy_Mage
+[2026.01.31-14.29.30:936][705]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/BP_Enemy_Mage3196F2134CC40AD1A1E092AE6F043B81.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Content/_Project/01_Blueprints/Enemies/BP_Enemy_Mage.uasset'
+[2026.01.31-14.29.30:954][705]LogFileHelpers: InternalPromptForCheckoutAndSave took 183.715 ms (total: 11.1 sec)
+[2026.01.31-14.29.31:054][705]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.31-14.29.31:054][705]LogContentValidation: Enabled validators:
+[2026.01.31-14.29.31:054][705]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.31-14.29.31:054][705]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.31-14.29.31:054][705]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.31-14.29.31:054][705]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.31-14.29.31:054][705]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.31-14.29.31:054][705]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.31-14.29.31:054][705]AssetCheck: /Game/_Project/01_Blueprints/Enemies/BP_Enemy_Mage Validating asset
+[2026.01.31-14.29.33:109][793]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.31-14.29.33:118][793]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.31-14.29.33:118][793]LogPlayLevel: Creating play world package: /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.31-14.29.33:171][793]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052489s)
+[2026.01.31-14.29.33:171][793]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Project/00_Maps/Map_Game.Map_Game to /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game (0.052572s)
+[2026.01.31-14.29.33:206][793]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.01.31-14.29.33:211][793]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Game
+[2026.01.31-14.29.33:213][793]LogPlayLevel: PIE: World Init took: (0.002019s)
+[2026.01.31-14.29.33:214][793]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2026.01.31-14.29.33:214][793]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.31-14.29.33:214][793]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.31-14.29.33:214][793]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.31-14.29.33:214][793]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.31-14.29.33:214][793]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.31-14.29.33:214][793]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.31-14.29.33:214][793]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.31-14.29.33:214][793]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.31-14.29.33:214][793]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.31-14.29.33:214][793]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.31-14.29.33:214][793]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.31-14.29.33:216][793]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.31-14.29.33:250][793]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2026.01.31-14.29.33:250][793]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.31-14.29.33:250][793]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.31-14.29.33:250][793]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.31-14.29.33:252][793]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2026.01.31-14.29.33:252][793]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=24
+[2026.01.31-14.29.33:253][793]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2026.01.31-14.29.33:253][793]LogInit: FAudioDevice initialized with ID 24.
+[2026.01.31-14.29.33:253][793]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2026.01.31-14.29.33:253][793]LogAudio: Display: Audio Device (ID: 24) registered with world 'Map_Game'.
+[2026.01.31-14.29.33:253][793]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2026.01.31-14.29.33:258][793]LogLoad: Game class is 'BP_GM_Game_C'
+[2026.01.31-14.29.33:261][793]LogWorld: Bringing World /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game up for play (max tick rate 60) at 2026.01.31-15.29.33
+[2026.01.31-14.29.33:261][793]LogWorld: Bringing up level for play took: 0.002747
+[2026.01.31-14.29.33:263][793]LogOnline: OSS: Created online subsystem instance for: :Context_74
+[2026.01.31-14.29.33:268][793]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.01.31-14.29.33:269][793]PIE: Server logged in
+[2026.01.31-14.29.33:272][793]PIE: Play in editor total start time 0,154 seconds.
+[2026.01.31-14.29.33:316][794]LogPSOHitching: Encountered 1900 PSO creation hitches so far (884 graphics, 1016 compute). 0 of them were precached.
+[2026.01.31-14.29.33:347][794]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.31-14.29.38:549][ 77]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] KillAll pressed
+[2026.01.31-14.29.38:550][ 77]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_0] Damage 1000.0
+[2026.01.31-14.29.38:550][ 77]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_1] Damage 1000.0
+[2026.01.31-14.29.38:551][ 77]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_2] Damage 1000.0
+[2026.01.31-14.29.38:551][ 77]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_3] Damage 1000.0
+[2026.01.31-14.29.38:551][ 77]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_4] Damage 1000.0
+[2026.01.31-14.29.38:551][ 77]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_5] Damage 1000.0
+[2026.01.31-14.29.43:623][374]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2026.01.31-14.29.43:623][374]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.01.31-14.29.43:623][374]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2026.01.31-14.29.45:382][479]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.01.31-14.29.45:382][479]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.01.31-14.30.11:266][964]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.31-14.30.11:266][964]LogWorld: BeginTearingDown for /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.31-14.30.11:266][964]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.01.31-14.30.11:266][964]LogWorld: UWorld::CleanupWorld for Map_Game, bSessionEnded=true, bCleanupResources=true
+[2026.01.31-14.30.11:268][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.31-14.30.11:273][964]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.31-14.30.11:280][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.31-14.30.11:319][964]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.31-14.30.11:320][964]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2026.01.31-14.30.11:320][964]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24, StreamState=4
+[2026.01.31-14.30.11:323][964]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24, StreamState=2
+[2026.01.31-14.30.11:331][964]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.31-14.30.11:336][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2026.01.31-14.30.11:416][965]LogPlayLevel: Display: Destroying online subsystem :Context_74
+[2026.01.31-14.30.44:413][854]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Hips' 
+[2026.01.31-14.30.44:413][854]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Spine1' 
+[2026.01.31-14.30.44:413][854]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Spine2' 
+[2026.01.31-14.30.44:413][854]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Head' 
+[2026.01.31-14.30.44:413][854]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftArm' 
+[2026.01.31-14.30.44:413][854]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftForeArm' 
+[2026.01.31-14.30.44:413][854]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftHand' 
+[2026.01.31-14.30.44:413][854]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightArm' 
+[2026.01.31-14.30.44:413][854]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightForeArm' 
+[2026.01.31-14.30.44:413][854]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightHand' 
+[2026.01.31-14.30.44:413][854]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftUpLeg' 
+[2026.01.31-14.30.44:413][854]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftLeg' 
+[2026.01.31-14.30.44:413][854]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftFoot' 
+[2026.01.31-14.30.44:413][854]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightUpLeg' 
+[2026.01.31-14.30.44:413][854]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightLeg' 
+[2026.01.31-14.30.44:413][854]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightFoot' 
+[2026.01.31-14.30.44:413][854]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Ribbon2' 
+[2026.01.31-14.30.44:414][854]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Hips' 
+[2026.01.31-14.30.44:414][854]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Spine1' 
+[2026.01.31-14.30.44:414][854]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Spine2' 
+[2026.01.31-14.30.44:414][854]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Head' 
+[2026.01.31-14.30.44:414][854]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftArm' 
+[2026.01.31-14.30.44:414][854]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftForeArm' 
+[2026.01.31-14.30.44:414][854]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftHand' 
+[2026.01.31-14.30.44:414][854]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightArm' 
+[2026.01.31-14.30.44:414][854]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightForeArm' 
+[2026.01.31-14.30.44:414][854]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightHand' 
+[2026.01.31-14.30.44:414][854]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftUpLeg' 
+[2026.01.31-14.30.44:414][854]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftLeg' 
+[2026.01.31-14.30.44:414][854]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'LeftFoot' 
+[2026.01.31-14.30.44:414][854]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightUpLeg' 
+[2026.01.31-14.30.44:415][854]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightLeg' 
+[2026.01.31-14.30.44:415][854]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'RightFoot' 
+[2026.01.31-14.30.44:415][854]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Enemy_Mage_C_0 /Engine/Transient.World_48:PersistentLevel.BP_Enemy_Mage_C_0.CharacterMesh0 Bone: 'Ribbon2' 
+[2026.01.31-14.30.44:478][854]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.01.31-14.30.46:734][930]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.31-14.30.46:741][930]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.31-14.30.46:743][930]LogPlayLevel: Creating play world package: /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.31-14.30.46:797][930]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054483s)
+[2026.01.31-14.30.46:798][930]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Project/00_Maps/Map_Game.Map_Game to /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game (0.054546s)
+[2026.01.31-14.30.46:836][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.01.31-14.30.46:843][930]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Game
+[2026.01.31-14.30.46:846][930]LogPlayLevel: PIE: World Init took: (0.002406s)
+[2026.01.31-14.30.46:846][930]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2026.01.31-14.30.46:846][930]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.31-14.30.46:846][930]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.31-14.30.46:846][930]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.31-14.30.46:846][930]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.31-14.30.46:847][930]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.31-14.30.46:847][930]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.31-14.30.46:847][930]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.31-14.30.46:847][930]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.31-14.30.46:847][930]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.31-14.30.46:847][930]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.31-14.30.46:847][930]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.31-14.30.46:849][930]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.31-14.30.46:882][930]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2026.01.31-14.30.46:882][930]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.31-14.30.46:882][930]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.31-14.30.46:882][930]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.31-14.30.46:883][930]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2026.01.31-14.30.46:883][930]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=25
+[2026.01.31-14.30.46:885][930]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2026.01.31-14.30.46:885][930]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2026.01.31-14.30.46:885][930]LogInit: FAudioDevice initialized with ID 25.
+[2026.01.31-14.30.46:885][930]LogAudio: Display: Audio Device (ID: 25) registered with world 'Map_Game'.
+[2026.01.31-14.30.46:885][930]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2026.01.31-14.30.46:889][930]LogLoad: Game class is 'BP_GM_Game_C'
+[2026.01.31-14.30.46:892][930]LogWorld: Bringing World /Game/_Project/00_Maps/UEDPIE_0_Map_Game.Map_Game up for play (max tick rate 60) at 2026.01.31-15.30.46
+[2026.01.31-14.30.46:892][930]LogWorld: Bringing up level for play took: 0.002800
+[2026.01.31-14.30.46:895][930]LogOnline: OSS: Created online subsystem instance for: :Context_75
+[2026.01.31-14.30.46:900][930]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.01.31-14.30.46:902][930]PIE: Server logged in
+[2026.01.31-14.30.46:905][930]PIE: Play in editor total start time 0,163 seconds.
+[2026.01.31-14.30.46:965][931]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.31-14.30.51:739][189]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] KillAll pressed
+[2026.01.31-14.30.51:739][189]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_0] Damage 1000.0
+[2026.01.31-14.30.51:740][189]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_1] Damage 1000.0
+[2026.01.31-14.30.51:740][189]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_2] Damage 1000.0
+[2026.01.31-14.30.51:740][189]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_3] Damage 1000.0
+[2026.01.31-14.30.51:741][189]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_4] Damage 1000.0
+[2026.01.31-14.30.51:741][189]LogBlueprintUserMessages: [BP_Enemy_Goblin_C_5] Damage 1000.0
+[2026.01.31-14.30.57:826][526]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2026.01.31-14.30.57:826][526]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.01.31-14.30.57:826][526]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2026.01.31-14.30.58:692][577]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.01.31-14.30.58:693][577]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.01.31-14.31.21:817][855]LogBlueprintUserMessages: [BP_Enemy_Mage_C_0] Damage 45.0
+[2026.01.31-14.31.43:311][ 84]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] No Stamina
+[2026.01.31-14.31.45:803][228]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] KillAll pressed
+[2026.01.31-14.31.45:803][228]LogBlueprintUserMessages: [BP_Enemy_Mage_C_0] Damage 1000.0
+[2026.01.31-14.31.48:802][396]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2026.01.31-14.31.48:802][396]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.01.31-14.31.48:803][396]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2026.01.31-14.31.50:324][483]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2026.01.31-14.31.51:725][564]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.31-14.31.51:725][564]LogWorld: BeginTearingDown for /Game/_Project/00_Maps/UEDPIE_0_Map_Game
+[2026.01.31-14.31.51:725][564]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.01.31-14.31.51:725][564]LogWorld: UWorld::CleanupWorld for Map_Game, bSessionEnded=true, bCleanupResources=true
+[2026.01.31-14.31.51:726][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.31-14.31.51:730][564]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.31-14.31.51:737][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.31-14.31.51:774][564]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.31-14.31.51:774][564]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2026.01.31-14.31.51:774][564]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25, StreamState=4
+[2026.01.31-14.31.51:777][564]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25, StreamState=2
+[2026.01.31-14.31.51:784][564]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.31-14.31.51:789][564]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2026.01.31-14.31.51:914][565]LogPlayLevel: Display: Destroying online subsystem :Context_75
+[2026.01.31-14.31.56:605][638]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.01.31-14.31.57:514][638]LogSlate: Window 'Save Content' being destroyed
+[2026.01.31-14.31.57:551][638]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.31-14.31.57:648][638]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Project/01_Blueprints/Enemies/BP_Enemy_Mage] ([2] browsable assets)...
+[2026.01.31-14.31.57:696][638]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Project/01_Blueprints/Enemies/BP_Enemy_Mage.BP_Enemy_Mage]
+[2026.01.31-14.31.57:696][638]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Project/01_Blueprints/Enemies/BP_Enemy_Mage]
+[2026.01.31-14.31.57:736][638]LogSavePackage: Moving output files for package: /Game/_Project/01_Blueprints/Enemies/BP_Enemy_Mage
+[2026.01.31-14.31.57:737][638]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Saved/BP_Enemy_MageA0001886479BDF57D6AD9BA64194CCDC.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/semestr 2/Programowanie Gier/Unreal5_Game/BattleGame/Content/_Project/01_Blueprints/Enemies/BP_Enemy_Mage.uasset'
+[2026.01.31-14.31.57:750][638]LogFileHelpers: InternalPromptForCheckoutAndSave took 199.287 ms (total: 11.3 sec)
+[2026.01.31-14.31.57:842][638]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.31-14.31.57:842][638]LogContentValidation: Enabled validators:
+[2026.01.31-14.31.57:842][638]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.31-14.31.57:842][638]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.31-14.31.57:842][638]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.31-14.31.57:842][638]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.31-14.31.57:842][638]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.31-14.31.57:842][638]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.31-14.31.57:842][638]AssetCheck: /Game/_Project/01_Blueprints/Enemies/BP_Enemy_Mage Validating asset
